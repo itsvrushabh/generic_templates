@@ -11,7 +11,6 @@ Template Name: cisco_xe_show_platform.textfsm
 
 Examples
 To store the command output and filter details from textfsm module
-\_
 |- cisco_xe_show_command_name
 |-show_comand.raw
 |-show_command_1.raw
