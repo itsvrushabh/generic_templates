@@ -1,0 +1,6 @@
+Value INTERFACE (\w\w\d\/\d\/\d|\w\w\d)
+Value STATUS (\w+|\w+\s\w+)
+Value PROTOCOL (\w+)
+
+Start
+ ^${INTERFACE}\s+${STATUS}\s+${PROTOCOL} -> Record
