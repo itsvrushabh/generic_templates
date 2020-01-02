@@ -1,0 +1,10 @@
+----------------------------------------------------------------------------------------------------
+['SERVER_ADDRESS', 'SERVER_PORT', 'SOCKET_OPENS', 'SOCKET_CLOSES', 'SOCKET_ABORTS', 'SOCKET_ERRORS', 'SOCKET_TIMEOUTS', 'FAILED_CONNECT_ATTEMPTS', 'TOTAL_PACKETS_SENT', 'TOTAL_PACKETS_RECV', 'SERVER_STATUS', 'CONTINOUS_AUTHC_FAIL_COUNT', 'CONTINOUS_AUTHZ_FAIL_COUNT']
+----------------------------------------------------------------------------------------------------
+[['202.123.47.40', '49', '540', '540', '0', '0', '0', '50', '553', '299', 'Alive', '0', '2'], ['202.123.44.134', '49', '58', '58', '0', '0', '0', '165', '0', '0', 'Alive', '0', '0']]
+----------------------------------------------------------------------------------------------------
+{'SERVER_ADDRESS': '202.123.47.40', 'SERVER_PORT': '49', 'SOCKET_OPENS': '540', 'SOCKET_CLOSES': '540', 'SOCKET_ABORTS': '0', 'SOCKET_ERRORS': '0', 'SOCKET_TIMEOUTS': '0', 'FAILED_CONNECT_ATTEMPTS': '50', 'TOTAL_PACKETS_SENT': '553', 'TOTAL_PACKETS_RECV': '299', 'SERVER_STATUS': 'Alive', 'CONTINOUS_AUTHC_FAIL_COUNT': '0', 'CONTINOUS_AUTHZ_FAIL_COUNT': '2'}
+{'SERVER_ADDRESS': '202.123.44.134', 'SERVER_PORT': '49', 'SOCKET_OPENS': '58', 'SOCKET_CLOSES': '58', 'SOCKET_ABORTS': '0', 'SOCKET_ERRORS': '0', 'SOCKET_TIMEOUTS': '0', 'FAILED_CONNECT_ATTEMPTS': '165', 'TOTAL_PACKETS_SENT': '0', 'TOTAL_PACKETS_RECV': '0', 'SERVER_STATUS': 'Alive', 'CONTINOUS_AUTHC_FAIL_COUNT': '0', 'CONTINOUS_AUTHZ_FAIL_COUNT': '0'}
+----------------------------------------------------------------------------------------------------
+2
+----------------------------------------------------------------------------------------------------
