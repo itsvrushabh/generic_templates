@@ -1,16 +1,114 @@
-{"SOURCE": "GigabitEthernet0/0/1", "TIME": "Sep 06 2019 00:11:00", "SEVERITY": "INFO", "SYSLOG_STRING": "ETHERNET_PORT_ADMIN_DOWN", "DESCRIPTION": "Physical Port Administrative State Down [2]"}
-{"SOURCE": "GigabitEthernet0/0/2", "TIME": "Oct 11 2019 18:41:07", "SEVERITY": "INFO", "SYSLOG_STRING": "ETHERNET_PORT_ADMIN_DOWN", "DESCRIPTION": "Physical Port Administrative State Down [2]"}
-{"SOURCE": "xcvr container 0/0/3", "TIME": "Oct 01 2019 13:35:29", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/0/4", "TIME": "Sep 06 2019 00:10:32", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/0/5", "TIME": "Sep 06 2019 00:10:32", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/0/6", "TIME": "Sep 06 2019 00:10:32", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/0/7", "TIME": "Sep 06 2019 00:10:32", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "TenGigabitEthernet0/0/8", "TIME": "Sep 06 2019 00:11:00", "SEVERITY": "INFO", "SYSLOG_STRING": "ETHERNET_PORT_ADMIN_DOWN", "DESCRIPTION": "Physical Port Administrative State Down [2]"}
-{"SOURCE": "xcvr container 0/1/1", "TIME": "Sep 06 2019 00:10:31", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/1/2", "TIME": "Sep 06 2019 00:10:31", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/1/3", "TIME": "Sep 06 2019 00:10:31", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/1/4", "TIME": "Sep 06 2019 00:10:31", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/1/5", "TIME": "Sep 06 2019 00:10:31", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/1/6", "TIME": "Sep 06 2019 00:10:31", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "xcvr container 0/1/7", "TIME": "Sep 06 2019 00:10:31", "SEVERITY": "INFO", "SYSLOG_STRING": "XCVR_MISSING", "DESCRIPTION": "Transceiver Missing [0]"}
-{"SOURCE": "TenGigabitEthernet0/1/8", "TIME": "Oct 01 2019 15:21:03", "SEVERITY": "INFO", "SYSLOG_STRING": "ETHERNET_PORT_ADMIN_DOWN", "DESCRIPTION": "Physical Port Administrative State Down [2]"}
+[
+  {
+    "SOURCE": "GigabitEthernet0/0/1",
+    "TIME": "Sep 06 2019 00:11:00",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "ETHERNET_PORT_ADMIN_DOWN",
+    "DESCRIPTION": "Physical Port Administrative State Down [2]"
+  },
+  {
+    "SOURCE": "GigabitEthernet0/0/2",
+    "TIME": "Oct 11 2019 18:41:07",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "ETHERNET_PORT_ADMIN_DOWN",
+    "DESCRIPTION": "Physical Port Administrative State Down [2]"
+  },
+  {
+    "SOURCE": "xcvr container 0/0/3",
+    "TIME": "Oct 01 2019 13:35:29",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/0/4",
+    "TIME": "Sep 06 2019 00:10:32",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/0/5",
+    "TIME": "Sep 06 2019 00:10:32",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/0/6",
+    "TIME": "Sep 06 2019 00:10:32",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/0/7",
+    "TIME": "Sep 06 2019 00:10:32",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "TenGigabitEthernet0/0/8",
+    "TIME": "Sep 06 2019 00:11:00",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "ETHERNET_PORT_ADMIN_DOWN",
+    "DESCRIPTION": "Physical Port Administrative State Down [2]"
+  },
+  {
+    "SOURCE": "xcvr container 0/1/1",
+    "TIME": "Sep 06 2019 00:10:31",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/1/2",
+    "TIME": "Sep 06 2019 00:10:31",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/1/3",
+    "TIME": "Sep 06 2019 00:10:31",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/1/4",
+    "TIME": "Sep 06 2019 00:10:31",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/1/5",
+    "TIME": "Sep 06 2019 00:10:31",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/1/6",
+    "TIME": "Sep 06 2019 00:10:31",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "xcvr container 0/1/7",
+    "TIME": "Sep 06 2019 00:10:31",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "XCVR_MISSING",
+    "DESCRIPTION": "Transceiver Missing [0]"
+  },
+  {
+    "SOURCE": "TenGigabitEthernet0/1/8",
+    "TIME": "Oct 01 2019 15:21:03",
+    "SEVERITY": "INFO",
+    "SYSLOG_STRING": "ETHERNET_PORT_ADMIN_DOWN",
+    "DESCRIPTION": "Physical Port Administrative State Down [2]"
+  }
+]

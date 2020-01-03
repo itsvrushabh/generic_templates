@@ -1,5 +1,6 @@
-from textfsm import TextFSM
 import sys
+import json
+from textfsm import TextFSM
 
 
 def f1(input_file, template_file):
@@ -15,11 +16,16 @@ def f1(input_file, template_file):
         print("-".center(100, "-"))
         print(_fsm)
         print("-".center(100, "-"))
+        data = []
         for j in [dict(zip(_header, i)) for i in _fsm]:
             print(j)
+            data.append(j)
         print("-".center(100, "-"))
         print(len(_fsm))
         print("-".center(100, "-"))
+
+        json_file = template_file.replace('.template', '.json')
+        open(json_file, 'w').write(json.dumps(data))
     except Exception as e:
         raise e
 
