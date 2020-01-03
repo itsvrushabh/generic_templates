@@ -1,0 +1,10 @@
+[{"FEATURE": "metroaggrservices", "PERIOD_LEFT": "Life time", "PERIOD_USED": "", "LICENSE_TYPE": "Permanent", "LICENSE_STATE": "Active, In Use", "LICENSE_COUNT": "Non-Counted", "LICENSE_PRIORITY": "Medium"},
+{"FEATURE": "metroipservices", "PERIOD_LEFT": "Not Activated", "PERIOD_USED": "0  minute  0  second  ", "LICENSE_TYPE": "EvalRightToUse", "LICENSE_STATE": "Active, Not in Use, EULA not accepted", "LICENSE_COUNT": "Non-Counted", "LICENSE_PRIORITY": "None"},
+{"FEATURE": "metroservices", "PERIOD_LEFT": "Not Activated", "PERIOD_USED": "0  minute  0  second  ", "LICENSE_TYPE": "EvalRightToUse", "LICENSE_STATE": "Active, Not in Use, EULA not accepted", "LICENSE_COUNT": "Non-Counted", "LICENSE_PRIORITY": "None"},
+{"FEATURE": "atm", "PERIOD_LEFT": "Not Activated", "PERIOD_USED": "0  minute  0  second  ", "LICENSE_TYPE": "EvalRightToUse", "LICENSE_STATE": "Active, Not in Use, EULA not accepted", "LICENSE_COUNT": "Non-Counted", "LICENSE_PRIORITY": "None"},
+{"FEATURE": "oc3", "PERIOD_LEFT": "Life time", "PERIOD_USED": "", "LICENSE_TYPE": "Permanent", "LICENSE_STATE": "Active, In Use", "LICENSE_COUNT": "4/4/0  (Active/In-use/Violation)", "LICENSE_PRIORITY": "Medium"},
+{"FEATURE": "oc12", "PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_TYPE": "", "LICENSE_STATE": "", "LICENSE_COUNT": "", "LICENSE_PRIORITY": ""},
+{"FEATURE": "1588", "PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_TYPE": "", "LICENSE_STATE": "", "LICENSE_COUNT": "", "LICENSE_PRIORITY": ""},
+{"FEATURE": "ipsec", "PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_TYPE": "", "LICENSE_STATE": "", "LICENSE_COUNT": "", "LICENSE_PRIORITY": ""},
+{"FEATURE": "oc48", "PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_TYPE": "", "LICENSE_STATE": "", "LICENSE_COUNT": "", "LICENSE_PRIORITY": ""},
+{"FEATURE": "oc192", "PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_TYPE": "", "LICENSE_STATE": "", "LICENSE_COUNT": "", "LICENSE_PRIORITY": ""}]
