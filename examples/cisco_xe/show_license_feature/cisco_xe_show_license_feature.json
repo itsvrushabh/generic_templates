@@ -1,0 +1,10 @@
+{'FEATURE_NAME': 'metroaggrservices', 'ENFORCEMENT': 'yes', 'EVALUATION': 'yes', 'SUBSCRIPTION': 'no', 'ENABLED': 'yes', 'RIGHTTOUSE': 'yes'}
+{'FEATURE_NAME': 'metroipservices', 'ENFORCEMENT': 'yes', 'EVALUATION': 'yes', 'SUBSCRIPTION': 'no', 'ENABLED': 'no', 'RIGHTTOUSE': 'yes'}
+{'FEATURE_NAME': 'metroservices', 'ENFORCEMENT': 'no', 'EVALUATION': 'yes', 'SUBSCRIPTION': 'no', 'ENABLED': 'no', 'RIGHTTOUSE': 'yes'}
+{'FEATURE_NAME': 'atm', 'ENFORCEMENT': 'yes', 'EVALUATION': 'yes', 'SUBSCRIPTION': 'no', 'ENABLED': 'no', 'RIGHTTOUSE': 'yes'}
+{'FEATURE_NAME': 'oc3', 'ENFORCEMENT': 'yes', 'EVALUATION': 'yes', 'SUBSCRIPTION': 'no', 'ENABLED': 'yes', 'RIGHTTOUSE': 'no'}
+{'FEATURE_NAME': 'oc12', 'ENFORCEMENT': 'yes', 'EVALUATION': 'yes', 'SUBSCRIPTION': 'no', 'ENABLED': 'no', 'RIGHTTOUSE': 'no'}
+{'FEATURE_NAME': '1588', 'ENFORCEMENT': 'yes', 'EVALUATION': 'yes', 'SUBSCRIPTION': 'no', 'ENABLED': 'no', 'RIGHTTOUSE': 'no'}
+{'FEATURE_NAME': 'ipsec', 'ENFORCEMENT': 'yes', 'EVALUATION': 'no', 'SUBSCRIPTION': 'no', 'ENABLED': 'no', 'RIGHTTOUSE': 'no'}
+{'FEATURE_NAME': 'oc48', 'ENFORCEMENT': 'yes', 'EVALUATION': 'yes', 'SUBSCRIPTION': 'no', 'ENABLED': 'no', 'RIGHTTOUSE': 'no'}
+{'FEATURE_NAME': 'oc192', 'ENFORCEMENT': 'yes', 'EVALUATION': 'yes', 'SUBSCRIPTION': 'no', 'ENABLED': 'no', 'RIGHTTOUSE': 'no'}
