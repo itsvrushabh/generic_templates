@@ -1,0 +1,8 @@
+[{"SLOT": "0/0", "TYPE": "A900-IMA8S1Z", "STATE": "ok", "INSERT_TIME": "5w5d"},
+{"SLOT": "0/1", "TYPE": "A900-IMA8S1Z", "STATE": "ok", "INSERT_TIME": "5w5d"},
+{"SLOT": "0/5", "TYPE": "A900-IMA3G-IMSG", "STATE": "ok", "INSERT_TIME": "5w5d"},
+{"SLOT": "R0", "TYPE": "A900-RSP3C-400-S", "STATE": "ok, active", "INSERT_TIME": "5w5d"},
+{"SLOT": "R1", "TYPE": "A900-RSP3C-400-S", "STATE": "ok, standby", "INSERT_TIME": "5w5d"},
+{"SLOT": "P0", "TYPE": "A900-PWR1200-D", "STATE": "ok", "INSERT_TIME": "5w5d"},
+{"SLOT": "P1", "TYPE": "A900-PWR1200-D", "STATE": "ok", "INSERT_TIME": "5w5d"},
+{"SLOT": "P2", "TYPE": "A903-FAN-E", "STATE": "ok", "INSERT_TIME": "5w5d"}]
