@@ -1,0 +1,81 @@
+KRL-NRK-MPL-T4-ACC-RTR-39-45#show license detail 
+Index: 1 Feature: atm   Version: 1.0 
+	License Type: EvalRightToUse 
+	License State: Active, Not in Use, EULA not accepted
+	Evaluation total period: 8 weeks 4 days
+	Evaluation period left: 8 weeks 4 days
+	Period used: 0 minute 0 second
+	Lock type: Non Node locked
+ 	Vendor info: NOTLOCKEDNOTLOCKEDRTU
+	License Addition: Additive
+	License Generation version: 0x8200000
+	License Count: Non-Counted License
+	Priority: None
+	Store Index: 3
+	Store Name: Built-In License Storage
+
+Index: 2 Feature: metroaggrservices  Version: 1.0
+ 	License Type: Permanent
+ 	License State: Active, In Use
+ 	Lock type: Node locked
+	Vendor info: ASR-903FOX2245PFTF
+	License Addition: Exclusive
+ 	License Generation version: 0x8100000
+	License Count: Non-Counted
+	License Priority: Medium
+	Store Index: 0
+	Store Name: Primary License Storage
+
+Index: 3 Feature: metroaggrservices Version: 1.0
+	License Type: EvalRightToUse
+	License State: Inactive
+	Evaluation total period: 8 weeks 4 days
+	Evaluation period left: 8 weeks 4 days Period used: 0 minute 0 second
+	Lock type: Non Node locked
+	Vendor info: NOTLOCKEDNOTLOCKEDRTU
+	License Addition: Additive
+	License Generation version: 0x8200000 
+	License Count: Non-Counted
+	License Priority: None 
+	Store Index: 0
+	Store Name: Built-In License Storage 
+
+Index: 4 Feature: metroipservices Version: 1.0 
+	License Type: EvalRightToUse 
+	License State: Active, Not in Use,   EULA not accepted
+	Evaluation total period: 8 weeks 4 days 
+	Evaluation period left: 8 weeks 4 days 
+	Period used: 0 minute 0 second
+	Lock type: Non Node locked 
+	Vendor info: NOTLOCKEDNOTLOCKEDRTU
+	License Addition: Additive
+	License Generation version: 0x8200000 
+	License Count: Non-Counted
+	License Priority: None
+	Store Index: 1 Store Name: Built-In License Storage
+ 
+Index: 5 Feature: metroservices Version: 1.0 
+	License Type: EvalRightToUse
+	License State: Active, Not in Use, EULA not accepted 
+	Evaluation total period: 8 weeks 4 days 
+	Evaluation period left: 8 weeks 4 days 
+	Period used: 0 minute 0 second
+	Lock type: Non Node locked 
+	Vendor info: NOTLOCKEDNOTLOCKEDRTU
+	 License Addition: Additive 
+	License Generation version: 0x8200000 
+	License Count: Non-Counted 
+	License Priority: None
+	 Store Index: 2 Store Name: Built-In License Storage 
+
+Index: 6  Feature: oc3  Version: 1.0 
+	License Type: Permanent
+	License State: Active, In Use 
+	Lock type: Node locked 
+	Vendor info: ASR-903FOX2245PFTF 
+	License Addition: Exclusive
+	 License Generation version: 0x8100000 
+	License Count: 4/4/0 (Active/In-use/Violation)
+	 License Priority: Medium
+	 Store Index: 1 
+	Store Name: Primary License Storage

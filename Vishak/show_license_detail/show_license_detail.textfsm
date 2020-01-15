@@ -1,0 +1,23 @@
+Value Feature (\S+)
+Value License_type (.+)
+Value License_State (.+)
+Value EVALUATION_TOTAL_PERIOD (.+)
+Value EVALUATION_PERIOD_LEFT (.+)
+Value Period_used (.+)
+Value Lock_type (.+)	
+Value Store_index (.+)
+Value Store_name (.+)
+
+
+Start
+  ^Index\:\s+\d\s+Feature: -> Continue.Record
+  ^Index\:\s+\d\s+Feature:\s+${Feature}
+  ^\s+License\s+Type:\s+${License_type}
+  ^\s+License\s+State:\s+${License_State}
+  ^\s+Evaluation\s+total\s+period:\s+${EVALUATION_TOTAL_PERIOD} 
+  ^\s+Evaluation\s+period\s+left:\s+${EVALUATION_PERIOD_LEFT}  
+  ^\s+Period\s+used:\s+${Period_used} 
+  ^\s+Lock\s+type:\s+${Lock_type}
+  ^\s+Store\s+Index:\s+${Store_index}
+  ^\s+Store\s+Name:\s+${Store_name} -> Record
+
