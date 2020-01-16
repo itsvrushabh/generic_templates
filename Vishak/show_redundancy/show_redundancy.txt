@@ -27,7 +27,7 @@ Compiled Thu 26-Jul-18 18:10 by mcpre
 Peer Processor Information :
 ----------------------------
               Standby Location = slot 7
-        Current Software state = STANDBY HOT 
+        Current Software state = STANDBY HOT
        Uptime in current state = 5 weeks, 5 days, 16 hours, 42 minutes
                  Image Version = Cisco IOS Software [Fuji], ASR900 Software (PPC_LINUX_IOSD-UNIVERSALK9-M), Version 16.9.1a, RELEASE SOFTWARE (fc1)
 Technical Support: http://www.cisco.com/techsupport
