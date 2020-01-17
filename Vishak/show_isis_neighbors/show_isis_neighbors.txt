@@ -1,0 +1,5 @@
+KRL-NRK-MPL-T4-ACC-RTR-39-45#show isis neighbors
+
+System Id       Type Interface     IP Address      State Holdtime Circuit Id
+KRL-MPL-LTE-PE- L2   Gi0/0/0       172.23.251.15   UP    24       00
+KRL-MPL-LTE-PE- L2   Gi0/1/0       172.23.251.17   UP    26       00
