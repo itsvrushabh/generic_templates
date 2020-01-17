@@ -5,4 +5,4 @@ Value READING (\d+\s+\w\s\w+|\d+\s+\w+|\d\s+\w|\d+\w+)
 Value THRESHOLD (\S+|\(\-\d\s\,\d+\s\,\d+\s\)\(\w+\)|\(\d+\s\,\d+\s\,\d+\s\,\d+\)\S+)
 
 Start
- ^\s${SLOT}\s+${SENSOR}\s+${CURRENT_STATE}\s+${READING}\s+${THRESHOLD} -> Record
+ ^\s${SLOT} -> Record

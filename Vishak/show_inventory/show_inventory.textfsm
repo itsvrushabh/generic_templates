@@ -1,0 +1,8 @@
+Value NAME (.*)
+Value DESCR (.*)
+Value PID (\S+)
+Value SN (\S+)
+
+Start
+  ^NAME:\s"${NAME}", DESCR:\s"${DESCR}"
+  ^.*PID:\s${PID}.*SN:\s${SN} -> Record   
