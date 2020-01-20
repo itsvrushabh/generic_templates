@@ -1,9 +1,0 @@
-Value SYSTEM_ID (\w+\-\w+\-\w+\-\w+\-)
-Value TYPE (\w\d)
-Value INTERFACE (\w\w\d\/\d\/\d)
-Value IP_ADDRESS (\S+)
-Value UP (\w\w)
-Value HOLDTIME (\d+)
-
-Start
-  ^${SYSTEM_ID}\s+${TYPE}\s+{INTERFACE} -> Record

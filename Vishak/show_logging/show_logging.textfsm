@@ -1,0 +1,8 @@
+Value LOGGING (\d+\.\d+\.\d+\.\d+)
+Value MESSAGE_LOGGED (\d+\s+\w+\s+\w+\s+\w+\,)
+Value RATE_LIMITED (\d\s+\w+\s+\w+\s+\w+\-\w+\,)
+
+Start
+  ^\s+Logging\s+to\s+${LOGGING}
+  ^\s+${MESSAGE_LOGGED}
+  ^\s+${RATE_LIMITED} -> Record

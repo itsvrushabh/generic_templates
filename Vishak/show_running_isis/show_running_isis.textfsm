@@ -1,0 +1,8 @@
+Value MAX_LSP_LIFETIME (\d+)
+Value LSP_REFRESH_INTERVAL (\S+)
+Value SPF_INTERVAL (\d+\s\d+\s+\d+)
+
+Start
+  ^\s+max-lsp-lifetime\s${MAX_LSP_LIFETIME}
+  ^\s+lsp-refresh-interval\s${LSP_REFRESH_INTERVAL}
+  ^\s+spf-interval\s${SPF_INTERVAL} -> Record

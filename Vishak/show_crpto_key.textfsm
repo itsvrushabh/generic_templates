@@ -1,6 +1,0 @@
-Value Key_pair (\S*)
-Value key (\w+\s\w+)
-
-Start
-  ^Key\s+name:\s+${Key_pair}
-  ^Key\s+type:\s+${key} -> Record
