@@ -1,0 +1,27 @@
+KRL-NRK-MPL-T4-ACC-RTR-39-45#show mpls ldp neighbor
+    Peer LDP Ident: 202.123.37.77:0; Local LDP Ident 116.119.39.45:0
+	TCP connection: 202.123.37.77.49561 - 116.119.39.45.646
+	State: Oper; Msgs sent/rcvd: 23734/24935; Downstream
+	Up time: 2w0d
+	LDP discovery sources:
+	  GigabitEthernet0/0/0, Src IP addr: 172.23.251.15
+	  Targeted Hello 116.119.39.45 -> 202.123.37.77, active, passive
+        Addresses bound to peer LDP Ident:
+          202.123.37.77   116.119.2.219   172.16.4.47     182.79.152.10   
+          10.71.93.13     10.3.6.5        10.56.74.25     10.78.22.22     
+          172.29.11.51    182.79.158.136  10.20.6.5       172.16.19.226   
+          116.119.37.250  10.7.7.5        10.4.7.5        10.52.52.1      
+          10.34.1.17      172.29.200.11   172.23.251.15   172.23.20.89    
+          172.23.251.18   172.29.200.25   
+    Peer LDP Ident: 202.123.37.107:0; Local LDP Ident 116.119.39.45:0
+	TCP connection: 202.123.37.107.22421 - 116.119.39.45.646
+	State: Oper; Msgs sent/rcvd: 23706/24864; Downstream
+	Up time: 2w0d
+	LDP discovery sources:
+	  GigabitEthernet0/1/0, Src IP addr: 172.23.251.17
+	  Targeted Hello 116.119.39.45 -> 202.123.37.107, active, passive
+        Addresses bound to peer LDP Ident:
+          202.123.37.107  116.119.2.218   172.16.4.46     182.79.152.11   
+          172.29.11.50    172.16.4.48     172.29.11.57    182.79.165.88   
+          172.29.200.12   172.29.200.30   172.23.251.17   172.23.20.90    
+          172.23.251.19   172.16.16.238   116.119.40.122  

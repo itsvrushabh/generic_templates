@@ -1,0 +1,11 @@
+Value PEER_LDP_IDENT (\S+)
+Value TCP_CONNECTION (\S+\s+\-\s+\S+)
+Value State (\S+)
+Value UP_TIME (.*)
+
+
+Start
+  ^\s+Peer\s+LDP\s+Ident:\s+${PEER_LDP_IDENT};
+  ^\s+TCP\s+connection:\s+${TCP_CONNECTION}
+  ^\s+State:\s+${State}
+  ^\s+Up\s+time:\s+${UP_TIME} -> Record
