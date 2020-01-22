@@ -1,0 +1,22 @@
+KRL-NRK-MPL-T4-ACC-RTR-39-45#Show platform
+Chassis type: ASR-903
+
+Slot      Type                State                 Insert time (ago) 
+--------- ------------------- --------------------- ----------------- 
+ 0/0      A900-IMA8S1Z        ok                    5w5d          
+ 0/1      A900-IMA8S1Z        ok                    5w5d          
+ 0/5      A900-IMA3G-IMSG     ok                    5w5d          
+R0        A900-RSP3C-400-S    ok, active            5w5d          
+R1        A900-RSP3C-400-S    ok, standby           5w5d          
+F0                            ok, active            5w5d          
+F1                            ok, standby           5w5d          
+P0        A900-PWR1200-D      ok                    5w5d          
+P1        A900-PWR1200-D      ok                    5w5d          
+P2        A903-FAN-E          ok                    5w5d          
+
+Slot      CPLD Version        Firmware Version                        
+--------- ------------------- --------------------------------------- 
+R0        1802052C            15.6(20r)S                          
+R1        1802052C            15.6(20r)S                          
+F0        1802052C            15.6(20r)S                          
+F1        1802052C            15.6(20r)S                         

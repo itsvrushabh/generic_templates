@@ -1,0 +1,9 @@
+Value Neighbor (\d+\.\d+\.\d+\.\d+)
+Value V (\d)
+Value AS (\d+)
+Value MSG_RCVD (\d+)
+Value TBL_VER (\d+)
+Value State (\d+)
+
+Start 
+  ^${Neighbor}\s+${V}\s+${AS}\s+${MSG_RCVD}\s+${TBL_VER}\s+${State} -> Record

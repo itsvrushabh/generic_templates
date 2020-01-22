@@ -1,0 +1,6 @@
+Value Software_state (\w+)
+Value Uptime (.*)
+
+Start
+  ^\s+Current\s+Software\s+state\s=\s+${Software_state} 
+  ^\s+Uptime\s+in\s+current\s+state\s=\s+${Uptime} -> Record

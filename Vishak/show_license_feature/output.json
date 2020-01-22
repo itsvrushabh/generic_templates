@@ -1,2 +1,0 @@
-['FEATURE', 'ENFORCEMENT', 'EVALUATION', 'SUBSCRIPTION', 'ENABLED', 'RightToUse']
-[['metroaggrservices', 'yes', 'yes', 'no', 'yes', 'yes'], ['metroipservices', 'yes', 'yes', 'no', 'no', 'yes'], ['metroservices', 'no', 'yes', 'no', 'no', 'yes'], ['atm', 'yes', 'yes', 'no', 'no', 'yes'], ['oc3', 'yes', 'yes', 'no', 'yes', 'no'], ['oc12', 'yes', 'yes', 'no', 'no', 'no'], ['1588', 'yes', 'yes', 'no', 'no', 'no'], ['ipsec', 'yes', 'no', 'no', 'no', 'no'], ['oc48', 'yes', 'yes', 'no', 'no', 'no'], ['oc192', 'yes', 'yes', 'no', 'no', 'no']]

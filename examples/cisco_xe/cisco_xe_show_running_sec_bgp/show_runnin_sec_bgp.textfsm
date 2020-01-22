@@ -1,0 +1,6 @@
+Value ROUTER_ID (\d+\.\d+\.\d+\.\d+)
+Value MAXIMUM_PATH (\w+\s+\d)
+
+Start
+  ^\s+bgp\s+router-id\s+${ROUTER_ID}
+  ^\s+maximum-paths\s+${MAXIMUM_PATH} -> Record

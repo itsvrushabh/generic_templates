@@ -1,0 +1,8 @@
+Value Clock (\w+)
+Value NTPtime (.*)
+Value Ref_Time (.*)
+
+Start
+  ^.*Clock is ${Clock}  
+  ^.*uptime is ${NTPtime},
+  ^.*reference time is ${Ref_Time} -> Record

@@ -827,7 +827,7 @@ Building configuration...
 Current configuration : 529 bytes
 !
 interface GigabitEthernet0/0/0
- description #MPLS#BACK-TO-BACK##CONNECTED-TO-$KRL-MPL-LTE-PE-RTR-37-77$-$Gi0/0/0/5$##CMR:1680710#
+ description #MPLS#BACK-TO-BACK##CONNECTED-TO-$KRL-MPL-LTE-PE-RTR-37-77$-$Gi0/0/0/5$##CMR:1680710#Vi
  mtu 9216
  ip address 172.23.251.14 255.255.255.254
  ip router isis 

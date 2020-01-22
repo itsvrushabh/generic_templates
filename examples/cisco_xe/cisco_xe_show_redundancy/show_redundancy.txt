@@ -1,0 +1,38 @@
+KRL-NRK-MPL-T4-ACC-RTR-39-45#show redundancy
+Redundant System Information :
+------------------------------
+       Available system uptime = 5 weeks, 5 days, 16 hours, 50 minutes
+Switchovers system experienced = 0
+              Standby failures = 0
+        Last switchover reason = none
+
+                 Hardware Mode = Duplex
+    Configured Redundancy Mode = sso
+     Operating Redundancy Mode = sso
+              Maintenance Mode = Disabled
+                Communications = Up
+
+Current Processor Information :
+-------------------------------
+               Active Location = slot 6
+        Current Software state = ACTIVE
+       Uptime in current state = 5 weeks, 5 days, 16 hours, 49 minutes
+                 Image Version = Cisco IOS Software [Fuji], ASR900 Software (PPC_LINUX_IOSD-UNIVERSALK9-M), Version 16.9.1a, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2018 by Cisco Systems, Inc.
+Compiled Thu 26-Jul-18 18:10 by mcpre
+                          BOOT = bootflash:asr900rsp3-universalk9.16.09.01a.SPA.bin,1;
+        Configuration register = 0x2102
+
+Peer Processor Information :
+----------------------------
+              Standby Location = slot 7
+        Current Software state = STANDBY HOT
+       Uptime in current state = 5 weeks, 5 days, 16 hours, 42 minutes
+                 Image Version = Cisco IOS Software [Fuji], ASR900 Software (PPC_LINUX_IOSD-UNIVERSALK9-M), Version 16.9.1a, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2018 by Cisco Systems, Inc.
+Compiled Thu 26-Jul-18 18:10 by mcpre
+                          BOOT = bootflash:asr900rsp3-universalk9.16.09.01a.SPA.bin,1;
+                   CONFIG_FILE = 
+        Configuration register = 0x2102

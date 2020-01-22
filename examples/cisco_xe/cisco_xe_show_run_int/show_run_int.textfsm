@@ -1,0 +1,11 @@
+Value CONFIGURATION (\d+\s+\w+)
+Value INTERFACE (\S+)
+Value IP_ROUTER (\w+)
+Value IP_ADDRESS (\S+\s+\S+)
+
+
+Start
+  ^Current\s+configuration\s+:\s+${CONFIGURATION}
+  ^interface\s+${INTERFACE}
+  ^\s+ip\s+address\s+${IP_ADDRESS}
+  ^\s+ip\s+router\s+${IP_ROUTER} -> Record

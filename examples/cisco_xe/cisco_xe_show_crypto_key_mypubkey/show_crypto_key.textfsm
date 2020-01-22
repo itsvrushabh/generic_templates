@@ -1,0 +1,8 @@
+Value KEY_PAIR (\S*)
+Value KEY_TYPE (\w+\s\w+)
+Value USAGE (\w+\s+\w+\s+\w+|\w+\s+\w+)
+
+Start
+  ^Key\s+name:\s+${KEY_PAIR}
+  ^Key\s+type:\s+${KEY_TYPE}
+  ^\s+Usage:\s+${USAGE} -> Record

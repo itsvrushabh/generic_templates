@@ -1,0 +1,8 @@
+Value LINE (\d+\s\w+\s\d+)
+Value USER (\S+)
+Value HOST (\w+)
+Value IDLE (\S+)
+Value LOCATION (\S+)
+
+Start
+  ^\s+${LINE}\s+${USER}\s+${HOST}\s+${IDLE}\s+${LOCATION} -> Record

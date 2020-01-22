@@ -1,0 +1,5 @@
+Value STANDARD (\d+)
+Value IP_ACCESS_LIST (\S+)
+
+Start
+  ^\s+${STANDARD}\s+permit\s+${IP_ACCESS_LIST} -> Record
