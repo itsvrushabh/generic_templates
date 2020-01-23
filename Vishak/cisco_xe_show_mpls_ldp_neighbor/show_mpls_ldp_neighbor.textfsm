@@ -2,6 +2,7 @@ Value PEER_LDP_IDENT (\S+)
 Value TCP_CONNECTION (\S+\s+\-\s+\S+)
 Value State (\S+)
 Value UP_TIME (.*)
+Value LDP_DISCOVERY_SOURCES (\w+\d\/\d\/\d)
 
 
 Start
