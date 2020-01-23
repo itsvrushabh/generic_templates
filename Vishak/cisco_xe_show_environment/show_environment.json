@@ -1,1 +1,471 @@
-[{"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "P2"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R0"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}, {"THRESHOLD": "", "SENSOR": "", "READING": "", "CURRENT_STATE": "", "SLOT": "R1"}]
+[
+    {
+        "SLOT": "P0",
+        "READING": "15   A",
+        "THRESHOLD": "na",
+        "SENSOR": "PEM Iout",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P0",
+        "READING": "12   V DC",
+        "THRESHOLD": "na",
+        "SENSOR": "PEM Vout",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P0",
+        "READING": "53   V DC",
+        "THRESHOLD": "na",
+        "SENSOR": "PEM Vin",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P0",
+        "READING": "42   Celsius",
+        "THRESHOLD": "(110,115,120,125)(Celsius)",
+        "SENSOR": "Temp: Temp 1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P0",
+        "READING": "39   Celsius",
+        "THRESHOLD": "(110,115,120,125)(Celsius)",
+        "SENSOR": "Temp: Temp 2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P1",
+        "READING": "16   A",
+        "THRESHOLD": "na",
+        "SENSOR": "PEM Iout",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P1",
+        "READING": "12   V DC",
+        "THRESHOLD": "na",
+        "SENSOR": "PEM Vout",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P1",
+        "READING": "53   V DC",
+        "THRESHOLD": "na",
+        "SENSOR": "PEM Vin",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P1",
+        "READING": "35   Celsius",
+        "THRESHOLD": "(110,115,120,125)(Celsius)",
+        "SENSOR": "Temp: Temp 1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P1",
+        "READING": "30   Celsius",
+        "THRESHOLD": "(110,115,120,125)(Celsius)",
+        "SENSOR": "Temp: Temp 2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "P2",
+        "READING": "24   Celsius",
+        "THRESHOLD": "(-3",
+        "SENSOR": "Temp: FC PWM1",
+        "CURRENT_STATE": "Fan Speed 65%"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "32   Celsius",
+        "THRESHOLD": "(95",
+        "SENSOR": "Temp: ARAD+0",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "32   Celsius",
+        "THRESHOLD": "(70",
+        "SENSOR": "Temp: N-Inlet",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "49   Celsius",
+        "THRESHOLD": "(95",
+        "SENSOR": "Temp: ARAD+1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "49   Celsius",
+        "THRESHOLD": "(80",
+        "SENSOR": "Temp: N-Outlet",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "843  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VX2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "1794 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VP1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "1196 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VP2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "898  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VP3",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "898  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VP4",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "12139mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VH",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "28   Celsius",
+        "THRESHOLD": "(75",
+        "SENSOR": "Temp: CPU",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "28   Celsius",
+        "THRESHOLD": "(67",
+        "SENSOR": "Temp: C-Inlet",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "35   Celsius",
+        "THRESHOLD": "(75",
+        "SENSOR": "Temp: PCIe Sw",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "35   Celsius",
+        "THRESHOLD": "(80",
+        "SENSOR": "Temp: C-Outlet",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "2501 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS1-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "992  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS1-2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "990  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS2-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "1478 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS2-2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "990  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS3-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "1476 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS3-2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "998  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS4-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "996  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS5-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "11888mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VH",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "1801 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VP2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "3307 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VP3",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "1045 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VP4",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "1199 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VAUX1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R0",
+        "READING": "1798 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VAUX2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "31   Celsius",
+        "THRESHOLD": "(95",
+        "SENSOR": "Temp: ARAD+0",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "31   Celsius",
+        "THRESHOLD": "(70",
+        "SENSOR": "Temp: N-Inlet",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "49   Celsius",
+        "THRESHOLD": "(95",
+        "SENSOR": "Temp: ARAD+1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "49   Celsius",
+        "THRESHOLD": "(80",
+        "SENSOR": "Temp: N-Outlet",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "844  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VX2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "1794 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VP1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "1198 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VP2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "898  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VP3",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "896  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VP4",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "12144mV",
+        "THRESHOLD": "na",
+        "SENSOR": "VCPU : VH",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "29   Celsius",
+        "THRESHOLD": "(75",
+        "SENSOR": "Temp: CPU",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "29   Celsius",
+        "THRESHOLD": "(67",
+        "SENSOR": "Temp: C-Inlet",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "36   Celsius",
+        "THRESHOLD": "(75",
+        "SENSOR": "Temp: PCIe Sw",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "36   Celsius",
+        "THRESHOLD": "(80",
+        "SENSOR": "Temp: C-Outlet",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "2492 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS1-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "990  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS1-2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "996  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS2-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "1484 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS2-2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "994  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS3-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "1484 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS3-2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "998  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS4-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "996  mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-TPS5-1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "11888mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VH",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "1804 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VP2",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "3305 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VP3",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "1046 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VP4",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "1199 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VAUX1",
+        "CURRENT_STATE": "Normal"
+    },
+    {
+        "SLOT": "R1",
+        "READING": "1802 mV",
+        "THRESHOLD": "na",
+        "SENSOR": "A-VAUX2",
+        "CURRENT_STATE": "Normal"
+    }
+]

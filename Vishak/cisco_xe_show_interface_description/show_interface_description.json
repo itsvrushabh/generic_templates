@@ -1,0 +1,110 @@
+[
+    {
+        "INTERFACE": "Gi0/0/0",
+        "DESCIPTION": "#MPLS#BACK-TO-BACK##CONNECTED-TO-$KRL-MPL-LTE-PE-RTR-37-77$-$Gi0/0/0/5$##CMR:1680710#",
+        "STATUS": "up",
+        "PROTOCOL": "up"
+    },
+    {
+        "INTERFACE": "Gi0/0/1",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/0/2",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/0/3",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/0/4",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/0/5",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/0/6",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/0/7",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Te0/0/8",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/1/0",
+        "DESCIPTION": "#MPLS#BACK-TO-BACK##CONNECTED-TO-$KRL-MPL-LTE-PE-RTR-37-77$-$Gi0/0/0/5$##CMR:1680710#",
+        "STATUS": "up",
+        "PROTOCOL": "up"
+    },
+    {
+        "INTERFACE": "Gi0/1/1",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/1/2",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/1/3",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/1/4",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/1/5",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/1/6",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Gi0/1/7",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    },
+    {
+        "INTERFACE": "Te0/1/8",
+        "DESCIPTION": "down",
+        "STATUS": "admin",
+        "PROTOCOL": "down"
+    }
+]

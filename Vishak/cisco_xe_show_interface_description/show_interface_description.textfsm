@@ -1,7 +1,7 @@
 Value INTERFACE (\w+\d\/\d\/\d|\w+\d)
 Value STATUS (\w+\s\w+|\w+)
 Value PROTOCOL (\w+)
-Vallue DESCIPTION (\S+)
+Value DESCIPTION (\S+)
 
 Start
-  ^${INTERFACE}\s+${STATUS}\s+${PROTOCOL} -> Record
+  ^${INTERFACE}\s+${STATUS}\s+${PROTOCOL}\s+${DESCIPTION} -> Record

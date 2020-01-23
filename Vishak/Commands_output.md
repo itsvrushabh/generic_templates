@@ -524,27 +524,27 @@ Log Buffer (4096 bytes):
 000344: Oct 16 10:00:46.437 IST: %SEC_LOGIN-5-LOGIN_SUCCESS: Login Success [user: 2366kri] [Source: 61.95.140.252] [localport: 23] at 10:00:46 IST Wed Oct 16 2019
 000345: Oct 16 17:12:57.522 IST: %SEC_LOGIN-5-LOGIN_SUCCESS: Login Success [user: 2366kri] [Source: 61.95.140.252] [localport: 23] at 17:12:57 IST Wed Oct 16 2019
 KRL-NRK-MPL-T4-ACC-RTR-39-45#show ip int b
-Interface              IP-Address      OK? Method Status                Protocol
-GigabitEthernet0/0/0   172.23.251.14   YES manual up                    up      
-GigabitEthernet0/0/1   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/0/2   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/0/3   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/0/4   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/0/5   unassigned      YES unset  administratively down down    
-GigabitEthernet0/0/6   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/0/7   unassigned      YES NVRAM  administratively down down    
-Te0/0/8                unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/1/0   172.23.251.16   YES manual up                    up      
-GigabitEthernet0/1/1   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/1/2   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/1/3   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/1/4   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/1/5   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/1/6   unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0/1/7   unassigned      YES NVRAM  administratively down down    
-Te0/1/8                unassigned      YES NVRAM  administratively down down    
-GigabitEthernet0       unassigned      YES NVRAM  down                  down    
-Loopback0              116.119.39.45   YES manual up                    up      
+    Interface              IP-Address      OK? Method Status                Protocol
+    GigabitEthernet0/0/0   172.23.251.14   YES manual up                    up      
+    GigabitEthernet0/0/1   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/0/2   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/0/3   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/0/4   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/0/5   unassigned      YES unset  administratively down down    
+    GigabitEthernet0/0/6   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/0/7   unassigned      YES NVRAM  administratively down down    
+    Te0/0/8                unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/1/0   172.23.251.16   YES manual up                    up      
+    GigabitEthernet0/1/1   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/1/2   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/1/3   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/1/4   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/1/5   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/1/6   unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0/1/7   unassigned      YES NVRAM  administratively down down    
+    Te0/1/8                unassigned      YES NVRAM  administratively down down    
+    GigabitEthernet0       unassigned      YES NVRAM  down                  down    
+    Loopback0              116.119.39.45   YES manual up                    up      
 KRL-NRK-MPL-T4-ACC-RTR-39-45#show clock
 17:15:19.078 IST Wed Oct 16 2019
 KRL-NRK-MPL-T4-ACC-RTR-39-45#show ntp status
