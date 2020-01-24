@@ -1,4 +1,5 @@
 Value INDEX (\d)
+Value FEATURE (\S+)
 Value PERIOD_LEFT (.*)
 Value PERIOD_USED (.*)
 Value LICENSE_TYPE (.*)
@@ -8,7 +9,7 @@ Value LICENSE_PRIORITY (.*)
 
 Start
   ^Index\s+\d+\s+Feature: -> Continue.Record
-  ^Index\s+${INDEX}
+  ^Index\s+${INDEX}\s+Feature:\s+${FEATURE}
   ^\s+Period\s+left:\s+${PERIOD_LEFT}
   ^\s+Period\s+Used:\s+${PERIOD_USED}
   ^\s+License\s+Type:\s+${LICENSE_TYPE}

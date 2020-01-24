@@ -1,1 +1,405 @@
-[{"LOGGING": "202.56.230.23", "MESSAGE_LOGGED": "79 message lines logged,", "RATE_LIMITED": "0 message lines rate-limited,"}, {"LOGGING": "10.3.170.155", "MESSAGE_LOGGED": "80 message lines logged,", "RATE_LIMITED": "0 message lines rate-limited,"}, {"LOGGING": "10.3.170.158", "MESSAGE_LOGGED": "80 message lines logged,", "RATE_LIMITED": "0 message lines rate-limited,"}, {"LOGGING": "10.3.169.160", "MESSAGE_LOGGED": "80 message lines logged,", "RATE_LIMITED": "0 message lines rate-limited,"}]
+[
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000315",
+        "SEVERITY": "5",
+        "TIME": "11:48:55.034",
+        "MESSAGE": [
+            "Login Success [user: admin] [Source: 61.95.140.252] [localport: 23] at 11:48:55 IST Mon Oct 14 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000316",
+        "SEVERITY": "5",
+        "TIME": "11:50:31.257",
+        "MESSAGE": [
+            "Login Success [user: admin] [Source: 61.95.140.252] [localport: 23] at 11:50:31 IST Mon Oct 14 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000317",
+        "SEVERITY": "5",
+        "TIME": "12:03:05.716",
+        "MESSAGE": [
+            "Login Success [user: 64809nav] [Source: 182.79.246.42] [localport: 22] at 12:03:05 IST Mon Oct 14 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000318",
+        "SEVERITY": "5",
+        "TIME": "12:27:38.112",
+        "MESSAGE": [
+            "Login Success [user: kiwicat] [Source: 202.123.37.77] [localport: 23] at 12:27:38 IST Mon Oct 14 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000319",
+        "SEVERITY": "5",
+        "TIME": "12:32:28.891",
+        "MESSAGE": [
+            "Login Success [user: ciscoin] [Source: 61.95.140.252] [localport: 23] at 12:32:28 IST Mon Oct 14 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "CONFIG_I",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000320",
+        "SEVERITY": "5",
+        "TIME": "12:33:58.658",
+        "MESSAGE": [
+            "Configured from console by kiwicat on vty0 (202.123.37.77)"
+        ],
+        "FACILITY": "SYS"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000321",
+        "SEVERITY": "5",
+        "TIME": "13:09:48.610",
+        "MESSAGE": [
+            "Login Success [user: ciscoin] [Source: 61.95.140.252] [localport: 23] at 13:09:48 IST Mon Oct 14 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "EULA_ACCEPT_ALL",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000322",
+        "SEVERITY": "6",
+        "TIME": "13:10:51.258",
+        "MESSAGE": [
+            "The Right to Use End User License Agreement is accepted"
+        ],
+        "FACILITY": "LICENSE"
+    },
+    {
+        "MNEMONIC": "CONFIG_I",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000323",
+        "SEVERITY": "5",
+        "TIME": "13:11:08.992",
+        "MESSAGE": [
+            "Configured from console by ciscoin on vty0 (61.95.140.252)"
+        ],
+        "FACILITY": "SYS"
+    },
+    {
+        "MNEMONIC": "CONFIG_I",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000324",
+        "SEVERITY": "5",
+        "TIME": "13:14:21.765",
+        "MESSAGE": [
+            "Configured from console by ciscoin on vty0 (61.95.140.252)"
+        ],
+        "FACILITY": "SYS"
+    },
+    {
+        "MNEMONIC": "ALARM",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000325",
+        "SEVERITY": "2",
+        "TIME": "13:15:04.853",
+        "MESSAGE": [
+            "SDH 0/5/16: SONET_LINK_DOWN asserted"
+        ],
+        "FACILITY": "SDH"
+    },
+    {
+        "MNEMONIC": "ALARM",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000326",
+        "SEVERITY": "2",
+        "TIME": "13:15:05.203",
+        "MESSAGE": [
+            "SDH 0/5/16: SONET_LINK_DOWN cleared"
+        ],
+        "FACILITY": "SDH"
+    },
+    {
+        "MNEMONIC": "ALARM",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000327",
+        "SEVERITY": "2",
+        "TIME": "13:15:07.463",
+        "MESSAGE": [
+            "SDH 0/5/16: SLOS asserted"
+        ],
+        "FACILITY": "SDH"
+    },
+    {
+        "MNEMONIC": "UPDOWN",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000328",
+        "SEVERITY": "5",
+        "TIME": "13:15:07.463",
+        "MESSAGE": [
+            "Controller SDH 0/5/16, changed state to down"
+        ],
+        "FACILITY": "CONTROLLER"
+    },
+    {
+        "MNEMONIC": "ALARM",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000329",
+        "SEVERITY": "2",
+        "TIME": "13:15:07.464",
+        "MESSAGE": [
+            "SDH 0/5/16: SONET_LINK_DOWN asserted"
+        ],
+        "FACILITY": "SDH"
+    },
+    {
+        "MNEMONIC": "CONFIG_I",
+        "DAY": "14",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000330",
+        "SEVERITY": "5",
+        "TIME": "13:15:32.112",
+        "MESSAGE": [
+            "Configured from console by ciscoin on vty0 (61.95.140.252)"
+        ],
+        "FACILITY": "SYS"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "15",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000331",
+        "SEVERITY": "5",
+        "TIME": "11:38:11.003",
+        "MESSAGE": [
+            "Login Success [user: A1SAWJ7G] [Source: 182.79.246.38] [localport: 23] at 11:38:11 IST Tue Oct 15 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "HIDDEN",
+        "DAY": "15",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000332",
+        "SEVERITY": "5",
+        "TIME": "11:41:04.016",
+        "MESSAGE": [
+            "Warning!!! ' quit ' is a hidden command. Use of this command is not recommended/supported and will be removed in future."
+        ],
+        "FACILITY": "PARSER"
+    },
+    {
+        "MNEMONIC": "ALARM",
+        "DAY": "15",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000333",
+        "SEVERITY": "2",
+        "TIME": "14:48:40.703",
+        "MESSAGE": [
+            "SDH 0/5/16: SLOS cleared"
+        ],
+        "FACILITY": "SDH"
+    },
+    {
+        "MNEMONIC": "UPDOWN",
+        "DAY": "15",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000334",
+        "SEVERITY": "5",
+        "TIME": "14:48:40.704",
+        "MESSAGE": [
+            "Controller SDH 0/5/16, changed state to up"
+        ],
+        "FACILITY": "CONTROLLER"
+    },
+    {
+        "MNEMONIC": "ALARM",
+        "DAY": "15",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000335",
+        "SEVERITY": "2",
+        "TIME": "14:48:40.705",
+        "MESSAGE": [
+            "SDH 0/5/16: SONET_LINK_DOWN cleared"
+        ],
+        "FACILITY": "SDH"
+    },
+    {
+        "MNEMONIC": "ALARM",
+        "DAY": "15",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000336",
+        "SEVERITY": "2",
+        "TIME": "14:48:40.705",
+        "MESSAGE": [
+            "SDH 0/5/16.1 PATH : PAIS cleared"
+        ],
+        "FACILITY": "SDH"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "15",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000337",
+        "SEVERITY": "5",
+        "TIME": "15:14:10.679",
+        "MESSAGE": [
+            "Login Success [user: kiwicat] [Source: 202.123.37.77] [localport: 23] at 15:14:10 IST Tue Oct 15 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "15",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000338",
+        "SEVERITY": "5",
+        "TIME": "15:49:38.627",
+        "MESSAGE": [
+            "Login Success [user: kiwicat] [Source: 182.79.246.58] [localport: 23] at 15:49:38 IST Tue Oct 15 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "16",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000339",
+        "SEVERITY": "5",
+        "TIME": "09:17:10.970",
+        "MESSAGE": [
+            "Login Success [user: kiwicat] [Source: 202.123.37.77] [localport: 23] at 09:17:10 IST Wed Oct 16 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "16",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000340",
+        "SEVERITY": "5",
+        "TIME": "09:17:39.771",
+        "MESSAGE": [
+            "Login Success [user: 213496sha] [Source: 202.123.37.77] [localport: 23] at 09:17:39 IST Wed Oct 16 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "16",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000341",
+        "SEVERITY": "5",
+        "TIME": "09:17:53.355",
+        "MESSAGE": [
+            "Login Success [user: kiwicat] [Source: 202.123.37.77] [localport: 23] at 09:17:53 IST Wed Oct 16 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "16",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000342",
+        "SEVERITY": "5",
+        "TIME": "09:33:29.516",
+        "MESSAGE": [
+            "Login Success [user: 213496sha] [Source: 202.123.37.77] [localport: 23] at 09:33:29 IST Wed Oct 16 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "16",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000343",
+        "SEVERITY": "5",
+        "TIME": "09:33:44.908",
+        "MESSAGE": [
+            "Login Success [user: 213496sha] [Source: 202.123.37.77] [localport: 23] at 09:33:44 IST Wed Oct 16 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "16",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000344",
+        "SEVERITY": "5",
+        "TIME": "10:00:46.437",
+        "MESSAGE": [
+            "Login Success [user: 2366kri] [Source: 61.95.140.252] [localport: 23] at 10:00:46 IST Wed Oct 16 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    },
+    {
+        "MNEMONIC": "LOGIN_SUCCESS",
+        "DAY": "16",
+        "MONTH": "Oct",
+        "TIMEZONE": "IST",
+        "NUMBER": "000345",
+        "SEVERITY": "5",
+        "TIME": "17:12:57.522",
+        "MESSAGE": [
+            "Login Success [user: 2366kri] [Source: 61.95.140.252] [localport: 23] at 17:12:57 IST Wed Oct 16 2019"
+        ],
+        "FACILITY": "SEC_LOGIN"
+    }
+]

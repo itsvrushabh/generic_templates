@@ -1,1 +1,20 @@
-[{"Uptime": "5 weeks, 5 days, 16 hours, 49 minutes", "Software_state": "ACTIVE"}, {"Uptime": "5 weeks, 5 days, 16 hours, 42 minutes", "Software_state": "STANDBY"}]
+[
+    {
+        "STANDBY_FAILURES": "0",
+        "ACTIVE_CONFIG_REGISTER": "0x2102",
+        "ACTIVE_BOOT_FILE": "asr900rsp3-universalk9.16.09.01a.SPA.bin,1;",
+        "ACTIVE_BOOT_DIRECTORY": "bootflash",
+        "REDUDANT_SYSTEM_UPTIME": "5 weeks, 5 days, 16 hours, 50 minutes",
+        "CONFIGURED_REDUNDANCY_MODE": "sso",
+        "MAINTENANCE_MODE": "Disabled",
+        "STANDBY_SLOT": "7",
+        "SWITCHOVERS": "0",
+        "ACTIVE_SLOT": "6",
+        "ACTIVE_SOFTWARE_STATE": "S",
+        "COMMUNICATION_STATUS": "Up",
+        "LAST_SWITCHOVER_REASON": "none",
+        "HARDWARE_MODE": "Duplex",
+        "OPERATING_REDUNDANCY_MODE": "sso",
+        "ACTIVE_UPTIME": "5 weeks, 5 days, 16 hours, 42 minutes"
+    }
+]

@@ -2,7 +2,8 @@ Value NAME (.*)
 Value DESCR (.*)
 Value PID (\S+)
 Value SN (\S+)
+Value VID (\S+)
 
 Start
   ^NAME:\s"${NAME}", DESCR:\s"${DESCR}"
-  ^.*PID:\s${PID}.*SN:\s${SN} -> Record   
+  ^.*PID:\s${PID}.*VID:\s${VID}.*SN:\s${SN} -> Record   

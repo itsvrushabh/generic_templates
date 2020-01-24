@@ -1,7 +1,0 @@
-Value KEY_CHAIN ()
-Value KEY (\S+\s+\S+\s+\S+\s+\S+)
-Value ACCEPT__LIFETIME (\S+\s+\S+)
-
-Start
-  ^\s+key\s+${KEY}
-  ^\s+accept\s+lifetime\s+${ACCEPT__LIFETIME} -> Record

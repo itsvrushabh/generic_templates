@@ -1,1 +1,14 @@
-[{"KEY_PAIR": "KRL-NRK-MPL-T4-ACC-RTR-39-45.bharti.com", "USAGE": "General Purpose Key", "KEY_TYPE": "RSA KEYS"}, {"KEY_PAIR": "KRL-NRK-MPL-T4-ACC-RTR-39-45.bharti.com.server", "USAGE": "Encryption Key", "KEY_TYPE": "RSA KEYS"}]
+[
+    {
+        "USAGE": "General Purpose Key",
+        "KEY_PAIR_TIME": "08:46:04 IST Oct 2 2019",
+        "KEY_NAME": "KRL-NRK-MPL-T4-ACC-RTR-39-45.bharti.com",
+        "KEY_TYPE": "RSA KEYS"
+    },
+    {
+        "USAGE": "Encryption Key",
+        "KEY_PAIR_TIME": "08:46:09 IST Oct 2 2019",
+        "KEY_NAME": "KRL-NRK-MPL-T4-ACC-RTR-39-45.bharti.com.server",
+        "KEY_TYPE": "RSA KEYS"
+    }
+]

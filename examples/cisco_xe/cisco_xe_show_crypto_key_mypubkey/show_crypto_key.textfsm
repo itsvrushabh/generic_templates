@@ -1,8 +1,10 @@
-Value KEY_PAIR (\S*)
+Value KEY_PAIR_TIME (.*)
+Value KEY_NAME (\S*)
 Value KEY_TYPE (\w+\s\w+)
 Value USAGE (\w+\s+\w+\s+\w+|\w+\s+\w+)
 
 Start
-  ^Key\s+name:\s+${KEY_PAIR}
+  ^.*generated at: ${KEY_PAIR_TIME}
+  ^Key\s+name:\s+${KEY_NAME}
   ^Key\s+type:\s+${KEY_TYPE}
   ^\s+Usage:\s+${USAGE} -> Record

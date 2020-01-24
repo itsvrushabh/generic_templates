@@ -23,9 +23,7 @@ def f1(input_file, template_file):
         print("-".center(100, "-"))
         print(len(_fsm))
         print("-".center(100, "-"))
-
-        json_file = template_file.replace('.template', '.json')
-        open(json_file, 'w').write(json.dumps(data))
+        open(output_file, 'w').write(json.dumps(data))
     except Exception as e:
         raise e
 
@@ -33,4 +31,5 @@ def f1(input_file, template_file):
 if __name__ == "__main__":
     input_file = sys.argv[1]
     template_file = sys.argv[2]
+    output_file = sys.argv[3]
     f1(input_file, template_file)

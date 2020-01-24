@@ -1,1 +1,14 @@
-[{"NTPtime": "123928300 (1/100 of seconds)", "Clock": "synchronized", "Ref_Time": "E1515967.F020C730 (14:25:03.938 IST Wed Oct 16 2019)"}]
+[
+    {
+        "PEER_DISPERSION": "1.07 msec",
+        "ACTUAL_FREQ": "249.9973 Hz",
+        "NOMINAL_FREQ": "250.0000 Hz",
+        "REFRENCES": "202.56.230.29",
+        "REFRENCES_TIME": "E1515967.F020C730 (14:25:03.938 IST Wed Oct 16 2019)",
+        "POLL_INTERVAL": "1024",
+        "CLOCK": "synchronized",
+        "CLOCK_OFFSET": "-2.9812 msec",
+        "ROOT_DISPERSION": "205.77 msec",
+        "NTPtime": "123928300 (1/100 of seconds)"
+    }
+]

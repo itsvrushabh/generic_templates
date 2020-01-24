@@ -1,0 +1,9 @@
+[
+    {
+        "KEY": "100",
+        "SEND_LIFETIME": "(always valid)",
+        "ACCEPT_LIFETIME": "(always valid)",
+        "KEY_CHAIN": "bharti",
+        "TEXT": "btsol"
+    }
+]

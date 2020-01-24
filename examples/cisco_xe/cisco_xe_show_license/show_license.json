@@ -1,1 +1,92 @@
-[{"PERIOD_LEFT": "Life time", "PERIOD_USED": "", "LICENSE_STATE": "Active, In Use", "INDEX": "1", "LICENSE_COUNT": "Non-Counted", "LICENSE_TYPE": "Permanent", "LICENSE_PRIORITY": "Medium"}, {"PERIOD_LEFT": "Not Activated", "PERIOD_USED": "0  minute  0  second  ", "LICENSE_STATE": "Active, Not in Use, EULA not accepted", "INDEX": "2", "LICENSE_COUNT": "Non-Counted", "LICENSE_TYPE": "EvalRightToUse", "LICENSE_PRIORITY": "None"}, {"PERIOD_LEFT": "Not Activated", "PERIOD_USED": "0  minute  0  second  ", "LICENSE_STATE": "Active, Not in Use, EULA not accepted", "INDEX": "3", "LICENSE_COUNT": "Non-Counted", "LICENSE_TYPE": "EvalRightToUse", "LICENSE_PRIORITY": "None"}, {"PERIOD_LEFT": "Not Activated", "PERIOD_USED": "0  minute  0  second  ", "LICENSE_STATE": "Active, Not in Use, EULA not accepted", "INDEX": "4", "LICENSE_COUNT": "Non-Counted", "LICENSE_TYPE": "EvalRightToUse", "LICENSE_PRIORITY": "None"}, {"PERIOD_LEFT": "Life time", "PERIOD_USED": "", "LICENSE_STATE": "Active, In Use", "INDEX": "5", "LICENSE_COUNT": "4/4/0  (Active/In-use/Violation)", "LICENSE_TYPE": "Permanent", "LICENSE_PRIORITY": "Medium"}, {"PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_STATE": "", "INDEX": "6", "LICENSE_COUNT": "", "LICENSE_TYPE": "", "LICENSE_PRIORITY": ""}, {"PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_STATE": "", "INDEX": "7", "LICENSE_COUNT": "", "LICENSE_TYPE": "", "LICENSE_PRIORITY": ""}, {"PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_STATE": "", "INDEX": "8", "LICENSE_COUNT": "", "LICENSE_TYPE": "", "LICENSE_PRIORITY": ""}, {"PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_STATE": "", "INDEX": "9", "LICENSE_COUNT": "", "LICENSE_TYPE": "", "LICENSE_PRIORITY": ""}, {"PERIOD_LEFT": "", "PERIOD_USED": "", "LICENSE_STATE": "", "INDEX": "1", "LICENSE_COUNT": "", "LICENSE_TYPE": "", "LICENSE_PRIORITY": ""}]
+[
+    {
+        "LICENSE_COUNT": "Non-Counted",
+        "LICENSE_PRIORITY": "Medium",
+        "INDEX": "1",
+        "FEATURE": "metroaggrservices",
+        "PERIOD_USED": "",
+        "LICENSE_TYPE": "Permanent",
+        "PERIOD_LEFT": "Life time",
+        "LICENSE_STATE": "Active, In Use"
+    },
+    {
+        "LICENSE_COUNT": "Non-Counted",
+        "LICENSE_PRIORITY": "None",
+        "INDEX": "2",
+        "FEATURE": "metroipservices",
+        "PERIOD_USED": "0  minute  0  second  ",
+        "LICENSE_TYPE": "EvalRightToUse",
+        "PERIOD_LEFT": "Not Activated",
+        "LICENSE_STATE": "Active, Not in Use, EULA not accepted"
+    },
+    {
+        "LICENSE_COUNT": "Non-Counted",
+        "LICENSE_PRIORITY": "None",
+        "INDEX": "3",
+        "FEATURE": "metroservices",
+        "PERIOD_USED": "0  minute  0  second  ",
+        "LICENSE_TYPE": "EvalRightToUse",
+        "PERIOD_LEFT": "Not Activated",
+        "LICENSE_STATE": "Active, Not in Use, EULA not accepted"
+    },
+    {
+        "LICENSE_COUNT": "Non-Counted",
+        "LICENSE_PRIORITY": "None",
+        "INDEX": "4",
+        "FEATURE": "atm",
+        "PERIOD_USED": "0  minute  0  second  ",
+        "LICENSE_TYPE": "EvalRightToUse",
+        "PERIOD_LEFT": "Not Activated",
+        "LICENSE_STATE": "Active, Not in Use, EULA not accepted"
+    },
+    {
+        "LICENSE_COUNT": "4/4/0  (Active/In-use/Violation)",
+        "LICENSE_PRIORITY": "Medium",
+        "INDEX": "5",
+        "FEATURE": "oc3",
+        "PERIOD_USED": "",
+        "LICENSE_TYPE": "Permanent",
+        "PERIOD_LEFT": "Life time",
+        "LICENSE_STATE": "Active, In Use"
+    },
+    {
+        "LICENSE_COUNT": "",
+        "LICENSE_PRIORITY": "",
+        "INDEX": "6",
+        "FEATURE": "oc12",
+        "PERIOD_USED": "",
+        "LICENSE_TYPE": "",
+        "PERIOD_LEFT": "",
+        "LICENSE_STATE": ""
+    },
+    {
+        "LICENSE_COUNT": "",
+        "LICENSE_PRIORITY": "",
+        "INDEX": "7",
+        "FEATURE": "1588",
+        "PERIOD_USED": "",
+        "LICENSE_TYPE": "",
+        "PERIOD_LEFT": "",
+        "LICENSE_STATE": ""
+    },
+    {
+        "LICENSE_COUNT": "",
+        "LICENSE_PRIORITY": "",
+        "INDEX": "8",
+        "FEATURE": "ipsec",
+        "PERIOD_USED": "",
+        "LICENSE_TYPE": "",
+        "PERIOD_LEFT": "",
+        "LICENSE_STATE": ""
+    },
+    {
+        "LICENSE_COUNT": "",
+        "LICENSE_PRIORITY": "",
+        "INDEX": "9",
+        "FEATURE": "oc48",
+        "PERIOD_USED": "",
+        "LICENSE_TYPE": "",
+        "PERIOD_LEFT": "",
+        "LICENSE_STATE": ""
+    }
+]

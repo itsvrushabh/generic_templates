@@ -1,0 +1,82 @@
+[
+    {
+        "ENABLED": "yes",
+        "ENFORCEMENT": "yes",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "yes",
+        "RightToUse": "yes",
+        "FEATURE": "metroaggrservices"
+    },
+    {
+        "ENABLED": "no",
+        "ENFORCEMENT": "yes",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "yes",
+        "RightToUse": "yes",
+        "FEATURE": "metroipservices"
+    },
+    {
+        "ENABLED": "no",
+        "ENFORCEMENT": "no",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "yes",
+        "RightToUse": "yes",
+        "FEATURE": "metroservices"
+    },
+    {
+        "ENABLED": "no",
+        "ENFORCEMENT": "yes",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "yes",
+        "RightToUse": "yes",
+        "FEATURE": "atm"
+    },
+    {
+        "ENABLED": "yes",
+        "ENFORCEMENT": "yes",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "yes",
+        "RightToUse": "no",
+        "FEATURE": "oc3"
+    },
+    {
+        "ENABLED": "no",
+        "ENFORCEMENT": "yes",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "yes",
+        "RightToUse": "no",
+        "FEATURE": "oc12"
+    },
+    {
+        "ENABLED": "no",
+        "ENFORCEMENT": "yes",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "yes",
+        "RightToUse": "no",
+        "FEATURE": "1588"
+    },
+    {
+        "ENABLED": "no",
+        "ENFORCEMENT": "yes",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "no",
+        "RightToUse": "no",
+        "FEATURE": "ipsec"
+    },
+    {
+        "ENABLED": "no",
+        "ENFORCEMENT": "yes",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "yes",
+        "RightToUse": "no",
+        "FEATURE": "oc48"
+    },
+    {
+        "ENABLED": "no",
+        "ENFORCEMENT": "yes",
+        "SUBSCRIPTION": "no",
+        "EVALUATION": "yes",
+        "RightToUse": "no",
+        "FEATURE": "oc192"
+    }
+]
