@@ -17,7 +17,8 @@ Number of Minor alarms:     0
  P1          Temp: Temp 1    Normal          35   Celsius	(110,115,120,125)(Celsius)
  P1          Temp: Temp 2    Normal          30   Celsius	(110,115,120,125)(Celsius)
  P2          Temp: FC PWM1   Fan Speed 65%   24   Celsius	(-3 ,16 ,31 )(Celsius)
- R0          Temp: ARAD+0    Normal          32   Celsius	(95 ,102,108,112)(Celsius)
+ R0          Temp: ARAD+0    Normal          32   Celsius	(95
+  ,102,108,112)(Celsius)
  R0          Temp: N-Inlet   Normal          32   Celsius	(70 ,75 ,80 ,100)(Celsius)
  R0          Temp: ARAD+1    Normal          49   Celsius	(95 ,102,108,112)(Celsius)
  R0          Temp: N-Outlet  Normal          49   Celsius	(80 ,85 ,90 ,105)(Celsius)

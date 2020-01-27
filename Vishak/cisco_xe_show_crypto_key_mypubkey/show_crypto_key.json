@@ -1,16 +1,6 @@
 [
     {
-        "KEY_TYPE": "",
-        "KEY_NAME": "",
-        "KEY_PAIR_TIME": "08:46:04 IST Oct 2 2019",
-        "USAGE": "",
-        "KEY_DATA": []
-    },
-    {
-        "KEY_TYPE": "RSA KEYS",
         "KEY_NAME": "KRL-NRK-MPL-T4-ACC-RTR-39-45.bharti.com",
-        "KEY_PAIR_TIME": "08:46:09 IST Oct 2 2019",
-        "USAGE": "General Purpose Key",
         "KEY_DATA": [
             "30819F30 0D06092A 864886F7 0D010101 05000381 8D003081 89028181 00B6579A ",
             "FF919204 63666C97 743A52D0 E203B7B0 E6295666 137936C5 F5B5BB1C ADC16C75 ",
@@ -18,18 +8,21 @@
             "13B064CC 04947DEC D208DDE5 25DC2B56 81B0D184 DF320E57 C0B07877 CEBF0F78 ",
             "AE258326 BC041652 2FE2ED65 2A040785 D53E1598 FB0D7074 DED2ED75 93020301 ",
             "0001"
-        ]
+        ],
+        "KEY_TYPE": "RSA KEYS",
+        "USAGE": "General Purpose Key",
+        "KEY_PAIR_TIME": "08:46:09 IST Oct 2 2019"
     },
     {
-        "KEY_TYPE": "RSA KEYS",
         "KEY_NAME": "KRL-NRK-MPL-T4-ACC-RTR-39-45.bharti.com.server",
-        "KEY_PAIR_TIME": "",
-        "USAGE": "Encryption Key",
         "KEY_DATA": [
             "307C300D 06092A86 4886F70D 01010105 00036B00 30680261 00EAF17B 3A7D113D ",
             "9EC0644C 89F9FF30 F1803B08 3F63379D 9DFD5503 45CE8928 BC98DE75 16922FD0 ",
             "B1D7C4ED 51EB5D7B CCD1A23B 3DA997BA 919D25B6 3F3E14B8 3886D899 560FA1F0 ",
             "12DCE135 30821777 291E13BD 0BECED93 3D323D58 133EF23F 57020301 0001"
-        ]
+        ],
+        "KEY_TYPE": "RSA KEYS",
+        "USAGE": "Encryption Key",
+        "KEY_PAIR_TIME": ""
     }
 ]
