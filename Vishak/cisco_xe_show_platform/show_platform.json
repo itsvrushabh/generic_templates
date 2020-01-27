@@ -1,86 +1,114 @@
 [
     {
-        "CPLD_Ver": "",
+        "Type": "A900-IMA8S1Z",
         "Slot": "0/0",
         "Insert_time": "5w5d",
-        "Type": "A900-IMA8S1Z",
-        "State": "ok"
+        "FIRMWARE_VER": "",
+        "State": "ok",
+        "CPLD_Ver": ""
     },
     {
-        "CPLD_Ver": "",
+        "Type": "A900-IMA8S1Z",
         "Slot": "0/1",
         "Insert_time": "5w5d",
-        "Type": "A900-IMA8S1Z",
-        "State": "ok"
+        "FIRMWARE_VER": "",
+        "State": "ok",
+        "CPLD_Ver": ""
     },
     {
-        "CPLD_Ver": "",
+        "Type": "A900-IMA3G-IMSG",
         "Slot": "0/5",
         "Insert_time": "5w5d",
-        "Type": "A900-IMA3G-IMSG",
-        "State": "ok"
+        "FIRMWARE_VER": "",
+        "State": "ok",
+        "CPLD_Ver": ""
     },
     {
-        "CPLD_Ver": "",
+        "Type": "A900-RSP3C-400-S",
         "Slot": "R0",
         "Insert_time": "5w5d",
-        "Type": "A900-RSP3C-400-S",
-        "State": "ok, active"
+        "FIRMWARE_VER": "",
+        "State": "ok, active",
+        "CPLD_Ver": ""
     },
     {
-        "CPLD_Ver": "",
+        "Type": "A900-RSP3C-400-S",
         "Slot": "R1",
         "Insert_time": "5w5d",
-        "Type": "A900-RSP3C-400-S",
-        "State": "ok, standby"
+        "FIRMWARE_VER": "",
+        "State": "ok, standby",
+        "CPLD_Ver": ""
     },
     {
-        "CPLD_Ver": "",
+        "Type": " ",
+        "Slot": "F0",
+        "Insert_time": "5w5d",
+        "FIRMWARE_VER": "",
+        "State": "ok, active",
+        "CPLD_Ver": ""
+    },
+    {
+        "Type": " ",
+        "Slot": "F1",
+        "Insert_time": "5w5d",
+        "FIRMWARE_VER": "",
+        "State": "ok, standby",
+        "CPLD_Ver": ""
+    },
+    {
+        "Type": "A900-PWR1200-D",
         "Slot": "P0",
         "Insert_time": "5w5d",
-        "Type": "A900-PWR1200-D",
-        "State": "ok"
+        "FIRMWARE_VER": "",
+        "State": "ok",
+        "CPLD_Ver": ""
     },
     {
-        "CPLD_Ver": "",
+        "Type": "A900-PWR1200-D",
         "Slot": "P1",
         "Insert_time": "5w5d",
-        "Type": "A900-PWR1200-D",
-        "State": "ok"
+        "FIRMWARE_VER": "",
+        "State": "ok",
+        "CPLD_Ver": ""
     },
     {
-        "CPLD_Ver": "",
+        "Type": "A903-FAN-E",
         "Slot": "P2",
         "Insert_time": "5w5d",
-        "Type": "A903-FAN-E",
-        "State": "ok"
+        "FIRMWARE_VER": "",
+        "State": "ok",
+        "CPLD_Ver": ""
     },
     {
-        "CPLD_Ver": "1802052C",
+        "Type": "",
         "Slot": "R0",
         "Insert_time": "",
-        "Type": "",
-        "State": ""
+        "FIRMWARE_VER": "15.6(20r)S",
+        "State": "",
+        "CPLD_Ver": "1802052C"
     },
     {
-        "CPLD_Ver": "1802052C",
+        "Type": "",
         "Slot": "R1",
         "Insert_time": "",
-        "Type": "",
-        "State": ""
+        "FIRMWARE_VER": "15.6(20r)S",
+        "State": "",
+        "CPLD_Ver": "1802052C"
     },
     {
-        "CPLD_Ver": "1802052C",
+        "Type": "",
         "Slot": "F0",
         "Insert_time": "",
-        "Type": "",
-        "State": ""
+        "FIRMWARE_VER": "15.6(20r)S",
+        "State": "",
+        "CPLD_Ver": "1802052C"
     },
     {
-        "CPLD_Ver": "1802052C",
+        "Type": "",
         "Slot": "F1",
         "Insert_time": "",
-        "Type": "",
-        "State": ""
+        "FIRMWARE_VER": "15.6(20r)S",
+        "State": "",
+        "CPLD_Ver": "1802052C"
     }
 ]

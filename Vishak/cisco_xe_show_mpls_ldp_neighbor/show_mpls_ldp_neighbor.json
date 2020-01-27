@@ -1,22 +1,22 @@
 [
     {
         "UP_TIME": "2w0d",
+        "MSG_SENT_RCVD": "23734",
         "LOCAl_LDP_IDENT": "116.119.39.45:0",
-        "SRC_IP_ADDRESS": "172.23.251.15",
         "State": "Oper",
-        "LDP_DISCOVERY_SOURCES": "GigabitEthernet0/0/0",
-        "PEER_LDP_IDENT": "202.123.37.77:0",
+        "SRC_IP_ADDRESS": "172.23.251.15",
         "TCP_CONNECTION": "202.123.37.77.49561 - 116.119.39.45.646",
-        "MSG_SENT_RCVD": "23734"
+        "PEER_LDP_IDENT": "202.123.37.77:0",
+        "LDP_DISCOVERY_SOURCES": "GigabitEthernet0/0/0"
     },
     {
         "UP_TIME": "2w0d",
+        "MSG_SENT_RCVD": "23706",
         "LOCAl_LDP_IDENT": "116.119.39.45:0",
-        "SRC_IP_ADDRESS": "172.23.251.17",
         "State": "Oper",
-        "LDP_DISCOVERY_SOURCES": "GigabitEthernet0/1/0",
-        "PEER_LDP_IDENT": "202.123.37.107:0",
+        "SRC_IP_ADDRESS": "172.23.251.17",
         "TCP_CONNECTION": "202.123.37.107.22421 - 116.119.39.45.646",
-        "MSG_SENT_RCVD": "23706"
+        "PEER_LDP_IDENT": "202.123.37.107:0",
+        "LDP_DISCOVERY_SOURCES": "GigabitEthernet0/1/0"
     }
 ]

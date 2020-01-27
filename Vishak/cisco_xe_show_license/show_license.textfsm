@@ -1,4 +1,4 @@
-Value INDEX (\d)
+Value INDEX (\d+)
 Value FEATURE (\S+)
 Value PERIOD_LEFT (.*)
 Value PERIOD_USED (.*)

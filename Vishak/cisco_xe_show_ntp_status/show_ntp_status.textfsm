@@ -8,6 +8,8 @@ Value CLOCK_OFFSET (.*)
 Value ROOT_DISPERSION (.*)
 Value PEER_DISPERSION (.*)
 Value POLL_INTERVAL (\d+)
+Value LOOPFILTER (\S+) 
+Value DRIFT (.*)
 
 Start
   ^.*Clock is ${CLOCK}.*reference\s+is\s+${REFRENCES}
@@ -16,4 +18,5 @@ Start
   ^.*reference time is ${REFRENCES_TIME}
   ^.*clock offset is ${CLOCK_OFFSET},
   ^.*root dispersion is ${ROOT_DISPERSION}, peer dispersion is ${PEER_DISPERSION}
+  ^.*loopfilter state is ${LOOPFILTER}.*drift is ${DRIFT}
   ^.*system poll interval is ${POLL_INTERVAL} -> Record

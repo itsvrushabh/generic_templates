@@ -1,8 +1,8 @@
 Value KEY_CHAIN (\w+)
 Value TEXT (\w+)
 Value KEY (\d+)
-Value ACCEPT_LIFETIME (\S+\s+\S+)
-Value SEND_LIFETIME (\S+\s+\S+)
+Value ACCEPT_LIFETIME (\S+\s+\S+\s+\-\s+\S+\s+\S+\s+\S+\s+\S+)
+Value SEND_LIFETIME (\S+\s+\S+\s+\-\s+\S+\s+\S+\s+\S+\s+\S+)
 
 Start
   ^Key-chain\s+${KEY_CHAIN}

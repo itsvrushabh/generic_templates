@@ -1,4 +1,3 @@
-KRL-NRK-MPL-T4-ACC-RTR-39-45#show user
     Line       User       Host(s)              Idle       Location
   2 vty 0     2366kri    idle                 00:00:00 61.95.140.252
 

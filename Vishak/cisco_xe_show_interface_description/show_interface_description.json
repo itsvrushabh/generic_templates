@@ -1,122 +1,122 @@
 [
     {
+        "DESCRIPTION": "#MPLS#BACK-TO-BACK##CONNECTED-TO-$KRL-MPL-LTE-PE-RTR-37-77$-$Gi0/0/0/5$##CMR:1680710#",
+        "STATUS": "up",
         "INTERFACE": "Gi0/0/0",
-        "DESCRIPTION": "#MPLS#BACK-TO-BACK##CONNECTED-TO-$KRL-MPL-LTE-PE-RTR-37-77$-$Gi0/0/0/5$##CMR:1680710#",
-        "PROTOCOL": "up",
-        "STATUS": "up"
+        "PROTOCOL": "up"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/0/1",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/0/2",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/0/3",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/0/4",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/0/5",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/0/6",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/0/7",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Te0/0/8",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
-        "INTERFACE": "Gi0/1/0",
         "DESCRIPTION": "#MPLS#BACK-TO-BACK##CONNECTED-TO-$KRL-MPL-LTE-PE-RTR-37-77$-$Gi0/0/0/5$##CMR:1680710#",
-        "PROTOCOL": "up",
-        "STATUS": "up"
+        "STATUS": "up",
+        "INTERFACE": "Gi0/1/0",
+        "PROTOCOL": "up"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/1/1",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/1/2",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/1/3",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/1/4",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/1/5",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/1/6",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Gi0/1/7",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "admin down",
         "INTERFACE": "Te0/1/8",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "admin down"
+        "PROTOCOL": "down"
     },
     {
+        "DESCRIPTION": "",
+        "STATUS": "down",
         "INTERFACE": "Gi0",
-        "DESCRIPTION": "",
-        "PROTOCOL": "down",
-        "STATUS": "down"
+        "PROTOCOL": "down"
     },
     {
-        "INTERFACE": "Lo0",
         "DESCRIPTION": "",
-        "PROTOCOL": "up",
-        "STATUS": "up"
+        "STATUS": "up",
+        "INTERFACE": "Lo0",
+        "PROTOCOL": "up"
     }
 ]

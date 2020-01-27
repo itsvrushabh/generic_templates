@@ -1,18 +1,20 @@
 [
     {
-        "UP": "UP",
         "IP_ADDRESS": "172.23.251.15",
-        "INTERFACE": "Gi0/0/0",
-        "SYSTEM_ID": "KRL-MPL-LTE-PE-",
         "TYPE": "L2",
-        "HOLDTIME": "24"
+        "UP": "UP",
+        "INTERFACE": "Gi0/0/0",
+        "CIRCUIT_ID": "00",
+        "HOLDTIME": "24",
+        "SYSTEM_ID": "KRL-MPL-LTE-PE-"
     },
     {
-        "UP": "UP",
         "IP_ADDRESS": "172.23.251.17",
-        "INTERFACE": "Gi0/1/0",
-        "SYSTEM_ID": "KRL-MPL-LTE-PE-",
         "TYPE": "L2",
-        "HOLDTIME": "26"
+        "UP": "UP",
+        "INTERFACE": "Gi0/1/0",
+        "CIRCUIT_ID": "00",
+        "HOLDTIME": "26",
+        "SYSTEM_ID": "KRL-MPL-LTE-PE-"
     }
 ]
