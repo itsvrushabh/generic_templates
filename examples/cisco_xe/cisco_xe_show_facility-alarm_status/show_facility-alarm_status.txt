@@ -1,4 +1,3 @@
-KRL-NRK-MPL-T4-ACC-RTR-39-45#show facility-alarm status
 System Totals  Critical: 1  Major: 0  Minor: 0
 
 Source                     Time                   Severity      Syslog String                  Description [Index]

@@ -1,1 +1,10 @@
-[{"Timezone": "IST", "MonthDay": "16", "Month": "Oct", "Year": "2019", "Time": "17:15:19"}]
+[
+    {
+        "Time": "17:15:19.078",
+        "Timezone": "IST",
+        "Month": "Oct",
+        "Year": "2019",
+        "WeekDay": "Wed",
+        "MonthDay": "16"
+    }
+]

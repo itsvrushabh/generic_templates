@@ -4,6 +4,7 @@ Value INTERFACE (\w\w\d\/\d\/\d)
 Value IP_ADDRESS (\d+\.\d+\.\d+\.\d+)
 Value UP (\w\w)
 Value HOLDTIME (\d+)
+Value CIRCUIT_ID (\d+)
 
 Start
-  ^${SYSTEM_ID}\s+${TYPE}\s+${INTERFACE}\s+${IP_ADDRESS}\s+${UP}\s+${HOLDTIME} -> Record
+  ^${SYSTEM_ID}\s+${TYPE}\s+${INTERFACE}\s+${IP_ADDRESS}\s+${UP}\s+${HOLDTIME}\s+${CIRCUIT_ID} -> Record

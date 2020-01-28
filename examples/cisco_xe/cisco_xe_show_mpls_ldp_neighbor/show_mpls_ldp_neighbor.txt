@@ -1,4 +1,3 @@
-KRL-NRK-MPL-T4-ACC-RTR-39-45#show mpls ldp neighbor
     Peer LDP Ident: 202.123.37.77:0; Local LDP Ident 116.119.39.45:0
 	TCP connection: 202.123.37.77.49561 - 116.119.39.45.646
 	State: Oper; Msgs sent/rcvd: 23734/24935; Downstream

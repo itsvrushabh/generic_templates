@@ -1,154 +1,154 @@
 [
     {
-        "PROTOCOL": "up",
+        "STATUS": "up",
         "IPADDRESS": "172.23.251.14",
+        "METHOD": "manual",
         "INTERFACE": "GigabitEthernet0/0/0",
         "OK": "YES",
-        "STATUS": "up",
-        "METHOD": "manual"
+        "PROTOCOL": "up"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/0/1",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/0/2",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/0/3",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/0/4",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "unset",
         "INTERFACE": "GigabitEthernet0/0/5",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "unset"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/0/6",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/0/7",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "Te0/0/8",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "up",
+        "STATUS": "up",
         "IPADDRESS": "172.23.251.16",
+        "METHOD": "manual",
         "INTERFACE": "GigabitEthernet0/1/0",
         "OK": "YES",
-        "STATUS": "up",
-        "METHOD": "manual"
+        "PROTOCOL": "up"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/1/1",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/1/2",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/1/3",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/1/4",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/1/5",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/1/6",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "GigabitEthernet0/1/7",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "down",
+        "STATUS": "administratively down",
         "IPADDRESS": "unassigned",
+        "METHOD": "NVRAM",
         "INTERFACE": "Te0/1/8",
         "OK": "YES",
-        "STATUS": "administratively down",
-        "METHOD": "NVRAM"
+        "PROTOCOL": "down"
     },
     {
-        "PROTOCOL": "up",
+        "STATUS": "up",
         "IPADDRESS": "116.119.39.45",
+        "METHOD": "manual",
         "INTERFACE": "Loopback0",
         "OK": "YES",
-        "STATUS": "up",
-        "METHOD": "manual"
+        "PROTOCOL": "up"
     }
 ]

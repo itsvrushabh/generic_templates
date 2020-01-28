@@ -1,4 +1,3 @@
-KRL-NRK-MPL-T4-ACC-RTR-39-45#show ntp status
 Clock is synchronized, stratum 4, reference is 202.56.230.29  
 nominal freq is 250.0000 Hz, actual freq is 249.9973 Hz, precision is 2**10
 ntp uptime is 123928300 (1/100 of seconds), resolution is 4016
