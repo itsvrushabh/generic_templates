@@ -1,5 +1,3 @@
-KRL-NRK-MPL-T4-ACC-RTR-39-45#show tacacs
-
 Tacacs+ Server -  public  :
             Server address: 202.123.47.40
                Server port: 49

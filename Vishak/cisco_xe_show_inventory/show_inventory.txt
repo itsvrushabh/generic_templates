@@ -1,4 +1,3 @@
-KRL-NRK-MPL-T4-ACC-RTR-39-45#show inventory
 NAME: "Chassis", DESCR: "ASR 903 Series Router Chassis"
 PID: ASR-903           , VID: V01  , SN: FOX2245PFTF
 

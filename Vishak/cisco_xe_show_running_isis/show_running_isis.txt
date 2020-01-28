@@ -1,4 +1,3 @@
-KRL-NRK-MPL-T4-ACC-RTR-39-45#show running | sec isis
  ip router isis 
  isis circuit-type level-2-only
  isis network point-to-point 

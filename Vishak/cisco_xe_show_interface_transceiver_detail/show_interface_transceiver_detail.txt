@@ -1,4 +1,3 @@
-KRL-NRK-MPL-T4-ACC-RTR-39-45#show interfaces transceiver detail 
 mA: milliamperes, dBm: decibels (milliwatts), NA or N/A: not applicable.
 ++ : high alarm, +  : high warning, -  : low warning, -- : low alarm.
 A2D readouts (if they differ), are reported in parentheses.

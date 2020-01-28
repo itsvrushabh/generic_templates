@@ -5,7 +5,8 @@ Value USAGE (\w+\s+\w+\s+\w+|\w+\s+\w+)
 Value List KEY_DATA ([0-9A-F ]+)
 
 Start
-  ^.*generated at: ${KEY_PAIR_TIME} -> Continue.Record 
+  ^.*generated at: -> Continue.Record
+  ^.*generated at: ${KEY_PAIR_TIME} 
   ^Key\s+name:\s+${KEY_NAME}
   ^Key\s+type:\s+${KEY_TYPE}
   ^\s+Usage:\s+${USAGE} 

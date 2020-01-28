@@ -6,12 +6,16 @@ Value MSG_SENT_RCVD (\d+)
 Value State (\S+)
 Value UP_TIME (.*)
 Value LDP_DISCOVERY_SOURCES (\w+\d\/\d\/\d)
+Value List ADDRESS_BOUND (((\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3})\s+)*)
 
 
 Start
+  ^\s+Peer\s+LDP\s+Ident: -> Continue.Record
   ^\s+Peer\s+LDP\s+Ident:\s+${PEER_LDP_IDENT};\s+Local\s+LDP\s+Ident\s+${LOCAl_LDP_IDENT}
   ^\s+TCP\s+connection:\s+${TCP_CONNECTION}
   ^\s+State:\s+${State};\s+Msgs\s+sent/rcvd:\s+${MSG_SENT_RCVD}
   ^\s+Up\s+time:\s+${UP_TIME}
   ^\s+LDP discovery sources:
-  ^\s+${LDP_DISCOVERY_SOURCES},\s+Src\s+IP\s+addr:\s+${SRC_IP_ADDRESS} -> Record
+  ^\s+${LDP_DISCOVERY_SOURCES},\s+Src\s+IP\s+addr:\s+${SRC_IP_ADDRESS}
+  ^\s+Addresses bound to peer LDP Ident:
+  ^\s+${ADDRESS_BOUND}
