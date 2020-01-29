@@ -1,4 +1,0 @@
-Key-chain bharti:
-    key 100 -- text "btsol"
-        accept lifetime (always valid) - (always valid) [valid now]
-        send lifetime (always valid) - (always valid) [valid now]

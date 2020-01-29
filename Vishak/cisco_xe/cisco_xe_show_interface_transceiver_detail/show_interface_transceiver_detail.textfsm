@@ -1,9 +1,0 @@
-Value Required PORT (\w+\d+\/\S+)
-Value TEMPERATURE_VOLTAGE_CURRENT_OPTICAL (\d+.\d+|\S+)
-Value HIGH_ALARM (\S+)
-Value HIGH_WARN (\S+)
-Value LOW_WARN (\S+)
-Value LOW_ALARM (\S+)
-
-Start
-  ^${PORT}\s+${TEMPERATURE_VOLTAGE_CURRENT_OPTICAL}\s+${HIGH_ALARM}\s+${HIGH_WARN}\s+${LOW_WARN}\s+${LOW_ALARM} -> Record
