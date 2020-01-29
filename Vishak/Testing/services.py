@@ -1,10 +1,10 @@
-
 from __future__ import absolute_import
 import sys
 import datetime
 from textfsm import TextFSM
-from netmiko import Netmiko
+import netmiko
 
+TEMPLATE_LOCATION = '/home/atom/Desktop/Internship/DAY1/Commands/generic_templates/Vishak/Testing/Template_name'
 
 class TextFSMHandler:
     def __init__(self):
@@ -28,3 +28,6 @@ class TextFSMHandler:
             _res['fsm_dict'] = []
             _res['header'] = []
         return _res
+
+if __name__ == '__main__':
+    x = TextFSMHandler()
