@@ -1,0 +1,28 @@
+Value CONFIGURATION (\d+\s+\w+)
+Value INTERFACE (\S+)
+Value DESCRIPTION (\S+)
+Value IP_ROUTER (\w+)
+Value IP_ADDRESS (\S+\s+\S+)
+Value LOAD_INTERVAL (\d+)
+Value CARRIER_DELAY (\d+)
+Value LABEL_PROTOCOL (\S+)
+Value CIRCUIT_TYPE (\S+)
+Value ISIS_NETWORK (\S+)
+Value ISIS_METRIC (\d+\s+\S+)
+Value AUTHENTICATION_MODE (\S+)
+Value AUTH_KEY_CHAIN (\S+)
+
+Start
+  ^Current\s+configuration\s+:\s+${CONFIGURATION}
+  ^interface\s+${INTERFACE}
+  ^\s+description\s+${DESCRIPTION}
+  ^\s+ip\s+address\s+${IP_ADDRESS}
+  ^\s+ip\s+router\s+${IP_ROUTER}
+  ^\s+load-interval\s+${LOAD_INTERVAL}
+  ^\s+carrier-delay\s+msec\s+${CARRIER_DELAY}
+  ^\s+mpls\s+label\s+protocol\s+${LABEL_PROTOCOL}
+  ^\s+isis\s+circuit-type\s+${CIRCUIT_TYPE}
+  ^\s+isis\s+network\s+${ISIS_NETWORK}
+  ^\s+isis\s+metric\s+${ISIS_METRIC}
+  ^\s+isis\s+authentication\s+mode\s+${AUTHENTICATION_MODE}
+  ^\s+isis\s+authentication\s+key-chain\s+${AUTH_KEY_CHAIN} -> Record

@@ -1,0 +1,30 @@
+Tacacs+ Server -  public  :
+            Server address: 202.123.47.40
+               Server port: 49
+              Socket opens:        540
+             Socket closes:        540
+             Socket aborts:          0
+             Socket errors:          0
+           Socket Timeouts:          0
+   Failed Connect Attempts:         50
+        Total Packets Sent:        553
+        Total Packets Recv:        299
+             Server Status: Alive
+Continous Authc fail count:          0
+Continous Authz fail count:          2
+
+
+Tacacs+ Server -  public  :
+            Server address: 202.123.44.134
+               Server port: 49
+              Socket opens:         58
+             Socket closes:         58
+             Socket aborts:          0
+             Socket errors:          0
+           Socket Timeouts:          0
+   Failed Connect Attempts:        165
+        Total Packets Sent:          0
+        Total Packets Recv:          0
+             Server Status: Alive
+Continous Authc fail count:          0
+Continous Authz fail count:          0

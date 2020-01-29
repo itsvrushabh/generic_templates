@@ -1,0 +1,30 @@
+[
+    {
+        "STATE_PFXRCD": "1855",
+        "NEIGH_AS": "9730",
+        "LOCAL_AS": "9730",
+        "V": "4",
+        "ROUTER_ID": "116.119.39.45",
+        "MSG_RCVD": "58007",
+        "INQ": "0",
+        "UP_DOWN": "2w0d",
+        "BGP_NEIGH": "172.23.20.89",
+        "MSG_SENT": "22709",
+        "TBL_VER": "56065",
+        "OUTQ": "0"
+    },
+    {
+        "STATE_PFXRCD": "1853",
+        "NEIGH_AS": "9730",
+        "LOCAL_AS": "9730",
+        "V": "4",
+        "ROUTER_ID": "116.119.39.45",
+        "MSG_RCVD": "56801",
+        "INQ": "0",
+        "UP_DOWN": "2w0d",
+        "BGP_NEIGH": "172.23.20.90",
+        "MSG_SENT": "22724",
+        "TBL_VER": "56065",
+        "OUTQ": "0"
+    }
+]

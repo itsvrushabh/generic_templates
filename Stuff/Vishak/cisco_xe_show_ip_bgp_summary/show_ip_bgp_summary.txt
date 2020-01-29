@@ -1,0 +1,17 @@
+BGP router identifier 116.119.39.45, local AS number 9730
+BGP table version is 56065, main routing table version 56065
+1827 network entries using 263088 bytes of memory
+3709 path entries using 326392 bytes of memory
+1819 multipath network entries and 3638 multipath paths
+1537/1537 BGP path/bestpath attribute entries using 258216 bytes of memory
+3087 BGP rrinfo entries using 115080 bytes of memory
+8 BGP AS-PATH entries using 192 bytes of memory
+1518 BGP community entries using 36432 bytes of memory
+0 BGP route-map cache entries using 0 bytes of memory
+0 BGP filter-list cache entries using 0 bytes of memory
+BGP using 999400 total bytes of memory
+BGP activity 2367/540 prefixes, 22383/18674 paths, scan interval 60 secs
+
+Neighbor        V           AS MsgRcvd MsgSent   TblVer  InQ OutQ Up/Down  State/PfxRcd
+172.23.20.89    4         9730   58007   22709    56065    0    0 2w0d         1855
+172.23.20.90    4         9730   56801   22724    56065    0    0 2w0d         1853

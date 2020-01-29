@@ -1,0 +1,32 @@
+Value ROUTER (\S+)
+Value NET (\S+)
+Value IS_TYPE (\S+)
+Value METRIC_STYLE (\S+)
+Value AUTHENTICATION_MODE (\S+\s+\S+)
+Value AUTH_KEY_CHAIN (\S+\s+\S+)
+Value MAX_LSP_LIFETIME (\d+)
+Value LSP_REFRESH_INTERVAL (\S+)
+Value SPF_INTERVAL (\d+\s\d+\s+\d+)
+Value PRC_INTERVAL (\d+\s\d+\s+\d+)
+Value LSP_GEN__INTERVAL (\d+\s\d+\s+\d+)
+Value NSF (\S+)
+Value PASSIVE_INT (\S+)
+Value MAX_PATH (\d+)
+Value TRAFFFIC_ENG (\S+\s+\S+)
+
+Start
+  ^router\s+${ROUTER}
+  ^\s+net\s+${NET}
+  ^\s+is-type\s+${IS_TYPE}
+  ^\s+metric-style\s+${METRIC_STYLE}
+  ^\s+max-lsp-lifetime\s${MAX_LSP_LIFETIME}
+  ^\s+lsp-refresh-interval\s${LSP_REFRESH_INTERVAL}
+  ^\s+spf-interval\s${SPF_INTERVAL}
+  ^\s+prc-interval\s${PRC_INTERVAL}
+  ^\s+lsp-gen-interval\s+${LSP_GEN__INTERVAL}
+  ^\s+authentication\s+mode\s+${AUTHENTICATION_MODE}
+  ^\s+authentication\s+key-chain\s+${AUTH_KEY_CHAIN}
+  ^\s+maximum-paths\s+${MAX_PATH}
+  ^\s+nsf\s+${NSF}
+  ^\s+passive-interface\s+${PASSIVE_INT}
+  ^\s+mpls\s+traffic-eng\s+${TRAFFFIC_ENG} -> Record

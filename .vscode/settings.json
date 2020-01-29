@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\vrusdesh\\.virtualenvs\\generic_templates-ZlJ47T8U\\Scripts\\python.exe",
+    "python.linting.pylintArgs": ["--enable=F,W,E"]
+}

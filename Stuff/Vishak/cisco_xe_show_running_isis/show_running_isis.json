@@ -1,0 +1,19 @@
+[
+    {
+        "AUTHENTICATION_MODE": "md5 level-2",
+        "LSP_GEN__INTERVAL": "5 50 200",
+        "TRAFFFIC_ENG": "router-id Loopback0",
+        "ROUTER": "isis",
+        "IS_TYPE": "level-2-only",
+        "MAX_LSP_LIFETIME": "65535",
+        "AUTH_KEY_CHAIN": "bharti level-2",
+        "NET": "49.5005.1161.1903.9045.00",
+        "PRC_INTERVAL": "5 50 200",
+        "PASSIVE_INT": "Loopback0",
+        "SPF_INTERVAL": "5 50 200",
+        "LSP_REFRESH_INTERVAL": "65000",
+        "METRIC_STYLE": "wide",
+        "MAX_PATH": "32",
+        "NSF": "cisco"
+    }
+]

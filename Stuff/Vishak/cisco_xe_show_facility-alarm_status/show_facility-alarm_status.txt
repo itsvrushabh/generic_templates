@@ -1,0 +1,21 @@
+System Totals  Critical: 1  Major: 0  Minor: 0
+
+Source                     Time                   Severity      Syslog String                  Description [Index]
+------                     ------                 --------      -------------                  -------------------
+GigabitEthernet0           Sep 06 2019 00:09:37   CRITICAL      ETHERNET_PORT_LINK_DOWN        Physical Port Link Down [1]
+GigabitEthernet0/0/1       Sep 06 2019 00:11:00   INFO          ETHERNET_PORT_ADMIN_DOWN       Physical Port Administrative State Down [2]
+GigabitEthernet0/0/2       Oct 11 2019 18:41:07   INFO          ETHERNET_PORT_ADMIN_DOWN       Physical Port Administrative State Down [2]
+xcvr container 0/0/3       Oct 01 2019 13:35:29   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/0/4       Sep 06 2019 00:10:32   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/0/5       Sep 06 2019 00:10:32   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/0/6       Sep 06 2019 00:10:32   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/0/7       Sep 06 2019 00:10:32   INFO          XCVR_MISSING                   Transceiver Missing [0]
+TenGigabitEthernet0/0/8    Sep 06 2019 00:11:00   INFO          ETHERNET_PORT_ADMIN_DOWN       Physical Port Administrative State Down [2]
+xcvr container 0/1/1       Sep 06 2019 00:10:31   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/1/2       Sep 06 2019 00:10:31   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/1/3       Sep 06 2019 00:10:31   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/1/4       Sep 06 2019 00:10:31   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/1/5       Sep 06 2019 00:10:31   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/1/6       Sep 06 2019 00:10:31   INFO          XCVR_MISSING                   Transceiver Missing [0]
+xcvr container 0/1/7       Sep 06 2019 00:10:31   INFO          XCVR_MISSING                   Transceiver Missing [0]
+TenGigabitEthernet0/1/8    Oct 01 2019 15:21:03   INFO          ETHERNET_PORT_ADMIN_DOWN       Physical Port Administrative State Down [2]

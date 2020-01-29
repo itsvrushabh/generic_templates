@@ -1,0 +1,2 @@
+show clock
+17:15:19.078 IST Wed Oct 16 2019

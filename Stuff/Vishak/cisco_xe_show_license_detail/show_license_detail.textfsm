@@ -1,0 +1,34 @@
+Value INDEX (\d+)
+Value FEATURE (\S+)
+Value VERSION (\S+)
+Value LICENSE_TYPE (.+)
+Value LICENSE_STATE (.+)
+Value EVALUATION_TOTAL_PERIOD (.+)
+Value EVALUATION_PERIOD_LEFT (.+)
+Value PERIOD_USED (.+)
+Value LOCK_TYPE (.+)	
+Value STORE_INDEX (.+)
+Value STORE_NAME (.+)
+Value VENDOR_INFO (\S+)
+Value LICENSE_COUNT (\S+)
+Value PRIORITY (\S+)
+Value GENERATION_VERSION (\S+)
+
+
+Start
+  ^Index\:\s+\d\s+Feature: -> Continue.Record
+  ^Index\:\s+${INDEX}\s+Feature:\s+${FEATURE}\s+Version:\s+${VERSION}
+  ^\s+License\s+Type:\s+${LICENSE_TYPE}
+  ^\s+License\s+State:\s+${LICENSE_STATE}
+  ^\s+Evaluation\s+total\s+period:\s+${EVALUATION_TOTAL_PERIOD} 
+  ^\s+Evaluation\s+period\s+left:\s+${EVALUATION_PERIOD_LEFT}  
+  ^\s+Period\s+used:\s+${PERIOD_USED} 
+  ^\s+Lock\s+type:\s+${LOCK_TYPE}
+  ^\s+Vendor\s+info:\s+${VENDOR_INFO}
+  ^\s+Priority:\s+${PRIORITY}
+  ^\s+License Priority:\s+${PRIORITY}
+  ^\s+License\s+Count:\s+${LICENSE_COUNT}
+  ^\s+License\s+Generation\s+version:\s+${GENERATION_VERSION}
+  ^\s+Store\s+Index:\s+${STORE_INDEX}
+  ^\s+Store\s+Name:\s+${STORE_NAME} -> Record
+
