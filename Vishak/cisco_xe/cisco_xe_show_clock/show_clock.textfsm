@@ -6,5 +6,4 @@ Value Timezone (\S+)
 Value Time (\S+)
 
 Start
-  ^.*clock/s+
   ^${Time}\s+${Timezone} ${WeekDay} ${Month} ${MonthDay} ${Year} -> Record
