@@ -7,6 +7,8 @@ import sys
 import datetime
 from textfsm import TextFSM
 from netmiko import Netmiko
+
+
 class TextFSMHandler:
     def __init__(self):
         self._fsm = []
@@ -17,10 +19,10 @@ class TextFSMHandler:
         _res = {}
         try:
             self._template = TextFSM(open(TEMPLATE_LOCATION+template_name))
-            self._fsm = _template.ParseText(command_output)
+            self._fsm = self._template.ParseText(command_output)
             _res['PARSE_OUTPUT'] = bool(len(self._fsm))
             _res['fsm'] = self._fsm
-            _res['fsm_dict'] = [dict(zip(_template.header, fsm))
+            _res['fsm_dict'] = [dict(zip(self._template.header, fsm))
                                 for fsm in self._fsm]
             _res['header'] = self._template.header
         except Exception as _e:
