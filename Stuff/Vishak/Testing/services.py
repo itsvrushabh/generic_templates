@@ -4,19 +4,18 @@ import datetime
 from textfsm import TextFSM
 import netmiko
 
-TEMPLATE_LOCATION = '/home/atom/Desktop/Internship/DAY1/Commands/generic_templates/Vishak/Testing/Template_name'
-
 class TextFSMHandler:
     def __init__(self):
         self._fsm = []
         self._template = ""
 
     def get_command_fsm(self, command_output, template_name):
-        """ sample docstring"""
+        """ sample docstring """
         _res = {}
         try:
-            self._template = TextFSM(open(TEMPLATE_LOCATION+template_name))
-            self._fsm = self._template.ParseText(command_output)
+            self._template = TextFSM(open(template_name)) 
+            _raw = open(command_output).read()    
+            self._fsm = self._template.ParseText(_raw)
             _res['PARSE_OUTPUT'] = bool(len(self._fsm))
             _res['fsm'] = self._fsm
             _res['fsm_dict'] = [dict(zip(self._template.header, fsm))
@@ -27,7 +26,9 @@ class TextFSMHandler:
             _res['PARSE_OUTPUT'] = False
             _res['fsm_dict'] = []
             _res['header'] = []
-        return _res
+        print (_res)
 
-if __name__ == '__main__':
-    x = TextFSMHandler()
+x = TextFSMHandler()
+command_output = sys.argv[1]
+template_name = sys.argv[2]
+x.get_command_fsm(command_output, template_name)
