@@ -27,6 +27,14 @@ class TextFSMHandler:
             _res['fsm_dict'] = []
             _res['header'] = []
         print (_res)
+        print("-".center(100, "-"))
+        data = []
+        for j in [dict(zip(self._template.header, i)) for i in self._fsm]:
+            print(j)
+            data.append(j)
+        print("-".center(100, "-"))
+
+
 
 x = TextFSMHandler()
 command_output = sys.argv[1]
