@@ -33,28 +33,20 @@ class TextFSMHandler:
             print(j)
             data.append(j)
         print("-".center(100, "-"))
+        print(len(self._fsm))
+        print("-".center(100, "-"))
 
         no_of_records = len(_res['fsm_dict'])
         no_of_header_attribute = len(_res['header'])
-        try:
-            percetange_of_record = 100 / no_of_records
-            percetange_of_attribute = percetange_of_record / no_of_header_attribute
-        except:
-            print("Divide By Zero")
-
+        percetange_of_record = 100 / no_of_records
+        percetange_of_attribute = percetange_of_record/no_of_header_attribute
         template_percetange = 0
 
         for i in _res['fsm_dict']:
             for j in _res['header']:
                 if i[j] != '':
                     template_percetange += percetange_of_attribute
-
-        print("Total_Records:",no_of_records)
-        print("No_Header_Attribute:",no_of_header_attribute)
-        print("-".center(100, "-"))
-        print("Accuracy =",template_percetange,"%")
-        print("-".center(100, "-"))
-
+        print(template_percetange)
 
 x = TextFSMHandler()
 command_output = sys.argv[1]

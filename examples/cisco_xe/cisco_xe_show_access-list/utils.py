@@ -1,0 +1,69 @@
+TEMPLATE_HEADERS = ['LIST', 'IP', 'WILDCARD_BITS']
+
+JSON_OUTPUT = [
+    {
+        "IP": "63.218.164.7",
+        "LIST": "",
+        "WILDCARD_BITS": ""
+    },
+    {
+        "IP": "63.218.144.13",
+        "LIST": "",
+        "WILDCARD_BITS": ""
+    },
+    {
+        "IP": "202.123.47.0",
+        "LIST": "30",
+        "WILDCARD_BITS": "0.0.0.255 (187 matches)"
+    },
+    {
+        "IP": "202.123.37.0",
+        "LIST": "40",
+        "WILDCARD_BITS": "0.0.0.255 (222 matches)"
+    },
+    {
+        "IP": "125.62.169.0",
+        "LIST": "50",
+        "WILDCARD_BITS": "0.0.0.255"
+    },
+    {
+        "IP": "203.101.87.0",
+        "LIST": "60",
+        "WILDCARD_BITS": "0.0.0.255"
+    },
+    {
+        "IP": "125.62.160.128",
+        "LIST": "70",
+        "WILDCARD_BITS": "0.0.0.127"
+    },
+    {
+        "IP": "202.123.42.0",
+        "LIST": "80",
+        "WILDCARD_BITS": "0.0.0.255 (233 matches)"
+    },
+    {
+        "IP": "202.123.43.0",
+        "LIST": "90",
+        "WILDCARD_BITS": "0.0.0.255 (270 matches)"
+    },
+    {
+        "IP": "202.123.34.0",
+        "LIST": "100",
+        "WILDCARD_BITS": "0.0.0.255 (213 matches)"
+    },
+    {
+        "IP": "202.123.39.0",
+        "LIST": "110",
+        "WILDCARD_BITS": "0.0.0.255"
+    },
+    {
+        "IP": "116.119.39.0",
+        "LIST": "120",
+        "WILDCARD_BITS": "0.0.0.255 (5 matches)"
+    },
+    {
+        "IP": "172.23.20.0",
+        "LIST": "130",
+        "WILDCARD_BITS": "0.0.0.255 (6 matches)"
+    }
+]
