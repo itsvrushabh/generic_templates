@@ -35,7 +35,7 @@ class TextFSMHandler:
         print("-".center(100, "-"))
         print(len(self._fsm))
         print("-".center(100, "-"))
-
+      
         no_of_records = len(_res['fsm_dict'])
         no_of_header_attribute = len(_res['header'])
         percetange_of_record = 100 / no_of_records

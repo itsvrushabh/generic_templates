@@ -1,8 +1,7 @@
-csv_records = [
-    ['..\Stuff\Vishak\Cisco_xe\cisco_xe_show_access-list\show_acces-list.txt',
-        '..\Stuff\Vishak\Cisco_xe\cisco_xe_show_access-list\show_acces-list.textfsm'],
-    ['..\Stuff\Vishak\Cisco_xe\cisco_xe_show_access-list\show_acces-list.txt',
-        '..\Stuff\Vishak\Cisco_xe\cisco_xe_show_access-list\show_acces-list.textfsm'],
-    ['..\Stuff\Vishak\Cisco_xe\cisco_xe_show_access-list\show_acces-list.txt',
-        '..\Stuff\Vishak\Cisco_xe\cisco_xe_show_access-list\show_acces-list.textfsm']
-]
+import csv
+
+
+with open('TEMPLATES_COMMADN.csv', newline='') as csv_records:
+     spamreader = csv.reader(csv_records, delimiter=',')
+     for row in spamreader:
+         print(','.join(row))

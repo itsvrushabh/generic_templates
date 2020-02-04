@@ -3,7 +3,7 @@ from __future__ import absolute_import
 import sys
 import datetime
 from textfsm import TextFSM
-from netmiko import Netmiko
+import netmiko
 
 
 class TextFSMHandler:
