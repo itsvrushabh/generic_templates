@@ -1,0 +1,62 @@
+--------------------------------------------------------------------------------
+Port          Name               Status    Vlan      Duplex  Speed   Type
+--------------------------------------------------------------------------------
+mgmt0         --                 notconnec routed    auto    auto    --         
+Eth1/1        *** NCBS Phase 2 D connected 761       full    10G     10Gbase-SR-S
+Eth1/2        *** NCBS Cable ID  connected 713       full    10G     10Gbase-SR-S
+Eth1/3        *** NCBS Phase 2 D connected 761       full    10G     10Gbase-SR-S
+Eth1/4        *** NCBS Cable ID  connected 713       full    10G     10Gbase-SR-S
+Eth1/5        *** NCBS Phase 2 D connected 761       full    10G     10Gbase-SR-S
+Eth1/6        *** NCBS Cable ID  connected 713       full    10G     10Gbase-SR-S
+Eth1/7        description *** NC connected 761       full    10G     10Gbase-SR-S
+Eth1/8        *** NCBS Cable ID  connected 713       full    10G     10Gbase-SR-S
+Eth1/9        *** NCBS Cable ID  connected 712       full    10G     10Gbase-SR-S
+Eth1/10       *** NCBS Cable ID  connected 713       full    10G     10Gbase-SR-S
+Eth1/11       *** NCBS Cable ID  connected 713       full    10G     10Gbase-SR-S
+Eth1/12       *** NCBS Cable ID  connected 712       full    10G     10Gbase-SR-S
+Eth1/13       *** C47421 |Heartb connected 860       full    10G     10Gbase-SR-S
+Eth1/14       *** C47421 |Heartb connected 860       full    10G     10Gbase-SR-S
+Eth1/15       ***free Port***    notconnec 711       auto    auto    10Gbase-SR-S
+Eth1/16       *** Pramod Bhorse  connected 711       full    10G     10Gbase-SR-S
+Eth1/17       *** Pramod Bhorse  connected 860       full    10G     10Gbase-SR-S
+Eth1/18       *** Pramod Bhorse  connected 711       full    10G     10Gbase-SR-S
+Eth1/19       *** Pramod Bhorse  connected 860       full    10G     10Gbase-SR-S
+Eth1/20       ***free Port***    notconnec 711       auto    auto    10Gbase-SR-S
+Eth1/21       ***free Port***    notconnec 711       auto    auto    10Gbase-SR-S
+Eth1/22       *** Pramod Bhorse  connected 711       full    10G     10Gbase-SR-S
+Eth1/23       *** Pramod Bhorse  connected 860       full    10G     10Gbase-SR-S
+Eth1/24       ### description ## connected 712       full    10G     10Gbase-SR 
+Eth1/25       **NCBs | Sunil She connected 712       full    10G     10Gbase-SR 
+Eth1/26       **NCBs | Sunil She connected 712       full    10G     10Gbase-SR 
+Eth1/27       ***C650111| IBM S9 connected trunk     full    10G     10Gbase-SR-S
+Eth1/28       ***C650111| IBM S9 connected trunk     full    10G     10Gbase-SR 
+Eth1/29       --                 connected 711       full    10G     10Gbase-SR 
+Eth1/30       ***C650111| IBM S9 connected trunk     full    10G     10Gbase-SR-S
+Eth1/31       ***C650111| IBM S9 connected trunk     full    10G     10Gbase-SR 
+Eth1/32       ***C650111| IBM S9 connected trunk     full    10G     10Gbase-SR 
+Eth1/33       ***IRF no. C606598 connected 860       full    10G     10Gbase-SR 
+Eth1/34       ***IRF no. C606598 connected 860       full    10G     10Gbase-SR 
+Eth1/35       ***IRF no. C606598 connected 860       full    10G     10Gbase-SR 
+Eth1/36       ***free Port***    notconnec 860       auto    auto    10Gbase-SR 
+Eth1/37       ***free Port***    notconnec 860       auto    auto    10Gbase-SR 
+Eth1/38       ***free Port***    notconnec 860       auto    auto    10Gbase-SR 
+Eth1/39       ***reserved for IR connected 860       full    10G     10Gbase-SR 
+Eth1/40       ***reserved for IR connected 860       full    10G     10Gbase-SR-S
+Eth1/41       ***reserved for IR connected 860       full    10G     10Gbase-SR-S
+Eth1/42       ***C650111| IBM S9 connected trunk     full    10G     10Gbase-SR-S
+Eth1/43       ***C650111| IBM S9 connected trunk     full    10G     10Gbase-SR 
+Eth1/44       ***free Port***    notconnec trunk     auto    auto    10Gbase-SR 
+Eth1/45       *** C651930|DCMS|S notconnec 860       auto    auto    10Gbase-SR 
+Eth1/46       *** C651930|DCMS|S notconnec 860       auto    auto    10Gbase-SR 
+Eth1/47       ***Heartbeat***    connected trunk     full    10G     10Gbase-SR-S
+Eth1/48       ***Heartbeat***    connected trunk     full    10G     10Gbase-SR-S
+Eth1/49       **Uplink to Core N connected trunk     full    40G     QSFP-40G-SR-BD
+Eth1/50       **Uplink to Core N connected trunk     full    40G     QSFP-40G-SR-BD
+Eth1/51       *** HeartBeat ***  xcvrAbsen trunk     auto    auto    --         
+Eth1/52       *** HeartBeat ***  xcvrAbsen trunk     auto    auto    --         
+Eth1/53       --                 xcvrAbsen routed    auto    auto    --         
+Eth1/54       --                 xcvrAbsen routed    auto    auto    --         
+Po1           **Uplink to Core N connected trunk     full    40G     --         
+Po2           *** HeartBeat ***  connected trunk     full    10G     --         
+Vlan1         --                 down      routed    auto    auto    --
+Vlan741       **MGMT-Vlans**     connected routed    auto    auto    --
