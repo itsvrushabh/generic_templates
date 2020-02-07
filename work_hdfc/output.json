@@ -1,533 +1,533 @@
 [
     {
-        "NAME": "--",
         "SPEED": "auto",
+        "TYPE": "--         ",
+        "DUPLEX": "auto",
+        "VLAN": "routed",
         "PORT": "mgmt0",
         "STATUS": "notconnec",
-        "VLAN": "routed",
-        "DUPLEX": "auto",
-        "TYPE": "--         "
+        "NAME": "--"
     },
     {
-        "NAME": "*** NCBS Phase 2 D",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "761",
         "PORT": "Eth1/1",
         "STATUS": "connected",
-        "VLAN": "761",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Phase 2 D"
     },
     {
-        "NAME": "*** NCBS Cable ID",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "713",
         "PORT": "Eth1/2",
         "STATUS": "connected",
-        "VLAN": "713",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Cable ID"
     },
     {
-        "NAME": "*** NCBS Phase 2 D",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "761",
         "PORT": "Eth1/3",
         "STATUS": "connected",
-        "VLAN": "761",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Phase 2 D"
     },
     {
-        "NAME": "*** NCBS Cable ID",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "713",
         "PORT": "Eth1/4",
         "STATUS": "connected",
-        "VLAN": "713",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Cable ID"
     },
     {
-        "NAME": "*** NCBS Phase 2 D",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "761",
         "PORT": "Eth1/5",
         "STATUS": "connected",
-        "VLAN": "761",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Phase 2 D"
     },
     {
-        "NAME": "*** NCBS Cable ID",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "713",
         "PORT": "Eth1/6",
         "STATUS": "connected",
-        "VLAN": "713",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Cable ID"
     },
     {
-        "NAME": "description *** NC",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "761",
         "PORT": "Eth1/7",
         "STATUS": "connected",
-        "VLAN": "761",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "description *** NC"
     },
     {
-        "NAME": "*** NCBS Cable ID",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "713",
         "PORT": "Eth1/8",
         "STATUS": "connected",
-        "VLAN": "713",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Cable ID"
     },
     {
-        "NAME": "*** NCBS Cable ID",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "712",
         "PORT": "Eth1/9",
         "STATUS": "connected",
-        "VLAN": "712",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Cable ID"
     },
     {
-        "NAME": "*** NCBS Cable ID",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "713",
         "PORT": "Eth1/10",
         "STATUS": "connected",
-        "VLAN": "713",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Cable ID"
     },
     {
-        "NAME": "*** NCBS Cable ID",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "713",
         "PORT": "Eth1/11",
         "STATUS": "connected",
-        "VLAN": "713",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Cable ID"
     },
     {
-        "NAME": "*** NCBS Cable ID",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "712",
         "PORT": "Eth1/12",
         "STATUS": "connected",
-        "VLAN": "712",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** NCBS Cable ID"
     },
     {
-        "NAME": "*** C47421 |Heartb",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/13",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** C47421 |Heartb"
     },
     {
-        "NAME": "*** C47421 |Heartb",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/14",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** C47421 |Heartb"
     },
     {
-        "NAME": "***free Port***",
         "SPEED": "auto",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "auto",
+        "VLAN": "711",
         "PORT": "Eth1/15",
         "STATUS": "notconnec",
-        "VLAN": "711",
-        "DUPLEX": "auto",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***free Port***"
     },
     {
-        "NAME": "*** Pramod Bhorse",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "711",
         "PORT": "Eth1/16",
         "STATUS": "connected",
-        "VLAN": "711",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** Pramod Bhorse"
     },
     {
-        "NAME": "*** Pramod Bhorse",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/17",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** Pramod Bhorse"
     },
     {
-        "NAME": "*** Pramod Bhorse",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "711",
         "PORT": "Eth1/18",
         "STATUS": "connected",
-        "VLAN": "711",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** Pramod Bhorse"
     },
     {
-        "NAME": "*** Pramod Bhorse",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/19",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** Pramod Bhorse"
     },
     {
-        "NAME": "***free Port***",
         "SPEED": "auto",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "auto",
+        "VLAN": "711",
         "PORT": "Eth1/20",
         "STATUS": "notconnec",
-        "VLAN": "711",
-        "DUPLEX": "auto",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***free Port***"
     },
     {
-        "NAME": "***free Port***",
         "SPEED": "auto",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "auto",
+        "VLAN": "711",
         "PORT": "Eth1/21",
         "STATUS": "notconnec",
-        "VLAN": "711",
-        "DUPLEX": "auto",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***free Port***"
     },
     {
-        "NAME": "*** Pramod Bhorse",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "711",
         "PORT": "Eth1/22",
         "STATUS": "connected",
-        "VLAN": "711",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** Pramod Bhorse"
     },
     {
-        "NAME": "*** Pramod Bhorse",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/23",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "*** Pramod Bhorse"
     },
     {
-        "NAME": "### description ##",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "712",
         "PORT": "Eth1/24",
         "STATUS": "connected",
-        "VLAN": "712",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "### description ##"
     },
     {
-        "NAME": "**NCBs | Sunil She",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "712",
         "PORT": "Eth1/25",
         "STATUS": "connected",
-        "VLAN": "712",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "**NCBs | Sunil She"
     },
     {
-        "NAME": "**NCBs | Sunil She",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "712",
         "PORT": "Eth1/26",
         "STATUS": "connected",
-        "VLAN": "712",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "**NCBs | Sunil She"
     },
     {
-        "NAME": "***C650111| IBM S9",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/27",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***C650111| IBM S9"
     },
     {
-        "NAME": "***C650111| IBM S9",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/28",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***C650111| IBM S9"
     },
     {
-        "NAME": "--",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "711",
         "PORT": "Eth1/29",
         "STATUS": "connected",
-        "VLAN": "711",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "--"
     },
     {
-        "NAME": "***C650111| IBM S9",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/30",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***C650111| IBM S9"
     },
     {
-        "NAME": "***C650111| IBM S9",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/31",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***C650111| IBM S9"
     },
     {
-        "NAME": "***C650111| IBM S9",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/32",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***C650111| IBM S9"
     },
     {
-        "NAME": "***IRF no. C606598",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/33",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***IRF no. C606598"
     },
     {
-        "NAME": "***IRF no. C606598",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/34",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***IRF no. C606598"
     },
     {
-        "NAME": "***IRF no. C606598",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/35",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***IRF no. C606598"
     },
     {
-        "NAME": "***free Port***",
         "SPEED": "auto",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "auto",
+        "VLAN": "860",
         "PORT": "Eth1/36",
         "STATUS": "notconnec",
-        "VLAN": "860",
-        "DUPLEX": "auto",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***free Port***"
     },
     {
-        "NAME": "***free Port***",
         "SPEED": "auto",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "auto",
+        "VLAN": "860",
         "PORT": "Eth1/37",
         "STATUS": "notconnec",
-        "VLAN": "860",
-        "DUPLEX": "auto",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***free Port***"
     },
     {
-        "NAME": "***free Port***",
         "SPEED": "auto",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "auto",
+        "VLAN": "860",
         "PORT": "Eth1/38",
         "STATUS": "notconnec",
-        "VLAN": "860",
-        "DUPLEX": "auto",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***free Port***"
     },
     {
-        "NAME": "***reserved for IR",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/39",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***reserved for IR"
     },
     {
-        "NAME": "***reserved for IR",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/40",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***reserved for IR"
     },
     {
-        "NAME": "***reserved for IR",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "860",
         "PORT": "Eth1/41",
         "STATUS": "connected",
-        "VLAN": "860",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***reserved for IR"
     },
     {
-        "NAME": "***C650111| IBM S9",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/42",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***C650111| IBM S9"
     },
     {
-        "NAME": "***C650111| IBM S9",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/43",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***C650111| IBM S9"
     },
     {
-        "NAME": "***free Port***",
         "SPEED": "auto",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "auto",
+        "VLAN": "trunk",
         "PORT": "Eth1/44",
         "STATUS": "notconnec",
-        "VLAN": "trunk",
-        "DUPLEX": "auto",
-        "TYPE": "10Gbase-SR "
+        "NAME": "***free Port***"
     },
     {
-        "NAME": "*** C651930|DCMS|S",
         "SPEED": "auto",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "auto",
+        "VLAN": "860",
         "PORT": "Eth1/45",
         "STATUS": "notconnec",
-        "VLAN": "860",
-        "DUPLEX": "auto",
-        "TYPE": "10Gbase-SR "
+        "NAME": "*** C651930|DCMS|S"
     },
     {
-        "NAME": "*** C651930|DCMS|S",
         "SPEED": "auto",
+        "TYPE": "10Gbase-SR ",
+        "DUPLEX": "auto",
+        "VLAN": "860",
         "PORT": "Eth1/46",
         "STATUS": "notconnec",
-        "VLAN": "860",
-        "DUPLEX": "auto",
-        "TYPE": "10Gbase-SR "
+        "NAME": "*** C651930|DCMS|S"
     },
     {
-        "NAME": "***Heartbeat***",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/47",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***Heartbeat***"
     },
     {
-        "NAME": "***Heartbeat***",
         "SPEED": "10G",
+        "TYPE": "10Gbase-SR-S",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/48",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "10Gbase-SR-S"
+        "NAME": "***Heartbeat***"
     },
     {
-        "NAME": "**Uplink to Core N",
         "SPEED": "40G",
+        "TYPE": "QSFP-40G-SR-BD",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/49",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "QSFP-40G-SR-BD"
+        "NAME": "**Uplink to Core N"
     },
     {
-        "NAME": "**Uplink to Core N",
         "SPEED": "40G",
+        "TYPE": "QSFP-40G-SR-BD",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Eth1/50",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "QSFP-40G-SR-BD"
+        "NAME": "**Uplink to Core N"
     },
     {
-        "NAME": "*** HeartBeat ***",
         "SPEED": "auto",
+        "TYPE": "--         ",
+        "DUPLEX": "auto",
+        "VLAN": "trunk",
         "PORT": "Eth1/51",
         "STATUS": "xcvrAbsen",
-        "VLAN": "trunk",
-        "DUPLEX": "auto",
-        "TYPE": "--         "
+        "NAME": "*** HeartBeat ***"
     },
     {
-        "NAME": "*** HeartBeat ***",
         "SPEED": "auto",
+        "TYPE": "--         ",
+        "DUPLEX": "auto",
+        "VLAN": "trunk",
         "PORT": "Eth1/52",
         "STATUS": "xcvrAbsen",
-        "VLAN": "trunk",
-        "DUPLEX": "auto",
-        "TYPE": "--         "
+        "NAME": "*** HeartBeat ***"
     },
     {
-        "NAME": "--",
         "SPEED": "auto",
+        "TYPE": "--         ",
+        "DUPLEX": "auto",
+        "VLAN": "routed",
         "PORT": "Eth1/53",
         "STATUS": "xcvrAbsen",
-        "VLAN": "routed",
-        "DUPLEX": "auto",
-        "TYPE": "--         "
+        "NAME": "--"
     },
     {
-        "NAME": "--",
         "SPEED": "auto",
+        "TYPE": "--         ",
+        "DUPLEX": "auto",
+        "VLAN": "routed",
         "PORT": "Eth1/54",
         "STATUS": "xcvrAbsen",
-        "VLAN": "routed",
-        "DUPLEX": "auto",
-        "TYPE": "--         "
+        "NAME": "--"
     },
     {
-        "NAME": "**Uplink to Core N",
         "SPEED": "40G",
+        "TYPE": "--         ",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Po1",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "--         "
+        "NAME": "**Uplink to Core N"
     },
     {
-        "NAME": "*** HeartBeat ***",
         "SPEED": "10G",
+        "TYPE": "--         ",
+        "DUPLEX": "full",
+        "VLAN": "trunk",
         "PORT": "Po2",
         "STATUS": "connected",
-        "VLAN": "trunk",
-        "DUPLEX": "full",
-        "TYPE": "--         "
+        "NAME": "*** HeartBeat ***"
     },
     {
-        "NAME": "--",
         "SPEED": "auto",
+        "TYPE": "--",
+        "DUPLEX": "auto",
+        "VLAN": "routed",
         "PORT": "Vlan1",
         "STATUS": "down",
-        "VLAN": "routed",
-        "DUPLEX": "auto",
-        "TYPE": "--"
+        "NAME": "--"
     },
     {
-        "NAME": "**MGMT-Vlans**",
         "SPEED": "auto",
+        "TYPE": "--",
+        "DUPLEX": "auto",
+        "VLAN": "routed",
         "PORT": "Vlan741",
         "STATUS": "connected",
-        "VLAN": "routed",
-        "DUPLEX": "auto",
-        "TYPE": "--"
+        "NAME": "**MGMT-Vlans**"
     }
 ]

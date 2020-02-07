@@ -6,7 +6,7 @@ def factory_func(template, command_output_file_loc, template_file_loc):
     command_output = open(command_output_file_loc).read()
     template.get_command_fsm(command_output, template_file_loc)
     if template._status:
-        template.get_template_accuracy()
+        template.                                                               ()
     else:
         raise Exception('Template have some issue')
 
