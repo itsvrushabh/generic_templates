@@ -40,7 +40,11 @@ class TextFSMHandler:
     def get_template_accuracy(self):
         no_of_records = len(self._json_output)
         no_of_header_attribute = len(self._header)
+        #try:
         percetange_of_record = 100 / no_of_records
+        #except Exception:
+        #    raise
+
         percetange_of_attribute = percetange_of_record/no_of_header_attribute
         template_percetange = 0
         temp_name = self.name

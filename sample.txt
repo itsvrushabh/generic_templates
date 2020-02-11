@@ -1,0 +1,57 @@
+Directory of bootflash:/
+
+   11  drwx            16384   Aug 2 2014 05:07:24 +00:00  lost+found
+75521  drwx             4096   Aug 2 2014 05:07:29 +00:00  .prst_sync
+105729  drwx            28672  Jan 13 2020 11:15:22 +00:00  tracelogs
+   12  -rwx             2384   Oct 4 2016 02:15:14 +00:00  tracelogs.464
+   16  -rw-             2310  May 17 2018 22:05:08 +00:00  abc
+15105  drwx             4096  Nov 30 2018 19:51:22 +00:00  .installer
+   13  -rw-             1182   Aug 2 2014 05:20:58 +00:00  CAT1829U1PX_1_1406982042.lic
+   14  -rw-             1148   Aug 2 2014 05:21:29 +00:00  CAT1829U1PX_1_1406982073.lic
+135946  drwx             4096   Dec 5 2018 16:48:54 +00:00  core
+60417  drwx             4096   Aug 2 2014 05:26:49 +00:00  .rollback_timer
+   15  -rw-             2230  Aug 15 2017 23:02:59 +00:00  Sunilbackup
+   25  -rw-             2510   May 7 2018 03:04:54 +00:00  abc.json
+120833  drwx             4096  Nov 27 2018 21:29:49 +00:00  .ssh
+   27  -rw-             2510   May 7 2018 03:54:02 +00:00  yes
+   21  -rw-             2519   May 9 2018 21:02:48 +00:00  15_cisco_backup.cfg
+   28  -rw-             2511  May 17 2018 22:21:18 +00:00  920ilatest
+   31  -rw-             2519   May 9 2018 20:43:03 +00:00  end
+   20  -rw-             1173   Feb 7 2015 06:32:02 +00:00  CAT1829U1PX_20150207050834341.lic
+151041  drwx             4096  Nov 27 2018 21:31:11 +00:00  vman_fdb
+   22  -rw-        266519148   Feb 1 2016 06:57:45 +00:00  asr920-universalk9_npe.03.14.02.S.155-1.S2-std.bin
+   68  -rw-            18781  Mar 27 2019 15:18:26 +00:00  ptp_session_old.log
+   17  -rw-             8522   Apr 3 2019 19:03:52 +00:00  ptp_session.log
+   18  -rw-            14548  Apr 30 2019 15:28:54 +00:00  ASR920RunConf_30April
+   19  -rw-            12207   Jan 9 2020 16:25:54 +00:00  tmp_config.cfg
+   88  -rw-            10558   Nov 7 2019 17:16:12 +00:00  ttt.cfg
+   23  -rw-            33035  Oct 10 2016 03:15:32 +00:00  6000-PLWRHRONESR001_920_I_Fiber.txt
+   24  -rw-            33004  Oct 10 2016 03:26:00 +00:00  NIP_I-BR-PLWR-ENB-6000-PLWRHRONESR001_920_I_Fiber1.txt
+   32  -rw-             2519   May 7 2018 05:29:57 +00:00  dir
+   33  -rw-             2449   May 8 2018 03:07:47 +00:00  920ibackup
+   34  -rw-             3067   Aug 1 2018 00:23:05 +00:00  isisbackup
+   35  -rw-             2519   May 9 2018 04:16:27 +00:00  demo.txt
+   26  -rw-             2519   May 9 2018 21:04:14 +00:00  16_cisco_backup.cfg
+   29  -rw-             2511  May 17 2018 22:21:43 +00:00  920ilatest.txt
+   30  -rw-             2520  May 17 2018 22:28:15 +00:00  172.16.1.10_cisco_backup.cfg
+   36  -rw-             3532  Aug 13 2018 02:30:06 +00:00  MUM903ASR_1_infra_nip.txt
+   37  -rw-             3234  Nov 22 2018 01:58:58 +00:00  Backup_Nov_22_2018.txt
+   38  -rw-        445539144   Dec 4 2018 12:02:39 +00:00  asr920-universalk9_npe.16.09.02.SPA.bin
+   39  -rw-          1586124   Dec 4 2018 12:04:43 +00:00  asr920_15_6_31r_s_rommon.pkg
+   40  -rw-             3234  Nov 26 2018 00:58:48 +00:00  Backup_Config_26-11-2018.txt
+   41  -rw-        363287548  Nov 27 2018 21:16:47 +00:00  asr920-universalk9_npe.V156_2_SP_SR682897525_5.bin
+   42  -rw-             3321  Nov 27 2018 21:22:02 +00:00  Lic_27_Nov_2018
+135937  drwx             4096  Nov 27 2018 21:31:11 +00:00  virtual-instance
+151042  drwx             4096  Jul 15 2014 01:09:40 +00:00  usb_modem
+135960  drwx             4096  Nov 30 2018 20:12:27 +00:00  .dbpersist
+120854  drwx             4096  Nov 30 2018 20:06:44 +00:00  onep
+   61  -rw-                5   Feb 8 2019 20:47:54 +00:00  test11.txt
+   62  -rw-                0   Feb 9 2019 14:30:59 +00:00  tets1212.txt
+   63  -rw-                0   Feb 9 2019 12:16:47 +00:00  temp.txt
+   64  -rw-            10589   Feb 9 2019 18:43:22 +00:00  TEST_ASR903_3_infra_nip.txt
+   66  -rw-             9214  Feb 14 2019 18:48:17 +00:00  config_bkp.cfg
+   67  -rw-              577  Feb 14 2019 18:54:29 +00:00  blank.cfg
+   69  -rw-          1586124  Mar 18 2019 16:41:13 +00:00  usb
+   65  -rw-            22046  Dec 17 2019 05:26:43 +00:00  nip_ADI-MRD-MPL-T4-ACC-RTR-101-115.txt
+
+1339412480 bytes total (171245568 bytes free)

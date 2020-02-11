@@ -7,4 +7,4 @@ with open('TEMPLATES_COMMADN.csv', newline='') as csv_records:
      for row in spamreader:
         csv_record.append(row)
     
- 
+print(csv_record) 
