@@ -1,0 +1,20 @@
+Value SERVER_ADDRESS (\d+\.\d+\.\d+\.\d+\/\d+)
+Value SOCKET_OPENS (.+)
+Value SOCKET_CLOSES (.+)
+Value SOCKET_ABORTS (.+)
+Value SOCKET_ERRORS (.+)
+Value SOCKET_TIMEOUTS (.+)
+Value FAILED_CONNECT_ATTEMPTS (\d+)
+Value TOTAL_PACKETS_SENT (\d+)
+Value TOTAL_PACKETS_RECV (\d+)
+
+Start
+  ^.*Server\s+:\s+${SERVER_ADDRESS}
+  ^\s+Socket\s+opens:\s+${SOCKET_OPENS}
+  ^\s+Socket\s+closes:\s+${SOCKET_CLOSES}
+  ^\s+Socket\s+aborts:\s+${SOCKET_ABORTS}
+  ^\s+Socket\s+errors:\s+${SOCKET_ERRORS}
+  ^\s+Socket\s+Timeouts:\s+${SOCKET_TIMEOUTS}
+  ^\s+Failed\s+Connect\s+Attempts:\s+${FAILED_CONNECT_ATTEMPTS}
+  ^\s+Total\s+Packets\s+Sent:\s+${TOTAL_PACKETS_SENT}
+  ^\s+Total\s+Packets\s+Recv:\s+${TOTAL_PACKETS_RECV} -> Record

@@ -1,0 +1,22 @@
+BHV-MPL-PE-RTR-163#show ip igmp groups
+IGMP Connected Group Membership
+Group Address    Interface                Uptime    Expires   Last Reporter   Group Accounted
+224.0.1.40       Loopback0                5y5w      00:02:57  202.123.47.163  
+BHV-MPL-PE-RTR-163#show ip bgp ipv4 mdt all summary
+BGP router identifier 202.123.47.163, local AS number 9730
+BGP table version is 187181, main routing table version 187181
+1765 network entries using 261220 bytes of memory
+3529 path entries using 197624 bytes of memory
+41/41 BGP path/bestpath attribute entries using 5084 bytes of memory
+565 BGP rrinfo entries using 20584 bytes of memory
+107 BGP AS-PATH entries using 10870 bytes of memory
+11 BGP community entries using 280 bytes of memory
+1565 BGP extended community entries using 73260 bytes of memory
+0 BGP route-map cache entries using 0 bytes of memory
+0 BGP filter-list cache entries using 0 bytes of memory
+BGP using 568922 total bytes of memory
+BGP activity 270382165/270243340 prefixes, 1001515793/1001245270 paths, scan interval 60 secs
+
+Neighbor        V           AS MsgRcvd MsgSent   TblVer  InQ OutQ Up/Down  State/PfxRcd
+202.123.37.10   4         9730 404316415 1423384   187181    0    0 23w4d        1764
+202.123.37.25   4         9730 406098809 1423388   187181    0    0 23w4d        1765

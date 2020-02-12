@@ -1,0 +1,30 @@
+BHV-MPL-PE-RTR-163#show ip bgp vpnv4 all summary
+BGP router identifier 202.123.47.163, local AS number 9730
+BGP table version is 2813518926, main routing table version 2813518926
+136220 network entries using 20705440 bytes of memory
+266990 path entries using 13883480 bytes of memory
+9860/9559 BGP path/bestpath attribute entries using 1301520 bytes of memory
+565 BGP rrinfo entries using 20584 bytes of memory
+96 BGP AS-PATH entries using 10430 bytes of memory
+11 BGP community entries using 280 bytes of memory
+1546 BGP extended community entries using 72628 bytes of memory
+0 BGP route-map cache entries using 0 bytes of memory
+0 BGP filter-list cache entries using 0 bytes of memory
+BGP using 35994362 total bytes of memory
+BGP activity 270382165/270243340 prefixes, 1001515789/1001245265 paths, scan interval 60 secs
+
+Neighbor        V           AS MsgRcvd MsgSent   TblVer  InQ OutQ Up/Down  State/PfxRcd
+10.171.144.69   4        65065   20351  550914 2813518929    0    0 1w5d            2
+10.171.172.21   4        65065   13976  384704 2813518929    0    0 1w1d            2
+10.171.188.233  4        65065   12179  335578 2813518929    0    0 1w0d            2
+10.171.196.125  4        65065     566   15117 2813518929    0    0 08:28:30        2
+10.242.6.53     4        65000       0       0        1    0    0 9w5d     Idle
+10.242.6.245    4        65000     468     574 2813518929    0    0 08:28:31        3
+111.235.72.34   4        23456       0       0        1    0    0 never    Idle
+172.34.58.90    4        65515   19916   19978 2813518929    0    0 1w5d            6
+172.35.21.34    4        65001       0       0        1    0    0 47w2d    Idle
+172.35.24.154   4        65001       0       0        1    0    0 4y25w    Idle
+172.35.68.174   4        65530       0       0        1    0    0 10w0d    Active
+172.37.238.130  4        64513     589    3756 2813518929    0    0 08:50:46        5
+202.123.37.10   4         9730 404316370 1423384 2813518926    0    0 23w4d      130190
+202.123.37.25   4         9730 406098728 1423388 2813518926    0    0 23w4d      130529
