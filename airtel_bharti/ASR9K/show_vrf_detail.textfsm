@@ -1,0 +1,45 @@
+Value EX_ADDRESS1_iv4 (\d+\:\d+)
+Value EX_ADDRESS2_iv4 (\d+\:\d+)
+Value EX_ADDRESS3_iv4 (\d+\:\d+)
+Value IM_ADDRESS1_iv4 (\d+\:\d+)
+Value IM_ADDRESS2_iv4 (\d+\:\d+)
+Value IM_ADDRESS3_iv4 (\d+\:\d+)
+Value EX_ADDRESS1_iv6 (\d+\:\d+)
+Value EX_ADDRESS2_iv6 (\d+\:\d+)
+Value EX_ADDRESS3_iv6 (\d+\:\d+)
+Value IM_ADDRESS1_iv6 (\d+\:\d+)
+Value IM_ADDRESS2_iv6 (\d+\:\d+)
+Value IM_ADDRESS3_iv6 (\d+\:\d+)
+
+
+Start
+  ^\s*Address family ipv4.* -> ExportListv4
+  ^Address family ipv6.* -> ExportListv6
+
+ExportListv4
+  ^\s+Export VPN route\-target communities -> ExAddressListv4
+
+ExAddressListv4
+  ^\s+RT:${EX_ADDRESS1_iv4}\s+RT:${EX_ADDRESS2_iv4}\s+RT:${EX_ADDRESS3_iv4} -> Record
+  ^\s+RT:${EX_ADDRESS1_iv4}\s+RT:${EX_ADDRESS2_iv4} -> Record
+  ^\s+RT:${EX_ADDRESS1_iv4} -> Record
+  ^\s+Import VPN route\-target communities -> ImAddressListv4
+
+ImAddressListv4
+  ^\s+RT:${IM_ADDRESS1_iv4}\s+RT:${IM_ADDRESS2_iv4}\s+RT:${IM_ADDRESS3_iv4} -> Record
+  ^\s+RT:${IM_ADDRESS1_iv4}\s+RT:${IM_ADDRESS2_iv4} -> Record
+  ^\s+RT:${IM_ADDRESS1_iv4} -> Record
+
+ExportListv6
+  ^\s+Export VPN route\-target communities -> ExAddressListv4
+
+ExAddressListv6
+  ^\s+RT:${EX_ADDRESS1_iv6}\s+RT:${EX_ADDRESS2_iv6}\s+RT:${EX_ADDRESS3_iv6} -> Record
+  ^\s+RT:${EX_ADDRESS1_iv6}\s+RT:${EX_ADDRESS2_iv6} -> Record
+  ^\s+RT:${EX_ADDRESS1_iv6} -> Record
+  ^\s+Import VPN route\-target communities -> ImAddressListv6
+
+ImAddressListv6
+  ^\s+RT:${IM_ADDRESS1_iv6}\s+RT:${IM_ADDRESS2_iv6}\s+RT:${IM_ADDRESS3_iv6} -> Record
+  ^\s+RT:${IM_ADDRESS1_iv6}\s+RT:${IM_ADDRESS2_iv6} -> Record
+  ^\s+RT:${IM_ADDRESS1_iv6} -> Record

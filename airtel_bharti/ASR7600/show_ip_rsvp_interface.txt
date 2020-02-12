@@ -1,0 +1,28 @@
+AMD-MPL-PE-RTR-208#sh ip rsvp interface
+interface    rsvp       allocated  i/f max  flow max sub max  VRF
+Gi8/1        ena        0          750M     750M     0
+Gi8/1.22     ena        0          76800K   76800K   0
+Gi8/1.251    ena        0          7680K    7680K    0
+Gi8/2        ena        0          750M     750M     0
+Gi8/2.110    ena        0          76800K   76800K   0
+Gi8/2.200    ena        0          76800K   76800K   0
+Gi8/2.300    ena        0          61440K   61440K   0
+Gi8/2.500    ena        0          76800K   76800K   0
+Gi8/5        ena        0          750M     750M     0
+Gi8/5.3      ena        0          813750K  813750K  0
+Gi8/6        ena        0          697500K  697500K  0
+Gi8/7        ena        0          238080K  238080K  0
+Gi8/9        ena        0          750M     750M     0
+Gi8/9.8      ena        0          697500K  697500K  0
+Gi8/10       ena        0          750M     750M     0
+Gi8/14       ena        0          348750K  348750K  0
+Gi8/16       ena        0          813750K  813750K  0
+Gi9/0/0      ena        0          750M     750M     0
+Gi9/0/0.22   ena        0          76800K   76800K   0
+Gi9/0/0.251  ena        0          7680K    7680K    0
+Gi9/0/1      ena        0          750M     750M     0
+Gi9/0/4      ena        0          750M     750M     0
+Gi9/0/4.110  ena        0          76800K   76800K   0
+Gi9/0/4.200  ena        0          76800K   76800K   0
+Gi9/0/4.300  ena        0          61440K   61440K   0
+Gi9/0/4.500  ena        0          76800K   76800K   0

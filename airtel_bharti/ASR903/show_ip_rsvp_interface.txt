@@ -1,0 +1,4 @@
+KPR-NGS-MPL-T4-ACC-RTR-39-31#    sh ip rsvp interface
+interface    rsvp       allocated  i/f max  flow max sub max  VRF
+Gi0/0/0      ena        0          750M     750M     0
+Gi0/1/0      ena        0          750M     750M     0

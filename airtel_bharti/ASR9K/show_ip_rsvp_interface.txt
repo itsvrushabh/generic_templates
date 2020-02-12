@@ -1,0 +1,10 @@
+RP/0/RP0/CPU0:EBD-BHA-MPL-LTE-PE-RTR-34-123#sh rsvp interface
+Tue Jan 28 17:38:15.992 IST
+
+*: RDM: Default I/F B/W % : 75% [default] (max resv/bc0), 0% [default] (bc1)
+
+Interface                 MaxBW (bps)  MaxFlow (bps) Allocated (bps)      MaxSub (bps)
+------------------------- ------------ ------------- -------------------- -------------
+Bundle-Ether51.2                  75G*           75G             0 (  0%)            0*
+Bundle-Ether54.2                  75G*           75G             0 (  0%)            0*
+Bundle-Ether53.2                  75G*           75G             0 (  0%)            0*

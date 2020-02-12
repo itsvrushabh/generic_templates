@@ -1,0 +1,42 @@
+VRF Mgmt-intf (VRF Id = 1); default RD <not set>; default VPNID <not set>
+  New CLI format, supports multiple address-families
+  Flags: 0x1808
+  Interfaces:
+    Gi0
+Address family ipv4 unicast (Table ID = 0x1):
+  Flags: 0x0
+  No Export VPN route-target communities
+  No Import VPN route-target communities
+  No import route-map
+  No global export route-map
+  No export route-map
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+Address family ipv6 unicast (Table ID = 0x1E000001):
+  Flags: 0x0
+  No Export VPN route-target communities
+  No Import VPN route-target communities
+  No import route-map
+  No global export route-map
+  No export route-map
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+Address family ipv4 multicast not active
+Address family ipv6 multicast not active
+
+VRF __Platform_iVRF:_ID00_ (VRF Id = 1023); default RD <not set>; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0x8
+  Interfaces:
+    LI0
+Address family ipv4 unicast (Table ID = 0x3FF):
+  Flags: 0x0
+  No Export VPN route-target communities
+  No Import VPN route-target communities
+  No import route-map
+  No global export route-map
+  No export route-map
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+
+KPR-NGS-MPL-T4-ACC-RTR-39-31#

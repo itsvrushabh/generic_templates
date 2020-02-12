@@ -1,0 +1,1098 @@
+VRF ABELLON-CLEANENERGY-M (VRF Id = 3); default RD 9730:16212; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi9/0/2.719              Gi8/15.9913
+Address family ipv4 unicast (Table ID = 0x3):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:16212
+  Import VPN route-target communities
+    RT:9730:16212            RT:9730:87               RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 5000, warning limit 80% (4000), current count 36
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 23)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ABHIPRA-CAPITAL-2-S (VRF Id = 4); default RD 9730:8601; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Tu15
+Address family ipv4 unicast (Table ID = 0x4):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:8601
+  Import VPN route-target communities
+    RT:9730:8600             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 12
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 24)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ACULIFE-HEALTHCARE-PRIVAT-M (VRF Id = 5); default RD 9730:21990; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/13.2707              Gi9/0/3.2707
+Address family ipv4 unicast (Table ID = 0x5):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:21990
+  Import VPN route-target communities
+    RT:9730:21990            RT:9730:87               RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 5000, warning limit 80% (4000), current count 28
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 25)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ADANI-POWER-LTD-H (VRF Id = 6); default RD 9730:2027; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Se1/1/0.1/1/1/1:0
+Address family ipv4 unicast (Table ID = 0x6):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:2027
+  Import VPN route-target communities
+    RT:9730:2028
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 3
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 26)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ADANI-POWER-MAHARASHTRA-S (VRF Id = 7); default RD 9730:19132; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x7):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:19132
+  Import VPN route-target communities
+    RT:9730:19131            RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING
+  Route limit 5000, warning limit 80% (4000), current count 141
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 27)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ADANI-POWER-MAHARASHTRA-S2 (VRF Id = 8); default RD 9730:20472; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/13.2706              Gi9/0/3.2706
+Address family ipv4 unicast (Table ID = 0x8):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:19132
+  Import VPN route-target communities
+    RT:9730:19131            RT:9730:87               RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 5000, warning limit 80% (4000), current count 158
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 28)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ADARSH-CREDIT-CO-OPERATIV-M (VRF Id = 9); default RD 9730:20319; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x9):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:20319            RT:9730:10916
+  Import VPN route-target communities
+    RT:9730:20319            RT:9730:5300             RT:9730:10916
+    RT:9730:10917
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING
+  Route limit 5000, warning limit 80% (4000), current count 14
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 29)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ADITYA-BIRLA-MONEY-S (VRF Id = 539); default RD 9730:7694; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Tu29                     Ls0                      Gi9/0/2.2972
+Address family ipv4 unicast (Table ID = 0x21B):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:7694
+  Import VPN route-target communities
+    RT:9730:7693             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 262
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 4577)
+  BGP next-hop: Loopback0 202.123.47.208
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AIRTEL-ENTERPRISE-H (VRF Id = 12); default RD 9730:795; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Se4/1/0.1/2/5/1:0
+Address family ipv4 unicast (Table ID = 0xC):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:795
+  Import VPN route-target communities
+    RT:9730:795              RT:9730:796
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 0
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 32)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AIRTEL-VIDEO-CONFERENCE-M (VRF Id = 13); default RD 9730:1786; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/4.2701               Gi9/0/2.2701
+Address family ipv4 unicast (Table ID = 0xD):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:1786
+  Import VPN route-target communities
+    RT:9730:1786             RT:9730:1401             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 46
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 33)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ALCATEL-DATACENTER-INFRA2 (VRF Id = 14); default RD 9730:17008; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/2.151                Gi9/0/4.151
+Address family ipv4 unicast (Table ID = 0xE):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:16885
+  Import VPN route-target communities
+    RT:9730:16885
+  Import route-map: DATA-CENTRE-COMMUNICATION
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 65
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 34)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ALCATEL-INFRA-24-M (VRF Id = 538); default RD 9730:25842; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x21A):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17433
+  Import VPN route-target communities
+    RT:9730:17451            RT:9730:30108            RT:9730:17433
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 790
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 8594)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ALCATEL-INFRA-32-S (VRF Id = 15); default RD 9730:17434; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/4.390                Gi9/0/2.390
+Address family ipv4 unicast (Table ID = 0xF):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17434
+  Import VPN route-target communities
+    RT:9730:17451
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 6
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 35)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ALCATEL-INFRA-64-M (VRF Id = 16); default RD 9730:17433; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/4.380                Gi9/0/2.380              Gi8/4.158
+    Gi9/0/2.158
+Address family ipv4 unicast (Table ID = 0x10):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17433
+  Import VPN route-target communities
+    RT:9730:17451
+  Import route-map: LPBK-64M-DENY
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 6
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 36)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ALCATEL-R3-TO-R7-M (VRF Id = 17); default RD 9730:17312; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/4.131                Gi9/0/2.131
+Address family ipv4 unicast (Table ID = 0x11):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17312
+  Import VPN route-target communities
+    RT:9730:17312
+  Import route-map: DATACENTER-ALCATEL-R3-TO-R7
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 19
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 37)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ALCATEL-R3-TO-R7-M2 (VRF Id = 18); default RD 9730:17313; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/4.132                Gi9/0/2.132
+Address family ipv4 unicast (Table ID = 0x12):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17312
+  Import VPN route-target communities
+    RT:9730:17312
+  Import route-map: DATACENTER-ALCATEL-R3-TO-R7
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 17
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 38)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AMOLI-ORGANICS-S (VRF Id = 20); default RD 9730:15506; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x14):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:15506
+  Import VPN route-target communities
+    RT:9730:15505            RT:9730:87               RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 5000, warning limit 80% (4000), current count 20
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 40)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ANAGRAM-SECURITIES-H (VRF Id = 21); default RD 9730:1073; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Tu3                      Tu16
+Address family ipv4 unicast (Table ID = 0x15):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:1073
+  Import VPN route-target communities
+    RT:9730:1073             RT:9730:1074             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 24
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 41)
+  BGP next-hop: Loopback0 202.123.47.208
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ANAGRAM-SECURITIES-H2 (VRF Id = 22); default RD 9730:18106; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x16):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:1073
+  Import VPN route-target communities
+    RT:9730:1073             RT:9730:1074
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 12
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 42)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ANAGRAM-SECURITIES-LIMITED-H (VRF Id = 23); default RD 9730:1248; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Se7/0/0.1/2/4/2:0
+Address family ipv4 unicast (Table ID = 0x17):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:1248
+  Import VPN route-target communities
+    RT:9730:1248             RT:9730:1249
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 9
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 43)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ANCHOR-ELECTRICAL-M (VRF Id = 25); default RD 9730:1720; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x19):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:1720
+  Import VPN route-target communities
+    RT:9730:5300             RT:9730:1720             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 424
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 45)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF APOLLO-HEALTH-LIFESTYLE-S (VRF Id = 27); default RD 9730:9784; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/1.614                Gi9/0/0.614
+Address family ipv4 unicast (Table ID = 0x1B):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:9784
+  Import VPN route-target communities
+    RT:9730:9783             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 15
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 47)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AROMEN-HOSPITALITY-PRIVAT-S (VRF Id = 28); default RD 9730:17261; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x1C):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17261
+  Import VPN route-target communities
+    RT:9730:17260            RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 87
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 48)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AROMEN-HOSPITALITY-PRIVAT-S2 (VRF Id = 30); default RD 9730:17262; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x1E):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17261
+  Import VPN route-target communities
+    RT:9730:17260            RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 87
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 50)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AROMEN-HOSPITALITY-PRIVAT-S3 (VRF Id = 31); default RD 9730:17264; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x1F):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17261
+  Import VPN route-target communities
+    RT:9730:17260            RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 51)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AROMEN-HOSPITALITY-PRIVAT-S4 (VRF Id = 32); default RD 9730:17265; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x20):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17261
+  Import VPN route-target communities
+    RT:9730:17260            RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 87
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 52)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AROMEN-HOSPITALITY-PRIVAT-S5 (VRF Id = 33); default RD 9730:17283; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x21):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17261
+  Import VPN route-target communities
+    RT:9730:17260            RT:9730:5300             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 5000, warning limit 80% (4000), current count 91
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 53)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AROMEN-HOSPITALITY-PRIVAT-S6 (VRF Id = 34); default RD 9730:17879; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x22):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17261
+  Import VPN route-target communities
+    RT:9730:17260            RT:9730:5300             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 5000, warning limit 80% (4000), current count 91
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 54)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AROMEN-HOSPITALITY-PRIVAT-S7 (VRF Id = 35); default RD 9730:17880; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x23):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:17261
+  Import VPN route-target communities
+    RT:9730:17260            RT:9730:5300             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 5000, warning limit 80% (4000), current count 91
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 55)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ASAHI-INDIA-GLASS-LTD-S (VRF Id = 513); default RD 9730:21118; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/20.5633
+Address family ipv4 unicast (Table ID = 0x201):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:21118            RT:9730:6659
+  Import VPN route-target communities
+    RT:9730:21117            RT:9730:87               RT:9730:6659
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 52
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 6596)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ASCENT-MEDITECH-LIMITED-S (VRF Id = 38); default RD 9730:12944; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x26):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:12944
+  Import VPN route-target communities
+    RT:9730:87               RT:9730:5300             RT:9730:12943
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 5000, warning limit 80% (4000), current count 20
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 58)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ASCENT-MEDITECH-LIMITED-S2 (VRF Id = 39); default RD 9730:17271; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x27):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:12944
+  Import VPN route-target communities
+    RT:9730:12943            RT:9730:87               RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 5000, warning limit 80% (4000), current count 20
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 59)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ASIAN-PAINTS-LIMITED-M (VRF Id = 497); default RD 9730:21166; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x1F1):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:21166
+  Import VPN route-target communities
+    RT:9730:21166            RT:9730:1401             RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: VIDEO-CONFERENCE-MNG
+  Route limit 5000, warning limit 8% (400), current count 25
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 9341)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF ASTRAL-POLYTECHNIK-H (VRF Id = 42); default RD 9730:16986; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x2A):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:16986
+  Import VPN route-target communities
+    RT:9730:16986            RT:9730:16987            RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 13
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 62)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXA-TECHNOLOGIES-SHARED-M (VRF Id = 46); default RD 9730:12955; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/4.2916               Gi9/0/2.2916
+Address family ipv4 unicast (Table ID = 0x2E):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:12955
+  Import VPN route-target communities
+    RT:9730:12955            RT:9730:87
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-E-NOC-MANAGEMENT
+  Route limit 5000, warning limit 80% (4000), current count 781
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 66)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-MESH (VRF Id = 47); default RD 9730:6925; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/2.639                Gi8/4.685                Gi9/0/2.685
+    Gi8/8.5967               Gi8/20.5233              Gi8/20.5624
+Address family ipv4 unicast (Table ID = 0x2F):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:6925
+  Import VPN route-target communities
+    RT:9730:6925             RT:9730:87               RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING-MNG
+  Route limit 10000, warning limit 80% (8000), current count 3149
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 67)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S (VRF Id = 542); default RD 9730:27357; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x21E):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356            RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING
+  Route limit 5000, warning limit 80% (4000), current count 328
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 6851)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S10 (VRF Id = 554); default RD 9730:27494; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x22A):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356            RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING
+  Route limit 5000, warning limit 80% (4000), current count 328
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 10780)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S13 (VRF Id = 553); default RD 9730:28426; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/15.5882
+Address family ipv4 unicast (Table ID = 0x229):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 331
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 15189)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S14 (VRF Id = 555); default RD 9730:28666; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/8.5647
+Address family ipv4 unicast (Table ID = 0x22B):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 330
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 3105)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S15 (VRF Id = 556); default RD 9730:28667; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/20.5622
+Address family ipv4 unicast (Table ID = 0x22C):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 329
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 7293)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S19 (VRF Id = 557); default RD 9730:28898; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/15.5268
+Address family ipv4 unicast (Table ID = 0x22D):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 331
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 15548)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S2 (VRF Id = 543); default RD 9730:27486; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/4.2998               Gi9/0/2.2998
+Address family ipv4 unicast (Table ID = 0x21F):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 332
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 7137)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S20 (VRF Id = 559); default RD 9730:28899; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/8.5531
+Address family ipv4 unicast (Table ID = 0x22F):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 327
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 7098)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S21 (VRF Id = 560); default RD 9730:28900; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x230):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 324
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 3298)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S22 (VRF Id = 565); default RD 9730:28901; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x235):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356            RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING
+  Route limit 5000, warning limit 80% (4000), current count 328
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 15003)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S3 (VRF Id = 544); default RD 9730:27487; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x220):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356            RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING
+  Route limit 5000, warning limit 80% (4000), current count 328
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 7274)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S4 (VRF Id = 547); default RD 9730:27488; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/4.837                Gi9/0/2.837
+Address family ipv4 unicast (Table ID = 0x223):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356            RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING
+  Route limit 5000, warning limit 80% (4000), current count 332
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 7995)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S5 (VRF Id = 548); default RD 9730:27489; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/4.3855               Gi9/0/2.3855
+Address family ipv4 unicast (Table ID = 0x224):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356            RT:9730:5300
+  No import route-map
+  No global export route-map
+  Export route-map: BHARTI-G-NOC-MONITORING
+  Route limit 5000, warning limit 80% (4000), current count 333
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 15405)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S6 (VRF Id = 549); default RD 9730:27490; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi8/20.5296
+Address family ipv4 unicast (Table ID = 0x225):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 324
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 3561)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S7 (VRF Id = 550); default RD 9730:27491; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x226):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 324
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 13611)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S8 (VRF Id = 551); default RD 9730:27492; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  No interfaces
+Address family ipv4 unicast (Table ID = 0x227):
+  Flags: 0x0
+  Export VPN route-target communities
+    RT:9730:27357
+  Import VPN route-target communities
+    RT:9730:27356
+  No import route-map
+  No global export route-map
+  No export route-map
+  Route limit 5000, warning limit 80% (4000), current count 324
+  VRF label distribution protocol: not configured
+  VRF label allocation mode: per-prefix
+    vrf-conn-aggr for connected and BGP aggregates (Label 8252)
+Address family ipv6 unicast not active
+Address family ipv4 multicast not active
+
+VRF AXIS-BANK-7-S9 (VRF Id = 552); default RD 9730:27493; default VPNID <not set>
+  Old CLI format, supports IPv4 only
+  Flags: 0xC
+  Interfaces:
+    Gi9/0/0.637              Gi8/1.637
+Address family ipv4 unicast (Table ID = 0x228):
+  Flags: 0x0
+  Export VPN route-target communities
+
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#
+AMD-MPL-PE-RTR-208#sh ip rsvp inter

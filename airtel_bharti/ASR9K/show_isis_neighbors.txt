@@ -1,0 +1,19 @@
+RP/0/RP0/CPU0:EBD-BHA-MPL-LTE-PE-RTR-34-123#sh isis neighbors
+Tue Jan 28 17:21:31.560 IST
+
+IS-IS T4 neighbors:
+System Id      Interface        SNPA           State Holdtime Type IETF-NSF
+EBD-MH-BHA-T4-CR9.189 BE101            *PtoP*         Up    29       L2   Capable
+EBD-BHA-MPL-LTE-PE-RTR-34-122 BE51.4           *PtoP*         Up    26       L2   Capable
+JLN-VMJ-MPL-LTE-PE-RTR-34-173 BE53.4           *PtoP*         Up    28       L2   Capable
+DHU-MCR-MPL-LTE-PE-RTR-34-125 BE54.4           *PtoP*         Up    25       L2   Capable
+
+Total neighbor count: 4
+
+IS-IS IGP neighbors:
+System Id      Interface        SNPA           State Holdtime Type IETF-NSF
+EBD-BHA-MPL-LTE-PE-RTR-34-122 BE51.2           *PtoP*         Up    29       L2   Capable
+DHU-MCR-MPL-LTE-PE-RTR-34-125 BE54.2           *PtoP*         Up    28       L2   Capable
+JLN-VMJ-MPL-LTE-PE-RTR-34-173 BE53.2           *PtoP*         Up    26       L2   Capable
+
+Total neighbor count: 3

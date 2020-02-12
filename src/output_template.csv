@@ -1,1 +1,12 @@
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_dir.template,99.9999999999995,8,53,1.8867924528301887,0.2358490566037736
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_access-list.template,71.42857142857143,7,1,100.0,14.285714285714286
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_aliases.template,92.59259259259262,3,9,11.11111111111111,3.7037037037037037
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_archive.template,100.0,1,1,100.0,100.0
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_capability_feature_routing.template,100.00000000000009,2,83,1.2048192771084338,0.6024096385542169
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_clock.template,100.00000000000001,6,1,100.0,16.666666666666668
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_interfaces.template,61.35957066189659,13,43,2.3255813953488373,0.17889087656529518
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_interface_transceiver.template,100.00000000000001,6,1,100.0,16.666666666666668
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_inventory.template,100.00000000000001,5,3,33.333333333333336,6.666666666666667
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_ip_arp.template,100.00000000000001,5,3,33.333333333333336,6.666666666666667
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_ip_bgp_summary.template,100.0,4,1,100.0,25.0
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_ip_bgp.template,80.0,10,1,100.0,10.0

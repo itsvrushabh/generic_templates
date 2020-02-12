@@ -1,0 +1,4 @@
+System Id       Type Interface     IP Address      State Holdtime Circuit Id
+KPR-MPL-LTE-PE- L2   Gi0/0/0       172.23.11.181   UP    24       00
+KPR-MPL-LTE-PE- L2   Gi0/1/0       172.23.11.183   UP    24       00
+KPR-NGS-MPL-T4-ACC-RTR-39-31#

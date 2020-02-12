@@ -1,0 +1,10 @@
+System Id      Type Interface   IP Address      State Holdtime Circuit Id
+JDH-MPL-PE-RTR-L2   Gi9/0/0.22  125.62.162.106  UP    25       01
+AMD-MPL-PE-RTR-L2   Gi8/10      125.62.168.197  UP    26       09
+AMD-MPL-PE-RTR-L2   Gi9/0/1     182.79.225.226  UP    28       0A
+MUM-MPL-LTE-PE-L2   Gi8/9.8     182.79.196.174  UP    21       00
+MUM-MPL-LTE-PE-L2   Gi8/5.3     182.79.210.165  UP    26       00
+UPR-MPL-PE-RTR-L2   Gi8/2.200   202.123.38.146  UP    29       00
+PAL-MPL-PE-RTR-L2   Gi9/0/0.251 202.92.230.82   UP    23       01
+BHV-MPL-PE-RTR-L2   Gi8/2.300   125.62.161.82   UP    29       01
+NDL-MPL-PE-RTR-L2   Gi8/16      182.79.172.62   UP    24       00

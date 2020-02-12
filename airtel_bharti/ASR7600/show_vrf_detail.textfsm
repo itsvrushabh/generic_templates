@@ -1,0 +1,15 @@
+Value ADDRESS1_iv4 (\d+\:\d+)
+Value ADDRESS2_iv4 (\d+\:\d+)
+Value ADDRESS1_iv6 (\d+\:\d+)
+Value ADDRESS2_iv6 (\d+\:\d+)
+
+Start
+  ^Address family ipv4.* -> Jump1
+  ^Address family ipv6.* -> Jump2
+
+Jump1
+  ^\s+RT:${ADDRESS1_iv4}\s+RT:${ADDRESS2_iv4} -> Record
+
+Jump2
+  ^\s+RT:${ADDRESS1_iv6}\s+RT:${ADDRESS2_iv6} -> Record
+  

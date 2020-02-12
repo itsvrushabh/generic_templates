@@ -1,0 +1,55 @@
+Interface              IP-Address      OK? Method Status                Protocol
+Serial1/1/0.1/1/1/1:0  10.62.8.42      YES NVRAM  up                    up
+Serial1/1/0.1/1/1/2:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/1/3:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/2/1:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/2/2:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/2/3:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/3/1:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/3/2:0  unassigned      YES TFTP   down                  down
+Serial1/1/0.1/1/3/3:0  10.100.30.57    YES NVRAM  up                    up
+Serial1/1/0.1/1/4/1:0  10.100.30.69    YES NVRAM  up                    up
+Serial1/1/0.1/1/4/2:0  unassigned      YES unset  down                  down
+Serial1/1/0.1/1/4/3:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/5/1:0  10.101.28.206   YES NVRAM  up                    up
+Serial1/1/0.1/1/5/2:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/5/3:0  unassigned      YES unset  up                    down
+Se1/1/0.1/1/5/3:0.101  unassigned      YES unset  administratively down down
+Se1/1/0.1/1/5/3:0.102  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/6/1:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/1/6/2:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/1/6/3:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/1/7/1:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/1/7/2:0  192.168.1.170   YES NVRAM  up                    down
+Serial1/1/0.1/1/7/3:0  unassigned      YES TFTP   administratively down down
+Serial1/1/0.1/2/1/1:0  unassigned      YES TFTP   down                  down
+Serial1/1/0.1/2/1/2:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/2/1/3:0  10.24.200.229   YES NVRAM  up                    up
+Serial1/1/0.1/2/2/1:0  unassigned      YES TFTP   up                    down
+Serial1/1/0.1/2/2/2:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/2/2/3:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/2/3/1:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/2/3/2:0  unassigned      YES TFTP   down                  down
+Serial1/1/0.1/2/3/3:0  unassigned      YES TFTP   down                  down
+Serial1/1/0.1/2/4/1:0  172.34.125.93   YES NVRAM  administratively down down
+Serial1/1/0.1/2/4/2:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/2/4/3:0  10.254.30.121   YES NVRAM  up                    up
+Serial1/1/0.1/2/5/1:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/2/5/2:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/2/5/3:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/2/6/1:0  10.101.29.217   YES NVRAM  up                    down
+Serial1/1/0.1/2/6/2:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/2/6/3:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/2/7/1:0  unassigned      YES TFTP   down                  down
+Serial1/1/0.1/2/7/2:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/2/7/3:0  unassigned      YES TFTP   up                    down
+Serial1/1/0.1/3/1/1:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/3/1/2:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/3/1/3:0  10.24.174.42    YES manual administratively down down
+Serial1/1/0.1/3/2/1:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/3/2/2:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/3/2/3:0  unassigned      YES unset  up                    down
+Serial1/1/0.1/3/3/1:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/3/3/2:0  unassigned      YES unset  administratively down down
+Serial1/1/0.1/3/3/3:0  unassigned      YES TFTP   up                    down
+Serial1/1/0.1/3/4/1:0  unassigned      YES unset  administratively down down

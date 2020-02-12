@@ -1,0 +1,191 @@
+RP/0/RP0/CPU0:EBD-BHA-MPL-LTE-PE-RTR-34-123#sh bgp all all summary
+Tue Jan 28 17:21:38.762 IST
+
+Address Family: VPNv4 Unicast
+-----------------------------
+
+BGP router identifier 202.123.34.123, local AS number 9730
+BGP generic scan interval 60 secs
+Non-stop routing is enabled
+BGP table state: Active
+Table ID: 0x0   RD version: 0
+BGP main routing table version 275291450
+BGP NSR Initial initsync version 1 (Reached)
+BGP NSR/ISSU Sync-Group versions 275291450/0
+BGP scan interval 60 secs
+
+BGP is operating in STANDALONE mode.
+
+
+Process       RcvTblVer   bRIB/RIB   LabelVer  ImportVer  SendTblVer  StandbyVer
+Speaker       275291450  275291450  275291450  275291450   275291450   275291450
+
+Neighbor        Spk    AS MsgRcvd MsgSent   TblVer  InQ OutQ  Up/Down  St/PfxRcd
+116.119.9.189     0  9730   67135  206753 275291450    0    0     6w4d         24
+202.123.37.10     0  9730 701019976  396132 275291450    0    0    22w0d     231675
+202.123.37.25     0  9730 704445864  396214 275291450    0    0    22w0d     231390
+
+
+Address Family: VPNv6 Unicast
+-----------------------------
+
+BGP router identifier 202.123.34.123, local AS number 9730
+BGP generic scan interval 60 secs
+Non-stop routing is enabled
+BGP table state: Active
+Table ID: 0x0   RD version: 0
+BGP main routing table version 1
+BGP NSR Initial initsync version 1 (Reached)
+BGP NSR/ISSU Sync-Group versions 1/0
+BGP scan interval 60 secs
+
+BGP is operating in STANDALONE mode.
+
+
+Process       RcvTblVer   bRIB/RIB   LabelVer  ImportVer  SendTblVer  StandbyVer
+Speaker               1          1          1          1           1           1
+
+Neighbor        Spk    AS MsgRcvd MsgSent   TblVer  InQ OutQ  Up/Down  St/PfxRcd
+116.119.9.189     0  9730   67135  206753        1    0    0     6w4d          0
+202.123.37.10     0  9730 701019976  396132        1    0    0    22w0d          0
+202.123.37.25     0  9730 704445864  396214        1    0    0    22w0d          0
+
+
+Address Family: IPv4 Labeled-unicast
+------------------------------------
+
+BGP router identifier 202.123.34.123, local AS number 9730
+BGP generic scan interval 60 secs
+Non-stop routing is enabled
+BGP table state: Active
+Table ID: 0xe0000000   RD version: 1886196
+BGP main routing table version 1886196
+BGP NSR Initial initsync version 8 (Reached)
+BGP NSR/ISSU Sync-Group versions 1886196/0
+BGP scan interval 60 secs
+
+BGP is operating in STANDALONE mode.
+
+
+Process       RcvTblVer   bRIB/RIB   LabelVer  ImportVer  SendTblVer  StandbyVer
+Speaker         1886196    1886196    1886196    1886196     1886196     1886196
+
+Neighbor        Spk    AS MsgRcvd MsgSent   TblVer  InQ OutQ  Up/Down  St/PfxRcd
+116.119.9.189     0  9730   67135  206753  1886196    0    0     6w4d          1
+202.123.37.10     0  9730 701019976  396132  1886196    0    0    22w0d       2380
+202.123.37.25     0  9730 704445864  396214  1886196    0    0    22w0d       2383
+
+
+Address Family: IPv4 Unicast
+----------------------------
+
+BGP router identifier 202.123.34.123, local AS number 9730
+BGP generic scan interval 60 secs
+Non-stop routing is enabled
+BGP table state: Active
+Table ID: 0xe0000000   RD version: 1886196
+BGP main routing table version 1886196
+BGP NSR Initial initsync version 8 (Reached)
+BGP NSR/ISSU Sync-Group versions 1886196/0
+BGP scan interval 60 secs
+
+BGP is operating in STANDALONE mode.
+
+
+Process       RcvTblVer   bRIB/RIB   LabelVer  ImportVer  SendTblVer  StandbyVer
+Speaker         1886196    1886196    1886196    1886196     1886196     1886196
+
+
+Address Family: IPv4 MDT
+------------------------
+
+BGP router identifier 202.123.34.123, local AS number 9730
+BGP generic scan interval 60 secs
+Non-stop routing is enabled
+BGP table state: Active
+Table ID: 0xe0000000   RD version: 68260
+BGP main routing table version 68260
+BGP NSR Initial initsync version 1 (Reached)
+BGP NSR/ISSU Sync-Group versions 68260/0
+BGP scan interval 60 secs
+
+BGP is operating in STANDALONE mode.
+
+
+Process       RcvTblVer   bRIB/RIB   LabelVer  ImportVer  SendTblVer  StandbyVer
+Speaker           68260      68260      68260      68260       68260       68260
+
+Neighbor        Spk    AS MsgRcvd MsgSent   TblVer  InQ OutQ  Up/Down  St/PfxRcd
+202.123.37.10     0  9730 701019976  396132    68260    0    0    22w0d       1757
+202.123.37.25     0  9730 704445864  396214    68260    0    0    22w0d       1758
+
+
+Address Family: RT Constraint
+-----------------------------
+
+BGP router identifier 202.123.34.123, local AS number 9730
+BGP generic scan interval 60 secs
+Non-stop routing is enabled
+BGP table state: Active
+Table ID: 0xe0000000   RD version: 121
+BGP main routing table version 121
+BGP NSR Initial initsync version 1 (Reached)
+BGP NSR/ISSU Sync-Group versions 121/0
+BGP scan interval 60 secs
+
+BGP is operating in STANDALONE mode.
+
+
+Process       RcvTblVer   bRIB/RIB   LabelVer  ImportVer  SendTblVer  StandbyVer
+Speaker             121        121        121        121         121         121
+
+Neighbor        Spk    AS MsgRcvd MsgSent   TblVer  InQ OutQ  Up/Down  St/PfxRcd
+116.119.9.189     0  9730   67135  206753      121    0    0     6w4d         34
+202.123.37.10     0  9730 701019976  396132      121    0    0    22w0d          2
+202.123.37.25     0  9730 704445865  396214      121    0    0    22w0d          2
+
+
+Address Family: IPv6 Unicast
+----------------------------
+
+BGP router identifier 202.123.34.123, local AS number 9730
+BGP generic scan interval 60 secs
+Non-stop routing is enabled
+BGP table state: Active
+Table ID: 0xe0800000   RD version: 5
+BGP main routing table version 5
+BGP NSR Initial initsync version 3 (Reached)
+BGP NSR/ISSU Sync-Group versions 5/0
+Dampening enabled
+BGP scan interval 60 secs
+
+BGP is operating in STANDALONE mode.
+
+
+Process       RcvTblVer   bRIB/RIB   LabelVer  ImportVer  SendTblVer  StandbyVer
+Speaker               5          5          5          5           5           5
+
+
+Address Family: L2VPN EVPN
+--------------------------
+
+BGP router identifier 202.123.34.123, local AS number 9730
+BGP generic scan interval 60 secs
+Non-stop routing is enabled
+BGP table state: Active
+Table ID: 0x0   RD version: 0
+BGP main routing table version 14890803
+BGP NSR Initial initsync version 1 (Reached)
+BGP NSR/ISSU Sync-Group versions 14890803/0
+BGP scan interval 60 secs
+
+BGP is operating in STANDALONE mode.
+
+
+Process       RcvTblVer   bRIB/RIB   LabelVer  ImportVer  SendTblVer  StandbyVer
+Speaker        14890803   14890803   14890803   14890803    14890803    14890803
+
+Neighbor        Spk    AS MsgRcvd MsgSent   TblVer  InQ OutQ  Up/Down  St/PfxRcd
+116.119.9.189     0  9730   67135  206753 14890803    0    0     6w4d        139
+202.123.37.10     0  9730 701019978  396132 14890803    0    0    22w0d      42790
+202.123.37.25     0  9730 704445866  396214 14890803    0    0    22w0d      43050

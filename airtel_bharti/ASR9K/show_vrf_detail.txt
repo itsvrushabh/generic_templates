@@ -1,0 +1,625 @@
+RP/0/RP0/CPU0:EBD-BHA-MPL-LTE-PE-RTR-34-123#sh vrf all detail
+Tue Jan 28 17:36:20.775 IST
+
+VRF AKSENTT-TECH-S; RD 9730:39256; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.6789
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:39255
+  Export VPN route-target communities:
+    RT:9730:39256
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF AKSENTT-TECH-S2; RD 9730:39272; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.6773
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:39255
+  Export VPN route-target communities:
+    RT:9730:39256
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF AXIS-BANK-7-MESH; RD 9730:6925; VPN ID not set
+VRF mode: Regular
+Description not set
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:5300
+    RT:9730:6925
+  Export VPN route-target communities:
+    RT:9730:6925
+  No import route policy
+  Export route policy: BHARTI-G-NOC-MONITORING-MNG
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF AXIS-BANK-7-S25; RD 9730:29099; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.8865
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:27356
+  Export VPN route-target communities:
+    RT:9730:27357
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF AXIS-BANK-7-S68; RD 9730:31489; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.8284
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:27356
+  Export VPN route-target communities:
+    RT:9730:27357
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-INDIA-2-Mesh; RD 9730:21236; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.8337
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:5300
+    RT:9730:21236
+  Export VPN route-target communities:
+    RT:9730:21236
+  No import route policy
+  Export route policy: BHARTI-G-NOC-MONITORING-MNG
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S12; RD 9730:33008; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.9200
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S2; RD 9730:32998; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.78955
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S25; RD 9730:34675; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.67102
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S27; RD 9730:34677; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.9118
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S28; RD 9730:34678; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.7714
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S29; RD 9730:34679; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.9860
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S3; RD 9730:32999; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.6321
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S35; RD 9730:34848; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.6556
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S40; RD 9730:34855; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.9205
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S50; RD 9730:37351; VPN ID not set
+VRF mode: Regular
+Description not set
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BANK-OF-MAHARASHTRA-5-S52; RD 9730:37353; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.5644
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:32995
+  Export VPN route-target communities:
+    RT:9730:32996
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BBNL-INTERNET; RD 9730:1000; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.78954
+  Bundle-Ether5.6441
+  Bundle-Ether5.8198
+  Bundle-Ether5.6391
+  Bundle-Ether5.4972
+  Bundle-Ether5.5626
+  Bundle-Ether5.6341
+  Bundle-Ether5.6937
+  Bundle-Ether5.7489
+  Bundle-Ether5.7551
+  Bundle-Ether5.2702
+  Bundle-Ether5.6700
+  Bundle-Ether5.6279
+  Bundle-Ether5.6885
+  Bundle-Ether5.8254
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:1000
+  Export VPN route-target communities:
+    RT:9730:1000
+  No import route policy
+  Export route policy: MPL-INTERNET-WEST
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF BCLD-45-MESH; RD 9730:26831; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether85.555
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:26831
+  Export VPN route-target communities:
+    RT:9730:26831
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF Bajaj-Finance-Ltd-S; RD 9730:25375; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.7208
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:25374
+  Export VPN route-target communities:
+    RT:9730:25375
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF Bajaj-Finance-Ltd-S20; RD 9730:29740; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.9755
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:25374
+  Export VPN route-target communities:
+    RT:9730:25375
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF Bajaj-Finance-Ltd-S3; RD 9730:25540; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.8445
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:25374
+  Export VPN route-target communities:
+    RT:9730:25375
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF Bajaj-Finance-Ltd-S8; RD 9730:26774; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.8858
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:25374
+  Export VPN route-target communities:
+    RT:9730:25375
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF CANARA-BANK-M; RD 9730:2151; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.7891
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:2151
+    RT:9730:5300
+  Export VPN route-target communities:
+    RT:9730:2151
+  No import route policy
+  Export route policy: BHARTI-G-NOC-MONITORING-MNG
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF CBI-M; RD 9730:21673; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.6113
+  Bundle-Ether5.6342
+  Bundle-Ether5.7947
+  Bundle-Ether5.8520
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:5300
+    RT:9730:21673
+  Export VPN route-target communities:
+    RT:9730:21673
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF CHOLAMANDALAM-2-S; RD 9730:2367; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.5750
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:2366
+  Export VPN route-target communities:
+    RT:9730:2367
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF CHOLAMANDALAM-2-S11; RD 9730:30883; VPN ID not set
+VRF mode: Regular
+Description not set
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:2366
+  Export VPN route-target communities:
+    RT:9730:2367
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF CHOLAMANDALAM-S; RD 9730:2022; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.6039
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:2021
+  Export VPN route-target communities:
+    RT:9730:2022
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF CHOLAMANDALAM-S13; RD 9730:29795; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.6913
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:2021
+  Export VPN route-target communities:
+    RT:9730:2022
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF CHOLAMANDALAM-S8; RD 9730:29154; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.9117
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:2021
+  Export VPN route-target communities:
+    RT:9730:2022
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF COMPUTER-AGE-MANAGEMENT-MESH; RD 9730:743; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.6356
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:743
+  Export VPN route-target communities:
+    RT:9730:743
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF DIT-PDC-S3; RD 9730:22895; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.8765
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:87
+    RT:9730:1566
+  Export VPN route-target communities:
+    RT:9730:1567
+  No import route policy
+  Export route policy: BHARTI-E-NOC-MANAGEMENT
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
+
+VRF Dombivili-Nagri-Sahakari-S3; RD 9730:21524; VPN ID not set
+VRF mode: Regular
+Description not set
+Interfaces:
+  Bundle-Ether5.5198
+Address family IPV4 Unicast
+  Import VPN route-target communities:
+    RT:9730:17550
+  Export VPN route-target communities:
+    RT:9730:17551
+  No import route policy
+  No export route policy
+Address family IPV6 Unicast
+  No import VPN route-target communities
+  No export VPN route-target communities
+  No import route policy
+  No export route policy
