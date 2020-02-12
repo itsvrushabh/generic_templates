@@ -19,6 +19,7 @@ try:
      col = db.textfsm_all_record_1
      for x in col.find({"PARSE_OUTPUT" : True, "COMMAND_OUTPUT" : True},{"template":-1, "output":-1}):
          csv_record.append([x['output'], x['template']])
+         
 except Exception as e:
     raise e
 
@@ -27,4 +28,3 @@ else:
 
 client.close()
 
-print(csv_record)

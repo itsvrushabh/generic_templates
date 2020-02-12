@@ -1,0 +1,15 @@
+[
+    {
+        "SERIAL": "",
+        "HARDWARE": "ASR-920-12CZ-D",
+        "ROMMON": "IOS-XE",
+        "UPTIME_HOURS": "2",
+        "UPTIME_MINUTES": "22",
+        "UPTIME_DAYS": "3",
+        "VERSION": "15.5(1)S2",
+        "RUNNING_IMAGE": "/asr920-universalk9_npe.03.14.02.S.155-1.S2-std.bin",
+        "UPTIME_WEEKS": "9",
+        "HOSTNAME": "ASR_920",
+        "CONFIG_REGISTER": "0x2102"
+    }
+]

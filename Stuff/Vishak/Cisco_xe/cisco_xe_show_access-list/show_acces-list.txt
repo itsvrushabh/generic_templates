@@ -11,4 +11,4 @@ Standard IP access list MPLS_Loopbacks
     100 permit 202.123.34.0, wildcard bits 0.0.0.255 (213 matches)
     110 permit 202.123.39.0, wildcard bits 0.0.0.255
     120 permit 116.119.39.0, wildcard bits 0.0.0.255 (5 matches)
-    130 permit 172.23.20.0, wildcard bits 0.0.0.255 (6 matches)
+    130 permit 172.23.20.0, wildcard bits 0.0.0.255 (6 matches)+

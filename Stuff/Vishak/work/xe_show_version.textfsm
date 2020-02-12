@@ -1,0 +1,27 @@
+Value Filldown VERSION (.+?)
+Value Filldown ROMMON (\S+)
+Value Filldown HOSTNAME (\S+)
+Value Filldown UPTIME_WEEKS (\d+)
+Value Filldown UPTIME_DAYS (\d+)
+Value Filldown UPTIME_HOURS (\d+)
+Value Filldown UPTIME_MINUTES (\d+)
+Value Filldown RUNNING_IMAGE (\S+)
+Value Filldown HARDWARE (\S+\d\S+)
+Value Filldown SERIAL (\S+)
+Value CONFIG_REGISTER (\S+)
+
+Start
+  ^.*Software\s.+\),\sVersion\s${VERSION},*\s+RELEASE.*
+  ^ROM: ${ROMMON}
+  ^${HOSTNAME}\s+uptime\s+is\s+${UPTIME_WEEKS}\s+weeks,\s+${UPTIME_DAYS}\s+days,\s+${UPTIME_HOURS}\s+hours,\s+${UPTIME_MINUTES}\s+minutes
+  ^[sS]ystem\s+image\s+file\s+is\s+"(.*?):${RUNNING_IMAGE}"
+  #^[Pp]rocessor\s+board\s+ID\s+${SERIAL}
+  ^[Cc]isco\s+${HARDWARE}.
+  ^[Cc]onfiguration\s+register\s+is\s+${CONFIG_REGISTER}
+  ^Switch Port -> Stack
+
+
+Stack
+  ^[Ss]ystem [Ss]erial [Nn]umber\s+:\s+${SERIAL} -> Record
+  ^[Mm]odel\s+[Nn]umber\s+:\s+${HARDWARE}\s -> Record
+  ^[Cc]onfiguration\s+register\s+is\s+${CONFIG_REGISTER} 
