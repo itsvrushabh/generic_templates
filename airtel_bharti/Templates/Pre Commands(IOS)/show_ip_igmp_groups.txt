@@ -1,0 +1,4 @@
+BHV-MPL-PE-RTR-163#show ip igmp groups
+IGMP Connected Group Membership
+Group Address    Interface                Uptime    Expires   Last Reporter   Group Accounted
+224.0.1.40       Loopback0                5y5w      00:02:57  202.123.47.163  

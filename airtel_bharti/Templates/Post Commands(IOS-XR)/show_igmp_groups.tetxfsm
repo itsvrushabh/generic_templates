@@ -1,0 +1,8 @@
+Value GROUP_ADDRESS (\d+\.\d+\.\d+\.\d+)
+Value INTERFACE (\S+)
+Value UPTIME (\S+)
+Value EXPIRES (\S+)
+Value LAST_REPORTER (\S+)
+
+Start
+  ^${GROUP_ADDRESS}\s+${INTERFACE}\s+${UPTIME}\s+${EXPIRES}\s+${LAST_REPORTER} -> Record

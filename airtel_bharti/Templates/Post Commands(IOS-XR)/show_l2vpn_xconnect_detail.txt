@@ -1,0 +1,49 @@
+RP/0/RSP1/CPU0:BHV-MPL-LTE-PE-RTR-42-164#show l2vpn xconnect detail
+Thu Dec 19 04:05:59.817 IST
+
+Group BVG-NSB-MPL-T4-ACC-RTR-39-69, XC PW-IW270, state is up; Interworking IPv4
+  AC: PW-IW270, state is up
+    Type PW-IW
+    Interface-list: BVG-NSB-MPL-T4-ACC-RTR-39-69
+    Replicate status:
+    Gi0/0/0/4: success
+    MTU 1500; interworking IPv4
+    Internal label: 26484
+    Statistics:
+      packets: received 416, sent 416
+      bytes: received 104965, sent 98702
+  PW: neighbor 116.119.39.69, PW ID 270, state is up ( established )
+    PW class not set, XC ID 0xa0000003
+    Encapsulation MPLS, protocol LDP
+    Source address 202.123.42.164
+    PW type IP, control word enabled, interworking IPv4
+    PW backup disable delay 0 sec
+    Sequencing not set
+    LSP : Up
+
+    PW Status TLV in use
+      MPLS         Local                          Remote                        
+      ------------ ------------------------------ -----------------------------
+      Label        26485                          392                           
+      Group ID     0x2002460                      unknown                       
+      Interface    PW-IW270                       MULX-A208-ETERNAL-MOTOR-PVT-LTD-PLOT-NO.-1858/A-2-BHAVNAGAR-GUJ
+      MTU          1500                           1500                          
+      Control word enabled                        enabled                       
+      PW type      IP                             IP                            
+      VCCV CV type 0x2                            0x2                           
+                   (LSP ping verification)        (LSP ping verification)       
+      VCCV CC type 0x7                            0x2                           
+                   (control word)                                               
+                   (router alert label)           (router alert label)          
+                   (TTL expiry)                                                 
+      ------------ ------------------------------ -----------------------------
+    Incoming Status (PW Status TLV):
+      Status code: 0x0 (Up) in Notification message
+    Outgoing Status (PW Status TLV):
+      Status code: 0x0 (Up) in Notification message
+    MIB cpwVcIndex: 2684354563
+    Create time: 19/12/2019 02:42:22 (01:23:36 ago)
+    Last time status changed: 19/12/2019 02:42:52 (01:23:07 ago)
+    Statistics:
+      packets: received 416, sent 416
+      bytes: received 104965, sent 98702

@@ -1,0 +1,15 @@
+Value SERVER_ADDRESS (\d+\.\d+\.\d+\.\d+\/\d+)
+Value SOCKET_OPENS (\d+)
+Value SOCKET_CLOSES (\d+)
+Value SOCKET_ABORTS (\d+)
+Value SOCKET_ERRORS (\d+)
+Value TOTAL_PACKETS_IN (\d+)
+Value TOTAL_PACKETS_OUT (\d+)
+Value STATUS (\w+)
+Value SINGLE_CONNECT (\w+)
+Value FAMILY (\S+)
+
+Start
+  ^Server\:\s+${SERVER_ADDRESS}\s+opens=${SOCKET_OPENS}\s+closes=${SOCKET_CLOSES}\s+aborts\=${SOCKET_ABORTS}\s+errors\=${SOCKET_ERRORS}
+  ^\s+packets\s+in=${TOTAL_PACKETS_IN}\s+packets\s+out=${TOTAL_PACKETS_OUT}
+  ^\s+status=${STATUS}\s+single-connect=${SINGLE_CONNECT}\s+family=${FAMILY} -> Record

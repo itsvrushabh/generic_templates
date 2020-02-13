@@ -1,0 +1,9 @@
+Value GROUP_RANGE (\S+)
+Value PROTO (\w+)
+Value CLIENT (\w+)
+Value GROUPS (0|1)
+Value RP_ADDRESS (\S+)
+
+Start
+  ^${GROUP_RANGE}\s+${PROTO}\s+${CLIENT}\s+${GROUPS}\s+${RP_ADDRESS} -> Record
+

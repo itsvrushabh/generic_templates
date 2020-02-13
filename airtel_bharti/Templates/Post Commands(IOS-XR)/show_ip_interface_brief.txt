@@ -1,0 +1,145 @@
+BHV-MPL-PE-RTR-163#show ip interface brief
+Interface              IP-Address      OK? Method Status                Protocol
+GigabitEthernet0/1     unassigned      YES NVRAM  standby mode          down    
+GigabitEthernet0/1.2   125.62.146.241  YES NVRAM  standby mode          down    
+GigabitEthernet0/1.111 10.61.82.225    YES manual standby mode          down    
+GigabitEthernet0/1.112 10.63.67.226    YES manual standby mode          down    
+GigabitEthernet0/1.129 172.23.76.150   YES manual standby mode          down    
+GigabitEthernet0/1.210 unassigned      YES unset  standby mode          down    
+GigabitEthernet0/1.211 unassigned      YES unset  standby mode          down    
+GigabitEthernet0/1.212 unassigned      YES unset  standby mode          down    
+GigabitEthernet0/1.300 125.62.161.86   YES NVRAM  standby mode          down    
+GigabitEthernet0/1.301 unassigned      YES unset  standby mode          down    
+GigabitEthernet0/1.502 172.31.66.161   YES NVRAM  standby mode          down    
+GigabitEthernet0/1.503 172.31.66.145   YES NVRAM  standby mode          down    
+GigabitEthernet0/1.505 172.31.66.193   YES NVRAM  standby mode          down    
+GigabitEthernet0/1.507 10.2.171.33     YES manual standby mode          down    
+GigabitEthernet0/1.550 10.61.83.17     YES manual standby mode          down    
+GigabitEthernet0/1.601 unassigned      YES manual deleted               down    
+GigabitEthernet0/1.603 182.72.103.193  YES manual standby mode          down    
+GigabitEthernet0/1.610 172.37.238.129  YES manual standby mode          down    
+GigabitEthernet0/1.611 unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/1.612 unassigned      YES manual deleted               down    
+GigabitEthernet0/1.613 172.34.58.89    YES manual standby mode          down    
+GigabitEthernet0/1.614 10.171.144.70   YES manual standby mode          down    
+GigabitEthernet0/1.615 unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/1.624 unassigned      YES unset  administratively down down    
+GigabitEthernet0/1.632 10.242.6.54     YES manual standby mode          down    
+GigabitEthernet0/1.637 unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/1.639 unassigned      YES manual deleted               down    
+GigabitEthernet0/1.643 unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/1.652 10.171.199.14   YES manual administratively down down    
+GigabitEthernet0/1.654 unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/1.658 unassigned      YES manual deleted               down    
+GigabitEthernet0/1.661 172.37.119.97   YES manual standby mode          down    
+GigabitEthernet0/1.662 unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/1.663 unassigned      YES manual deleted               down    
+GigabitEthernet0/1.665 unassigned      YES manual standby mode          down    
+GigabitEthernet0/1.666 10.171.172.22   YES manual standby mode          down    
+GigabitEthernet0/1.668 10.171.188.234  YES manual standby mode          down    
+GigabitEthernet0/1.680 unassigned      YES TFTP   administratively down down    
+GigabitEthernet0/1.688 unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/1.689 unassigned      YES TFTP   administratively down down    
+GigabitEthernet0/1.692 10.242.6.246    YES manual standby mode          down    
+GigabitEthernet0/1.693 unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/1.694 unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/1.700 unassigned      YES unset  administratively down down    
+GigabitEthernet0/1.711 unassigned      YES unset  administratively down down    
+GigabitEthernet0/1.753 unassigned      YES manual deleted               down    
+GigabitEthernet0/1.786 unassigned      YES unset  administratively down down    
+GigabitEthernet0/1.805 unassigned      YES unset  standby mode          down    
+GigabitEthernet0/1.819 unassigned      YES TFTP   administratively down down    
+GigabitEthernet0/1.820 unassigned      YES manual deleted               down    
+GigabitEthernet0/1.825 unassigned      YES unset  administratively down down    
+GigabitEthernet0/1.826 unassigned      YES TFTP   administratively down down    
+GigabitEthernet0/1.855 172.35.24.153   YES NVRAM  standby mode          down    
+GigabitEthernet0/1.856 unassigned      YES unset  standby mode          down    
+GigabitEthernet0/1.866 172.37.183.21   YES manual standby mode          down    
+GigabitEthernet0/1.887 10.171.196.126  YES manual standby mode          down    
+GigabitEthernet0/1.911 172.35.68.173   YES manual standby mode          down    
+Gi0/1.5999             unassigned      YES TFTP   standby mode          down    
+GigabitEthernet0/2     unassigned      YES NVRAM  up                    up      
+GigabitEthernet0/2.2   125.62.146.241  YES NVRAM  up                    up      
+GigabitEthernet0/2.111 10.61.82.225    YES manual up                    up      
+GigabitEthernet0/2.112 10.63.67.226    YES manual up                    up      
+GigabitEthernet0/2.129 172.23.76.150   YES manual up                    up      
+GigabitEthernet0/2.210 unassigned      YES unset  up                    up      
+GigabitEthernet0/2.211 unassigned      YES unset  up                    up      
+GigabitEthernet0/2.212 unassigned      YES unset  up                    up      
+GigabitEthernet0/2.300 125.62.161.86   YES NVRAM  up                    up      
+GigabitEthernet0/2.301 unassigned      YES unset  up                    up      
+GigabitEthernet0/2.502 172.31.66.161   YES NVRAM  up                    up      
+GigabitEthernet0/2.503 172.31.66.145   YES NVRAM  up                    up      
+GigabitEthernet0/2.505 172.31.66.193   YES NVRAM  up                    up      
+GigabitEthernet0/2.507 10.2.171.33     YES manual up                    up      
+GigabitEthernet0/2.550 10.61.83.17     YES manual up                    up      
+GigabitEthernet0/2.601 unassigned      YES manual deleted               down    
+GigabitEthernet0/2.603 182.72.103.193  YES manual up                    up      
+GigabitEthernet0/2.610 172.37.238.129  YES manual up                    up      
+GigabitEthernet0/2.611 unassigned      YES TFTP   up                    up      
+GigabitEthernet0/2.612 unassigned      YES manual deleted               down    
+GigabitEthernet0/2.613 172.34.58.89    YES manual up                    up      
+GigabitEthernet0/2.614 10.171.144.70   YES manual up                    up      
+GigabitEthernet0/2.615 unassigned      YES TFTP   up                    up      
+GigabitEthernet0/2.624 unassigned      YES unset  administratively down down    
+GigabitEthernet0/2.632 10.242.6.54     YES manual up                    up      
+GigabitEthernet0/2.637 unassigned      YES TFTP   up                    up      
+GigabitEthernet0/2.639 unassigned      YES manual deleted               down    
+GigabitEthernet0/2.643 unassigned      YES TFTP   up                    up      
+GigabitEthernet0/2.652 10.171.199.14   YES manual administratively down down    
+GigabitEthernet0/2.654 unassigned      YES TFTP   up                    up      
+GigabitEthernet0/2.658 unassigned      YES manual deleted               down    
+GigabitEthernet0/2.661 172.37.119.97   YES manual up                    up      
+GigabitEthernet0/2.662 unassigned      YES TFTP   up                    up      
+GigabitEthernet0/2.663 unassigned      YES manual deleted               down    
+GigabitEthernet0/2.665 unassigned      YES manual up                    up      
+GigabitEthernet0/2.666 10.171.172.22   YES manual up                    up      
+GigabitEthernet0/2.668 10.171.188.234  YES manual up                    up      
+GigabitEthernet0/2.680 unassigned      YES TFTP   administratively down down    
+GigabitEthernet0/2.688 unassigned      YES TFTP   up                    up      
+GigabitEthernet0/2.689 unassigned      YES TFTP   administratively down down    
+GigabitEthernet0/2.692 10.242.6.246    YES manual up                    up      
+GigabitEthernet0/2.693 unassigned      YES TFTP   up                    up      
+GigabitEthernet0/2.694 unassigned      YES TFTP   up                    up      
+GigabitEthernet0/2.700 unassigned      YES unset  administratively down down    
+GigabitEthernet0/2.711 unassigned      YES unset  administratively down down    
+GigabitEthernet0/2.753 unassigned      YES manual deleted               down    
+GigabitEthernet0/2.786 unassigned      YES unset  administratively down down    
+GigabitEthernet0/2.805 unassigned      YES unset  up                    up      
+GigabitEthernet0/2.819 unassigned      YES TFTP   administratively down down    
+GigabitEthernet0/2.820 unassigned      YES manual deleted               down    
+GigabitEthernet0/2.825 unassigned      YES unset  administratively down down    
+GigabitEthernet0/2.826 unassigned      YES TFTP   administratively down down    
+GigabitEthernet0/2.855 172.35.24.153   YES NVRAM  up                    up      
+GigabitEthernet0/2.856 unassigned      YES unset  up                    up      
+GigabitEthernet0/2.866 unassigned      YES manual deleted               down    
+GigabitEthernet0/2.887 10.171.196.126  YES manual up                    up      
+GigabitEthernet0/2.911 172.35.68.173   YES manual up                    up      
+Gi0/2.5999             unassigned      YES TFTP   up                    up      
+GigabitEthernet0/3     125.62.161.82   YES NVRAM  up                    up      
+GigabitEthernet0/3.680 unassigned      YES unset  up                    up      
+Serial1/0              unassigned      YES NVRAM  administratively down down    
+Serial1/1              unassigned      YES NVRAM  administratively down down    
+Serial2/0:0            unassigned      YES NVRAM  administratively down down    
+Serial2/1:0            unassigned      YES NVRAM  administratively down down    
+Serial2/2:1            172.34.2.49     YES manual up                    up      
+Serial2/3:0            unassigned      YES NVRAM  down                  down    
+Serial2/4:1            unassigned      YES NVRAM  administratively down down    
+Serial2/5:0            unassigned      YES NVRAM  down                  down    
+Serial2/6:0            unassigned      YES NVRAM  down                  down    
+Serial2/7:0            unassigned      YES NVRAM  down                  down    
+Serial3/0:0            unassigned      YES NVRAM  down                  down    
+Serial3/1:0            unassigned      YES NVRAM  administratively down down    
+Serial3/2:0            unassigned      YES NVRAM  down                  down    
+Serial3/3:0            unassigned      YES NVRAM  down                  down    
+Serial3/4:0            unassigned      YES NVRAM  down                  down    
+Serial3/5:0            unassigned      YES NVRAM  down                  down    
+Serial3/6:0            unassigned      YES NVRAM  down                  down    
+Serial3/7:0            unassigned      YES NVRAM  down                  down    
+Serial4/0              125.62.129.130  YES NVRAM  administratively down down    
+Serial4/1              unassigned      YES NVRAM  down                  down    
+Loopback0              202.123.47.163  YES NVRAM  up                    up      
+Loopback7              202.92.228.138  YES NVRAM  up                    up      
+Loopback68821          unassigned      YES NVRAM  up                    up      
+Loopback412990         unassigned      YES NVRAM  up                    up      
+Tunnel0                202.123.47.163  YES unset  up                    up      

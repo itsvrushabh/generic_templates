@@ -1,0 +1,4 @@
+RP/0/RSP0/CPU0:BHV-MPL-LTE-PE-RTR-42-165#show eigrp neighbors
+Thu Dec 19 04:05:36.058 IST
+
+% EIGRP: EIGRP not configured

@@ -1,0 +1,8 @@
+Value INTFERFACE (\S+)
+Value MAX_BW (\S+)
+Value MAX_FLOW (\S+)
+Value ALLOCATED (\d+\s+\(\s+\S+\))
+Value MAX_SUB (\S+)
+
+Start
+  ^${INTFERFACE}\s+${MAX_BW}\s+${MAX_FLOW}\s+${ALLOCATED}\s+${MAX_SUB} -> Record

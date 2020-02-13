@@ -1,0 +1,9 @@
+RP/0/RSP0/CPU0:BHV-MPL-LTE-PE-RTR-42-165#show ssh
+Thu Dec 19 04:05:31.125 IST
+SSH version : Cisco-2.0 
+
+id       chan pty     location        state           userid    host                  ver authentication connection type
+-------------------------------------------------------------------------------------------------------------------------------
+Incoming sessions
+
+Outgoing sessions

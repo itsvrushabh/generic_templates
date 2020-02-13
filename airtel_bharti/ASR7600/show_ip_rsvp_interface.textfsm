@@ -1,0 +1,9 @@
+Value INTFERFACE (\S+)
+Value RSVP (\S+)
+Value ALLOCATED (\d+)
+Value IF_MAX (\S+)
+Value FLOW_MAX (\S+)
+Value SUB (\d+)
+
+Start
+  ^${INTFERFACE}\s+${RSVP}\s+${ALLOCATED}\s+${IF_MAX}\s+${FLOW_MAX}\s+${SUB} -> Record

@@ -1,0 +1,10 @@
+RP/0/RSP0/CPU0:BHV-MPL-LTE-PE-RTR-42-165#show tacacs
+Thu Dec 19 04:05:31.264 IST
+
+Server: 202.123.47.40/49 opens=3667 closes=3666 aborts=2 errors=0
+        packets in=140754 packets out=141051
+        status=up single-connect=true family=IPv4
+
+Server: 202.123.44.134/49 opens=1 closes=0 aborts=1 errors=0
+        packets in=1 packets out=2
+        status=up single-connect=true family=IPv4

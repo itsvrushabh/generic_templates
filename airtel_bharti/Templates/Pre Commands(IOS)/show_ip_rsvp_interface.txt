@@ -1,0 +1,7 @@
+BHV-MPL-PE-RTR-163#show ip rsvp interface
+interface    rsvp       allocated  i/f max  flow max sub max 
+Gi0/1        ena        0          0           0        0   
+Gi0/1.300    ena        0          61440K   61440K   0   
+Gi0/2        ena        0          0        0        0   
+Gi0/2.300    ena        0          61440K   61440K   0   
+Gi0/3        ena        0          61440K   61440K   0 

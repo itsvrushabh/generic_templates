@@ -1,0 +1,17 @@
+RP/0/RSP1/CPU0:BHV-MPL-LTE-PE-RTR-42-164#show bgp ipv4 unicast summary
+Thu Dec 19 04:05:59.647 IST
+BGP router identifier 202.123.42.164, local AS number 9730
+BGP generic scan interval 60 secs
+Non-stop routing is enabled
+BGP table state: Active
+Table ID: 0xe0000000   RD version: 3820042
+BGP main routing table version 3820042
+BGP NSR Initial initsync version 3608527 (Reached)
+BGP NSR/ISSU Sync-Group versions 3820042/0
+BGP scan interval 60 secs
+
+BGP is operating in STANDALONE mode.
+
+
+Process       RcvTblVer   bRIB/RIB   LabelVer  ImportVer  SendTblVer  StandbyVer
+Speaker         3820042    3820042    3820042    3820042     3820042     3820042

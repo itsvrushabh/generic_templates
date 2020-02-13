@@ -1,0 +1,25 @@
+BHV-MPL-PE-RTR-163#show ip ssh
+SSH Enabled - version 2.0
+Authentication timeout: 60 secs; Authentication retries: 2
+BHV-MPL-PE-RTR-163#show tacacs
+
+Tacacs+ Server            : 202.123.47.40/49
+              Socket opens:     228882
+             Socket closes:     228879
+             Socket aborts:          0
+             Socket errors:          0
+           Socket Timeouts:         10
+   Failed Connect Attempts:         55
+        Total Packets Sent:     264979
+        Total Packets Recv:     264925
+
+
+Tacacs+ Server            : 202.123.44.134/49
+              Socket opens:        243
+             Socket closes:        243
+             Socket aborts:          0
+             Socket errors:          0
+           Socket Timeouts:          0
+   Failed Connect Attempts:          5
+        Total Packets Sent:        355
+        Total Packets Recv:        354

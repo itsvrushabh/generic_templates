@@ -1,0 +1,22 @@
+RP/0/RSP0/CPU0:BHV-MPL-LTE-PE-RTR-42-165#show igmp groups
+Thu Dec 19 04:05:35.467 IST
+IGMP Connected Group Membership
+Group Address   Interface                     Uptime    Expires   Last Reporter
+224.0.0.2       Loopback0                     29w0d     never     202.123.42.165
+224.0.0.13      Loopback0                     29w0d     never     202.123.42.165
+224.0.0.22      Loopback0                     29w0d     never     202.123.42.165
+224.0.1.40      Loopback0                     29w0d     never     202.123.42.165
+224.0.0.2       Bundle-Ether8.2               24w1d     never     182.79.166.239
+224.0.0.13      Bundle-Ether8.2               16:07:35  never     182.79.166.239
+224.0.0.22      Bundle-Ether8.2               16:07:35  never     182.79.166.239
+224.0.0.2       Bundle-Ether10.2              29w0d     never     182.79.195.2
+224.0.0.13      Bundle-Ether10.2              3w6d      never     182.79.195.2
+224.0.0.22      Bundle-Ether10.2              3w6d      never     182.79.195.2
+224.0.0.2       Bundle-Ether53.2              29w0d     never     116.119.31.145
+224.0.0.13      Bundle-Ether53.2              1d05h     never     116.119.31.145
+224.0.0.22      Bundle-Ether53.2              1d05h     never     116.119.31.145
+224.0.0.2       Bundle-Ether56.2              14w6d     never     116.119.40.147
+224.0.0.13      Bundle-Ether56.2              14w6d     never     116.119.40.147
+224.0.0.22      Bundle-Ether56.2              14w6d     never     116.119.40.147
+224.0.0.2       Bundle-Ether10.12             1w1d      never     0.0.0.0
+224.0.0.2       GigabitEthernet0/0/0/7        1w1d      never     0.0.0.0

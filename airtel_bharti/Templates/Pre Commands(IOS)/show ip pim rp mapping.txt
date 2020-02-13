@@ -1,0 +1,5 @@
+BHV-MPL-PE-RTR-163#show ip pim rp mapping
+PIM Group-to-RP Mappings
+
+Acl: ASM-RANGE-BHARTI, Static-Override
+    RP: 202.123.47.254 (?)

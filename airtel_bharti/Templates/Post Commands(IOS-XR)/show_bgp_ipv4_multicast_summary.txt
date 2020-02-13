@@ -1,0 +1,3 @@
+RP/0/RSP0/CPU0:BHV-MPL-LTE-PE-RTR-42-165#show bgp ipv4 multicast summary
+Thu Dec 19 04:05:35.895 IST
+% None of the requested address families are configured for instance 'default'(29680)
