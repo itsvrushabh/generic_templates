@@ -1,0 +1,12 @@
+aaa authentication login default group tacacs+ local
+aaa authorization exec default group tacacs+ local 
+aaa authorization commands 0 default group tacacs+ if-authenticated 
+aaa authorization commands 1 default group tacacs+ if-authenticated 
+aaa authorization commands 15 default group tacacs+ if-authenticated 
+aaa accounting commands 0 default start-stop group tacacs+
+aaa accounting commands 1 default start-stop group tacacs+
+aaa accounting commands 15 default start-stop group tacacs+
+ip tacacs source-interface Loopback0 
+tacacs-server host 202.123.47.40
+tacacs-server host 202.123.44.134
+tacacs-server key 7 094F471A1A0A

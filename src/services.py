@@ -1,10 +1,18 @@
-
-from __future__ import absolute_import
+    from __future__ import absolute_import
 import sys
 import datetime
 from textfsm import TextFSM
-import netmiko
+from pymongo import MongoClient
+import urllib.parse
+username = urllib.parse.quote_plus('web_clm')
+password = urllib.parse.quote_plus('cisco123')
 
+
+client = MongoClient('mongodb://%s:%s@192.168.110.208/?authSource=clm&authMechanism=SCRAM-SHA-1' % (username, password))
+
+db = client.clm
+
+mycol = db.textfsm_all_results
 
 class TextFSMHandler:
     """
@@ -62,6 +70,18 @@ class TextFSMHandler:
         print("Percentage_of_Record" ,percetange_of_record)
         print("Percentage_of_attribute" ,percetange_of_attribute)
         print("-".center(100, "-"))
+        
+        record = {
+            "Template_name": temp_name,
+            "No_of_Header": no_of_header_attribute,
+            "Accuracy": template_percetange,
+            "Percentage_of_Record": percetange_of_record,
+            "No_of_Records": no_of_records,
+            "Percentage_of_attribute": percetange_of_attribute
+
+        }
+
+        result = mycol.insert_one(record)
 
         csv_output_record = temp_name+","+str(template_percetange)+","+str(no_of_header_attribute)+","+str(no_of_records)+","+str(percetange_of_record)+","+str(percetange_of_attribute)
         self.insert_to_csv(csv_output_record)

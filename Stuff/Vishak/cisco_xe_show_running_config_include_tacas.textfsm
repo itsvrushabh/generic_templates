@@ -1,0 +1,8 @@
+Value IP (\d+\.\d+\.\d+\.\d+|[\w+\d+:]+)
+Value IP_TACACS_SOURCE_INTERFACE (ip tacacs source-interface Loopback0)
+Value TACACS_SERVER_KEY (\S+\s+\S+)
+    
+Start  
+  ^${IP_TACACS_SOURCE_INTERFACE}
+  ^tacacs\-server\s+key\s+${TACACS_SERVER_KEY} 
+  ^tacacs\-server\s+host\s+${IP}
