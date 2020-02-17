@@ -1,8 +1,7 @@
-Value Source (\w+\d\/\d\/\d|\w+\d|\w\w\w\w\s\w+\s\d\/\d\/\d)
-Value Time (\w+\s\d+\s\d+\s\d+:\d+:\d+)
-Value Severity (\w+)
-Value Syslog (\w+_\w+_\w+_\w+|\w+_\w+)
-Value Description (\w+\s\w+[\s+\w+\s+\w+\s+\w+]+\[\d\])
+Value SOURCE (\w+\d\/\d\/\d|\w+\d|\w\w\w\w\s\w+\s\d\/\d\/\d)
+Value TIME (\w+\s\d+\s\d+\s\d+:\d+:\d+)
+Value SEVERITY (\w+)
+Value DESCRIPTION (\w+\s\w+[\s+\w+\s+\w+\s+\w+]+\[\d\])
 
 Start
-  ^${Source}\s+${Time}\s+${Severity}\s+${Syslog}\s+${Description} -> Record
+  ^${SOURCE}\s+${TIME}\s+${SEVERITY}\s+${DESCRIPTION} -> Record

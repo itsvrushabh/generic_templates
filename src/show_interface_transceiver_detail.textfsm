@@ -1,0 +1,3 @@
+Value Port (\S+)
+Value TEMPERATURE (\d+\.\d+)
+Value HIGH_ALARM_THRESHOLD 

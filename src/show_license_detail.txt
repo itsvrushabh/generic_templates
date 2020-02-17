@@ -1,0 +1,4 @@
+Value TEST (\S+)
+
+Start
+    ^${TEST} -> Record
