@@ -1,14 +1,1 @@
-Standard IP access list MPLS_Loopbacks
-    10 permit 63.218.164.7
-    20 permit 63.218.144.13
-    30 permit 202.123.47.0, wildcard bits 0.0.0.255 (187 matches)
-    40 permit 202.123.37.0, wildcard bits 0.0.0.255 (222 matches)
-    50 permit 125.62.169.0, wildcard bits 0.0.0.255
-    60 permit 203.101.87.0, wildcard bits 0.0.0.255
-    70 permit 125.62.160.128, wildcard bits 0.0.0.127
-    80 permit 202.123.42.0, wildcard bits 0.0.0.255 (233 matches)
-    90 permit 202.123.43.0, wildcard bits 0.0.0.255 (270 matches)
-    100 permit 202.123.34.0, wildcard bits 0.0.0.255 (213 matches)
-    110 permit 202.123.39.0, wildcard bits 0.0.0.255
-    120 permit 116.119.39.0, wildcard bits 0.0.0.255 (5 matches)
-    130 permit 172.23.20.0, wildcard bits 0.0.0.255 (6 matches)+
+If customers at petrol pump arrive at an average of 4 customers in 2 minutes. What is the probability of exactly 5 customers arriving in the 6-minute interval
