@@ -51,7 +51,7 @@
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_class-map.template,16.666666666666668,18,2,50.0,2.7777777777777777
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_ip_int_brief.template,99.99999999999991,4,11,9.090909090909092,2.272727272727273
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_logging.template,100.0,1,4,25.0,25.0
-/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_tacacs.template,50.0,2,2,50.0,25.0
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_tacacs.template,99.99999999999994,13,2,50.0,3.8461538461538463
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_bgp_all_summary.template,100.0,1,1,100.0,100.0
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_snmp_host.template,83.3333333333333,6,14,7.142857142857143,1.1904761904761905
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_clock.textfsm,100.00000000000001,6,1,100.0,16.666666666666668
@@ -79,7 +79,7 @@
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_facility-alarm_status.template,100.0,5,8,12.5,2.5
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_ntp_status.template,64.28571428571429,14,1,100.0,7.142857142857143
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_key_chain.template,100.0,5,1,100.0,20.0
-/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_tacacs.template,50.0,2,2,50.0,25.0
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_tacacs.template,99.99999999999994,13,2,50.0,3.8461538461538463
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_logging.template,100.0,1,4,25.0,25.0
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_interfaces.textfsm,56.81818181818186,16,11,9.090909090909092,0.5681818181818182
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_physical_interface_config.template,100.0,1,1,100.0,100.0
@@ -113,7 +113,7 @@
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_facility-alarm_status.template,100.0,5,8,12.5,2.5
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_ntp_status.template,64.28571428571429,14,1,100.0,7.142857142857143
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_key_chain.template,100.0,5,1,100.0,20.0
-/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_tacacs.template,50.0,2,2,50.0,25.0
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_tacacs.template,99.99999999999994,13,2,50.0,3.8461538461538463
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_logging.template,100.0,1,4,25.0,25.0
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_interfaces.textfsm,56.81818181818186,16,11,9.090909090909092,0.5681818181818182
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_physical_interface_config.template,100.0,1,1,100.0,100.0
@@ -175,6 +175,6 @@
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_class-map.template,16.666666666666668,18,2,50.0,2.7777777777777777
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_ip_int_brief.template,99.99999999999991,4,11,9.090909090909092,2.272727272727273
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_logging.template,100.0,1,4,25.0,25.0
-/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_tacacs.template,50.0,2,2,50.0,25.0
+/var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_tacacs.template,99.99999999999994,13,2,50.0,3.8461538461538463
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_bgp_all_summary.template,100.0,1,1,100.0,100.0
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_snmp_host.template,83.3333333333333,6,14,7.142857142857143,1.1904761904761905
