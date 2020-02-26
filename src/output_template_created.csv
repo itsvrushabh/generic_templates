@@ -1,4 +1,4 @@
-Template Location,Accuray,No of Header,No of Records,Percentage_of_Record,Percentage_of_attribute,Comments
+    Template Location,Accuray,No of Header,No of Records,Percentage_of_Record,Percentage_of_attribute,Comments
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_dir.template,100,8,53,1.8867924528,0.2358490566,
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_running-config_partition_access-list.template,14.0329835082,23,145,0.6896551724,0.0299850075,Command Output as doesn't have all Values
 /var/www/html/CloseLoopMonitoringPython/cisco_templates/cisco_xe_show_running-config_partition_access-list.template,14.0329835082,23,145,0.6896551724,0.0299850075,Command Output as doesn't have all Values
